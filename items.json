@@ -1,529 +1,471 @@
 [
   {
-    "title": "Improved Pedestrian Crossing",
-    "description": "This measure involves enhancing pedestrian crossings to increase safety.",
+    "title": "SSA Scoring",
+    "description": "Guidelines and methodology for Safe System Assessment (SSA) scoring to align infrastructure projects with safety principles, focusing on crash reduction and project design improvements.",
     "notable_practices": [
-      "Install flashing lights at crosswalks",
-      "Use high-visibility crosswalk markings"
+      "Use Safe System Matrix for evaluating safety alignment.",
+      "Conduct assessments during early project phases to influence design."
     ],
-    "advantages": ["Improves pedestrian safety", "Reduces crossing accidents"],
+    "advantages": [
+      "Promotes data-driven decision-making.",
+      "Enhances project alignment with safety objectives."
+    ],
     "drawbacks": [
-      "Expensive to install and maintain",
-      "May slow down traffic flow"
+      "Requires time-intensive assessments.",
+      "Scoring may be subjective, leading to inconsistency."
     ],
     "images": [
-      "https://place-hold.it/300x200?text=Image+1",
-      "https://place-hold.it/300x200?text=Image+2"
+      "https://place-hold.it/300x200?text=SSA+Matrix",
+      "https://place-hold.it/300x200?text=SSA+Process"
     ],
     "references": [
-      "Pedestrian Safety Report, 2022",
-      "Urban Planning Best Practices, 2021"
+      "Austroads (2016). Safe System Assessment Framework.",
+      "VicRoads (2018). Safe System Assessment Guidelines."
     ],
     "related_measures": [
       {
-        "title": "Traffic Calming",
-        "link": "https://example.com/traffic-calming"
+        "title": "Road Safety Audits",
+        "link": "https://www.dpti.sa.gov.au/standards/roads-all#roaddesignoutputs"
       },
       {
-        "title": "School Zone Safety Enhancements",
-        "link": "https://example.com/school-zone-safety"
+        "title": "Supporting Treatments for Crash Risk",
+        "link": "https://www.dpti.sa.gov.au/standards/roads-all#roaddesignoutputs"
       }
     ],
-    "pdf": "https://example.com/report_1.pdf",
+    "pdf": "/core/docs/NewSSA/0 SSA Scoring.pdf",
     "group": "Group 1",
-    "categories": ["Pedestrian", "Young Drivers", "Speeding related"]
-  },
-  {
-    "title": "Speed Cameras",
-    "description": "Automated speed enforcement using cameras to catch speeding drivers.",
-    "notable_practices": [
-      "Install speed cameras in high-risk areas",
-      "Post signs to warn drivers of camera enforcement"
-    ],
-    "advantages": [
-      "Reduces speeding in key locations",
-      "Automated enforcement reduces human error"
-    ],
-    "drawbacks": ["Expensive to install", "Privacy concerns among the public"],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+3",
-      "https://place-hold.it/300x200?text=Image+4"
-    ],
-    "references": [
-      "Automated Enforcement Study, 2020",
-      "Traffic Control Technologies, 2019"
-    ],
-    "related_measures": [
-      {
-        "title": "Traffic Light Enforcement",
-        "link": "https://example.com/traffic-light-enforcement"
-      },
-      { "title": "Speed Bumps", "link": "https://example.com/speed-bumps" }
-    ],
-    "pdf": "https://example.com/report_2.pdf",
-    "group": "Group 3",
-    "categories": ["Speeding related", "VRUs", "Intersection Related"]
-  },
-  {
-    "title": "Vehicle-to-Infrastructure Communication",
-    "description": "Technology that allows vehicles to communicate with traffic signals and other infrastructure to improve safety and traffic flow.",
-    "notable_practices": [
-      "Implement real-time traffic signal control",
-      "Deploy connected vehicle technology at intersections"
-    ],
-    "advantages": [
-      "Enhances traffic flow",
-      "Reduces the likelihood of collisions"
-    ],
-    "drawbacks": [
-      "Requires significant investment",
-      "Technology reliability concerns"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+5",
-      "https://place-hold.it/300x200?text=Image+6"
-    ],
-    "references": [
-      "Smart Transportation Systems, 2021",
-      "V2X Communication Research, 2020"
-    ],
-    "related_measures": [
-      {
-        "title": "Adaptive Traffic Control",
-        "link": "https://example.com/adaptive-traffic-control"
-      },
-      {
-        "title": "Smart Traffic Lights",
-        "link": "https://example.com/smart-traffic-lights"
-      }
-    ],
-    "pdf": "https://example.com/report_3.pdf",
-    "group": "Group 2",
-    "categories": ["Head-on crashes", "Unlicensed and Revoked", "Seatbelt use"]
-  },
-  {
-    "title": "Public Bicycle Rental System",
-    "description": "A city-wide bicycle rental system to reduce traffic congestion and improve mobility.",
-    "notable_practices": [
-      "Install bike-sharing stations at major intersections",
-      "Offer affordable rental pricing"
-    ],
-    "advantages": ["Reduces congestion", "Promotes eco-friendly transport"],
-    "drawbacks": [
-      "Requires high upfront investment",
-      "Needs ongoing maintenance"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+7",
-      "https://place-hold.it/300x200?text=Image+8"
-    ],
-    "references": ["Bicycle Rental Study, 2021", "Urban Mobility Report, 2020"],
-    "related_measures": [
-      { "title": "Bike Lanes", "link": "https://example.com/bike-lanes" },
-      {
-        "title": "Traffic Calming",
-        "link": "https://example.com/traffic-calming"
-      }
-    ],
-    "pdf": "https://example.com/report_4.pdf",
-    "group": "Group 1",
-    "categories": ["Bicycle", "Pedestrian", "Run-off-road"]
-  },
-  {
-    "title": "Alcohol-Impaired Driving Enforcement",
-    "description": "Law enforcement campaigns to reduce driving under the influence (DUI) incidents.",
-    "notable_practices": [
-      "Set up random DUI checkpoints",
-      "Launch public awareness campaigns"
-    ],
-    "advantages": [
-      "Reduces accidents caused by impaired drivers",
-      "Increases public awareness of DUI laws"
-    ],
-    "drawbacks": [
-      "May lead to false positives at checkpoints",
-      "Requires significant police resources"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+9",
-      "https://place-hold.it/300x200?text=Image+10"
-    ],
-    "references": ["DUI Enforcement Study, 2019", "Public Safety Report, 2021"],
-    "related_measures": [
-      {
-        "title": "Seatbelt Enforcement",
-        "link": "https://example.com/seatbelt-enforcement"
-      },
-      {
-        "title": "Distracted Driving Campaigns",
-        "link": "https://example.com/distracted-driving-campaigns"
-      }
-    ],
-    "pdf": "https://example.com/report_5.pdf",
-    "group": "Group 4",
-    "categories": ["Alcohol-related", "Aggressive driving", "VRUs"]
-  },
-  {
-    "title": "Roundabout Installation",
-    "description": "Roundabouts are installed at intersections to reduce accidents and improve traffic flow.",
-    "notable_practices": [
-      "Use roundabouts in place of signal-controlled intersections",
-      "Educate drivers on roundabout use"
-    ],
-    "advantages": ["Reduces severe accidents", "Improves traffic flow"],
-    "drawbacks": [
-      "Requires driver education",
-      "Can be confusing for some drivers"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+11",
-      "https://place-hold.it/300x200?text=Image+12"
-    ],
-    "references": [
-      "Intersection Safety Report, 2020",
-      "Traffic Engineering Journal, 2021"
-    ],
-    "related_measures": [
-      {
-        "title": "Signal Timing Optimization",
-        "link": "https://example.com/signal-timing-optimization"
-      },
-      { "title": "Speed Humps", "link": "https://example.com/speed-humps" }
-    ],
-    "pdf": "https://example.com/report_6.pdf",
-    "group": "Group 2",
-    "categories": ["Intersection Related", "Bicycle", "Young Drivers"]
-  },
-  {
-    "title": "Pedestrian Countdown Signals",
-    "description": "Countdown timers at pedestrian crossings to improve safety.",
-    "notable_practices": [
-      "Install countdown timers at major pedestrian crossings",
-      "Coordinate signals with traffic lights"
-    ],
-    "advantages": [
-      "Increases pedestrian safety",
-      "Reduces uncertainty for pedestrians"
-    ],
-    "drawbacks": [
-      "Can be expensive to install city-wide",
-      "Requires maintenance of electronics"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+13",
-      "https://place-hold.it/300x200?text=Image+14"
-    ],
-    "references": [
-      "Pedestrian Safety Study, 2020",
-      "Urban Traffic Report, 2021"
-    ],
-    "related_measures": [
-      {
-        "title": "Pedestrian Crossing Signals",
-        "link": "https://example.com/pedestrian-crossing-signals"
-      },
-      {
-        "title": "Traffic Signal Synchronization",
-        "link": "https://example.com/traffic-signal-synchronization"
-      }
-    ],
-    "pdf": "https://example.com/report_7.pdf",
-    "group": "Group 3",
-    "categories": ["VRUs", "Utility poles, Trees", "Alcohol-related"]
-  },
-  {
-    "title": "Aggressive Driving Enforcement",
-    "description": "Law enforcement efforts to curb aggressive driving behaviors.",
-    "notable_practices": [
-      "Implement roadside speed traps",
-      "Increase fines for aggressive driving"
-    ],
-    "advantages": [
-      "Deters dangerous driving behaviors",
-      "Improves overall road safety"
-    ],
-    "drawbacks": [
-      "Requires significant law enforcement resources",
-      "Potential for public backlash"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+15",
-      "https://place-hold.it/300x200?text=Image+16"
-    ],
-    "references": [
-      "Aggressive Driving Report, 2021",
-      "Traffic Safety Campaigns, 2020"
-    ],
-    "related_measures": [
-      { "title": "Speed Cameras", "link": "https://example.com/speed-cameras" },
-      {
-        "title": "DUI Checkpoints",
-        "link": "https://example.com/dui-checkpoints"
-      }
-    ],
-    "pdf": "https://example.com/report_8.pdf",
-    "group": "Group 6",
-    "categories": ["Aggressive driving", "Seatbelt use", "Pedestrian"]
-  },
-  {
-    "title": "Seatbelt Enforcement Campaign",
-    "description": "Law enforcement campaigns focused on increasing seatbelt use.",
-    "notable_practices": [
-      "Organize 'Click it or Ticket' campaigns",
-      "Increase fines for non-compliance"
-    ],
-    "advantages": [
-      "Improves occupant safety",
-      "Reduces fatalities in accidents"
-    ],
-    "drawbacks": [
-      "Requires continuous enforcement",
-      "Can be costly to implement"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+17",
-      "https://place-hold.it/300x200?text=Image+18"
-    ],
-    "references": [
-      "Seatbelt Safety Report, 2020",
-      "National Highway Safety Report, 2019"
-    ],
-    "related_measures": [
-      {
-        "title": "DUI Enforcement",
-        "link": "https://example.com/dui-enforcement"
-      },
-      {
-        "title": "Distracted Driving Campaign",
-        "link": "https://example.com/distracted-driving-campaign"
-      }
-    ],
-    "pdf": "https://example.com/report_9.pdf",
-    "group": "Group 3",
-    "categories": ["Seatbelt use", "Bicycle", "Work zone collisions"]
-  },
-  {
-    "title": "Distracted Driving Awareness Campaign",
-    "description": "Public awareness campaigns to reduce distracted driving, particularly mobile phone use.",
-    "notable_practices": [
-      "Create public service announcements",
-      "Implement fines for mobile phone use while driving"
-    ],
-    "advantages": [
-      "Increases awareness of risks",
-      "Reduces distracted driving accidents"
-    ],
-    "drawbacks": ["Difficult to enforce", "May not reach all demographics"],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+19",
-      "https://place-hold.it/300x200?text=Image+20"
-    ],
-    "references": [
-      "Distracted Driving Campaign, 2019",
-      "Mobile Safety Report, 2021"
-    ],
-    "related_measures": [
-      {
-        "title": "Texting While Driving Laws",
-        "link": "https://example.com/texting-while-driving-laws"
-      },
-      {
-        "title": "Hands-free Technology",
-        "link": "https://example.com/hands-free-technology"
-      }
-    ],
-    "pdf": "https://example.com/report_10.pdf",
-    "group": "Group 5",
     "categories": [
-      "Distracted drivers",
-      "Head-on crashes",
+      "US",
+      "Road Safety",
+      "Intersection Related",
+      "Pedestrian",
+      "Run-off-road"
+    ]
+  },
+  {
+    "title": "A Safe System Approach to Speed Limit Setting",
+    "description": "Case studies and recommendations on applying Safe System principles to speed limit setting, focusing on multi-modal safety and crash reduction.",
+    "notable_practices": [
+      "Prioritize speed limit changes based on land use context.",
+      "Combine speed reductions with safety interventions."
+    ],
+    "advantages": [
+      "Reduces speed-related collisions.",
+      "Improves safety for vulnerable road users."
+    ],
+    "drawbacks": [
+      "Administrative barriers may hinder adoption.",
+      "Speed safety cameras are restricted in some areas."
+    ],
+    "images": ["https://place-hold.it/300x200?text=Speed+Limit+Setting"],
+    "references": [
+      "California Department of Transportation (2023). Speed Management.",
+      "Vision Zero: Safer Streets for Seattle (2019)."
+    ],
+    "related_measures": [
+      {
+        "title": "Vision Zero",
+        "link": "https://www.seattle.gov/transportation/projects-and-programs/safety-first/vision-zero"
+      },
+      {
+        "title": "Safe System Guidelines",
+        "link": "https://www.fhwa.dot.gov/saferoads/safe-system-approach"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/0 Survey ca234007finalreportasafesystemapproachtospeedlimitsetting2023816a11y.pdf",
+    "group": "Group 2",
+    "categories": ["US", "Speed Management", "Urban Planning", "Pedestrian"]
+  },
+  {
+    "title": "Using Safe Systems Approach to Assess Traffic Impact and Land Development",
+    "description": "This report evaluates how Safe Systems principles can be integrated into traffic impact assessments (TIA) to enhance road user safety and guide land development practices.",
+    "notable_practices": [
+      "Integrate Safe Systems metrics into development review processes.",
+      "Advance safety-centered outcome metrics for traffic planning."
+    ],
+    "advantages": [
+      "Improves safety assessments in land development projects.",
+      "Encourages proactive safety planning across public and private sectors."
+    ],
+    "drawbacks": [
+      "Challenges in integrating safety metrics into traditional TIA processes.",
+      "Complex narratives around safety and congestion management."
+    ],
+    "images": ["https://place-hold.it/300x200?text=Traffic+Impact+Assessment"],
+    "references": [
+      "UNC Road Safety Research Center, 2022.",
+      "U.S. DOT National University Transportation Center."
+    ],
+    "related_measures": [
+      {
+        "title": "Safe Systems Framework",
+        "link": "https://www.roadsafety.unc.edu"
+      },
+      {
+        "title": "Traffic Impact Assessment Guidelines",
+        "link": "https://www.fhwa.dot.gov/saferoads"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/0 Survey CSCRS-R35-Final-Report.pdf",
+    "group": "Group 2",
+    "categories": ["US", "Road Safety", "Traffic Planning", "Urban Development"]
+  },
+  {
+    "title": "Lorain County Comprehensive Safety Action Plan (CSAP)",
+    "description": "A public survey to collect feedback on transportation safety for the Lorain County Safety Action Plan, focusing on crash elimination through community engagement and safe system strategies.",
+    "notable_practices": [
+      "Engage community members through surveys and open houses.",
+      "Apply Safe System strategies for eliminating fatal and serious injury crashes."
+    ],
+    "advantages": [
+      "Gathers community input to influence transportation investments.",
+      "Supports multi-modal safety improvements."
+    ],
+    "drawbacks": [
+      "Requires continuous community engagement and feedback.",
+      "Implementation may face budget constraints."
+    ],
+    "images": ["https://place-hold.it/300x200?text=Lorain+County+CSAP"],
+    "references": [
+      "Lorain County Transportation Safety Survey, 2023.",
+      "U.S. DOT Safe System Guidelines."
+    ],
+    "related_measures": [
+      {
+        "title": "Safe System Approach",
+        "link": "https://www.transportation.gov/NRSS/SafeSystem"
+      },
+      {
+        "title": "Vision Zero Network",
+        "link": "https://visionzeronetwork.org"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/0 Survey Lorain_County_CSAP_Survey_English-4.pdf",
+    "group": "Group 3",
+    "categories": [
+      "US",
+      "Community Engagement",
+      "Pedestrian",
+      "Crash Prevention"
+    ]
+  },
+  {
+    "title": "Addressing Fatal & Serious Injuries through the Safe System Approach",
+    "description": "This report presents a comprehensive review of the Safe System Approach, focusing on strategies to reduce fatal and serious injuries (FSI) on roads. It explores principles, elements, and case studies of Safe System adoption both globally and in the United States. The report emphasizes the importance of transportation equity and the role of strategic planning in achieving Vision Zero objectives.",
+    "notable_practices": [
+      "Use data-driven approaches to identify and mitigate traffic risks.",
+      "Adopt Vision Zero and Safe System principles in strategic highway safety planning."
+    ],
+    "advantages": [
+      "Reduces fatal and serious injuries effectively.",
+      "Promotes transportation equity by prioritizing vulnerable road users."
+    ],
+    "drawbacks": [
+      "Requires significant coordination among stakeholders.",
+      "May face challenges in changing existing infrastructure and behavior patterns."
+    ],
+    "images": ["https://place-hold.it/300x200?text=SSA+Image"],
+    "references": [
+      "FHWA (2022). The Safe System Approach.",
+      "NJBPRC (2022). Addressing Imbalance: Equity in Transportation."
+    ],
+    "related_measures": [
+      {
+        "title": "Vision Zero Network",
+        "link": "https://visionzeronetwork.org"
+      },
+      {
+        "title": "FHWA Safe System Primer",
+        "link": "https://www.fhwa.dot.gov/saferoads"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/SSA_Aggressive01.pdf",
+    "group": "Group 2",
+    "categories": [
+      "US",
+      "Safer Roads",
+      "Pedestrian",
+      "Speeding related",
       "Aggressive driving"
     ]
   },
   {
-    "title": "Heavy Truck Restrictions in City Centers",
-    "description": "Limiting the access of heavy trucks in city centers to reduce accidents and improve traffic flow.",
+    "title": "Vision Zero and the Safe System Approach: A Primer for Canada",
+    "description": "This document introduces the Vision Zero philosophy and the Safe System Approach, emphasizing their role in reducing road traffic fatalities and serious injuries. It outlines the key principles, strategies, and frameworks required to integrate these approaches into Canadian road safety practices, with a focus on transportation equity and sustainable development.",
     "notable_practices": [
-      "Create designated truck routes",
-      "Restrict access during peak traffic hours"
+      "Promote shared responsibility among system designers, operators, and users.",
+      "Implement proactive tools to identify and mitigate latent transportation risks."
     ],
     "advantages": [
-      "Reduces accidents involving heavy trucks",
-      "Improves traffic flow in urban areas"
+      "Reduces fatalities and serious injuries effectively.",
+      "Supports sustainable and inclusive transportation systems."
     ],
     "drawbacks": [
-      "May inconvenience delivery schedules",
-      "Requires alternative routes"
+      "Requires coordination among multiple stakeholders.",
+      "Cultural change and political commitment are essential for success."
     ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+21",
-      "https://place-hold.it/300x200?text=Image+22"
-    ],
+    "images": ["https://place-hold.it/300x200?text=Vision+Zero+Framework"],
     "references": [
-      "Truck Traffic Study, 2020",
-      "Urban Traffic Control Report, 2019"
-    ],
-    "related_measures": [
-      { "title": "Weight Limits", "link": "https://example.com/weight-limits" },
-      {
-        "title": "Truck Bans During Rush Hour",
-        "link": "https://example.com/truck-bans"
-      }
-    ],
-    "pdf": "https://example.com/report_11.pdf",
-    "group": "Group 4",
-    "categories": ["Heavy Trucks", "Alcohol-related", "Run-off-road"]
-  },
-  {
-    "title": "Work Zone Safety Management",
-    "description": "Improving safety in construction and maintenance zones on roads.",
-    "notable_practices": [
-      "Install temporary speed cameras in work zones",
-      "Provide reflective barriers"
-    ],
-    "advantages": [
-      "Protects workers and drivers",
-      "Reduces accidents in work zones"
-    ],
-    "drawbacks": [
-      "Increases costs for construction projects",
-      "May cause traffic delays"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+23",
-      "https://place-hold.it/300x200?text=Image+24"
-    ],
-    "references": [
-      "Work Zone Safety Report, 2021",
-      "Construction Zone Management, 2020"
+      "World Health Organization (2021). Decade of Action for Road Safety 2021-2030.",
+      "Transport Canada (2020). Canadian Motor Vehicle Traffic Collision Statistics."
     ],
     "related_measures": [
       {
-        "title": "Road Safety Barriers",
-        "link": "https://example.com/road-safety-barriers"
+        "title": "Road Safety Strategy 2025",
+        "link": "https://roadsafetystrategy.ca"
       },
       {
-        "title": "Reflective Equipment",
-        "link": "https://example.com/reflective-equipment"
+        "title": "FHWA Safe System Primer",
+        "link": "https://safety.fhwa.dot.gov/zerodeaths/docs/FHWA_SafeSystem_Brochure_V9_508_200717.pdf"
       }
     ],
-    "pdf": "https://example.com/report_12.pdf",
-    "group": "Group 6",
-    "categories": ["Work zone collisions", "VRUs", "Utility poles, Trees"]
-  },
-  {
-    "title": "Run-off-road Prevention Systems",
-    "description": "Safety systems to prevent vehicles from running off the road during adverse conditions.",
-    "notable_practices": [
-      "Install guardrails along curves",
-      "Deploy lane departure warning systems"
-    ],
-    "advantages": [
-      "Reduces run-off-road accidents",
-      "Prevents fatalities in dangerous areas"
-    ],
-    "drawbacks": [
-      "Can be costly to implement in rural areas",
-      "Requires regular maintenance"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+25",
-      "https://place-hold.it/300x200?text=Image+26"
-    ],
-    "references": [
-      "Run-off-road Safety Study, 2021",
-      "Rural Road Safety Report, 2020"
-    ],
-    "related_measures": [
-      {
-        "title": "Guardrail Installation",
-        "link": "https://example.com/guardrail-installation"
-      },
-      {
-        "title": "Speed Limit Enforcement",
-        "link": "https://example.com/speed-limit-enforcement"
-      }
-    ],
-    "pdf": "https://example.com/report_13.pdf",
-    "group": "Group 5",
-    "categories": ["Run-off-road", "Intersection Related", "Speeding related"]
-  },
-  {
-    "title": "Utility Pole Relocation",
-    "description": "Relocation of utility poles further from the road to prevent collisions.",
-    "notable_practices": [
-      "Place poles outside the clear zone",
-      "Use breakaway poles when relocation isn't feasible"
-    ],
-    "advantages": [
-      "Reduces the risk of vehicle-pole collisions",
-      "Increases roadside safety"
-    ],
-    "drawbacks": [
-      "Expensive to relocate infrastructure",
-      "May require coordination with utility companies"
-    ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+27",
-      "https://place-hold.it/300x200?text=Image+28"
-    ],
-    "references": [
-      "Utility Pole Relocation Report, 2020",
-      "Roadside Safety Study, 2019"
-    ],
-    "related_measures": [
-      {
-        "title": "Clear Zone Management",
-        "link": "https://example.com/clear-zone-management"
-      },
-      {
-        "title": "Breakaway Poles",
-        "link": "https://example.com/breakaway-poles"
-      }
-    ],
-    "pdf": "https://example.com/report_14.pdf",
-    "group": "Group 2",
+    "pdf": "/core/docs/NewSSA/SSA_Aggressive02.pdf",
+    "group": "Group 3",
     "categories": [
-      "Utility poles, Trees",
-      "Aggressive driving",
-      "Alcohol-related"
+      "Non-US",
+      "Safer Roads",
+      "Pedestrian",
+      "Bicycle",
+      "Safe System Collaboration"
     ]
   },
   {
-    "title": "Horizontal Curve Safety Improvements",
-    "description": "Measures to improve safety on sharp horizontal curves, reducing accidents.",
+    "title": "Enhancing Older Driver Safety through the Safe System Approach",
+    "description": "This report focuses on the safety challenges faced by older drivers and explores how the Safe System Approach can mitigate risks associated with aging. It examines functional limitations, crash risks, and mobility trends among older drivers while emphasizing infrastructural design, vehicle safety, and behavioral adaptation to improve their road safety.",
     "notable_practices": [
-      "Install curve warning signs",
-      "Apply high-friction surface treatments"
+      "Adopt infrastructural improvements like roundabouts to reduce conflict points.",
+      "Implement Advanced Driver Assistance Systems (ADAS) for crash avoidance and enhanced mobility.",
+      "Design targeted education and training programs for older drivers."
     ],
     "advantages": [
-      "Reduces accidents on dangerous curves",
-      "Improves road safety in rural areas"
+      "Improves safety outcomes by addressing physical vulnerability and functional limitations.",
+      "Promotes independent mobility among older adults, enhancing quality of life."
     ],
     "drawbacks": [
-      "May increase road maintenance costs",
-      "Requires accurate curve assessment"
+      "Requires infrastructure redesign and technological upgrades.",
+      "Behavioral adaptation may vary among older drivers, impacting effectiveness."
     ],
-    "images": [
-      "https://place-hold.it/300x200?text=Image+29",
-      "https://place-hold.it/300x200?text=Image+30"
-    ],
+    "images": ["https://place-hold.it/300x200?text=Older+Driver+Safety"],
     "references": [
-      "Curve Safety Report, 2021",
-      "Rural Road Safety Study, 2020"
+      "OECD (2004). Age and Transport: Strategies for an Ageing Society.",
+      "Staplin et al. (2001). Highway Design Handbook for Older Drivers and Pedestrians."
     ],
     "related_measures": [
       {
-        "title": "Guardrail Installation",
-        "link": "https://example.com/guardrail-installation"
+        "title": "ADAS for Older Drivers",
+        "link": "https://example.com/adas-for-older-drivers"
       },
       {
-        "title": "Reflective Road Markings",
-        "link": "https://example.com/reflective-road-markings"
+        "title": "Infrastructural Measures for Road Safety",
+        "link": "https://example.com/infrastructure-safety"
       }
     ],
-    "pdf": "https://example.com/report_15.pdf",
-    "group": "Group 6",
-    "categories": ["Horizontal curve", "Seatbelt use", "Pedestrian"]
+    "pdf": "/core/docs/NewSSA/SSA_Older02.pdf",
+    "group": "Group 2",
+    "categories": [
+      "US",
+      "Older Drivers",
+      "Safer Roads",
+      "Intersection Related",
+      "Advanced Driver Assistance Systems (ADAS)"
+    ]
+  },
+  {
+    "title": "A Safe System Approach to Speed Limit Setting",
+    "description": "This report explores strategies for adopting a Safe System Approach to speed limit setting, focusing on case studies in and beyond California. It emphasizes the benefits of context-based speed management, moving away from reliance on the 85th percentile rule. The document highlights the importance of integrating speed reductions with complementary countermeasures to enhance road safety.",
+    "notable_practices": [
+      "Implement context-based speed limit setting based on land use and crash history.",
+      "Pair speed limit changes with additional signage and informational campaigns."
+    ],
+    "advantages": [
+      "Reduces severe collisions by addressing high-end speeding.",
+      "Supports the protection of vulnerable road users in high-traffic areas."
+    ],
+    "drawbacks": [
+      "Administrative barriers may delay implementation at the local level.",
+      "Legal restrictions on speed cameras limit enforcement options in some regions."
+    ],
+    "images": ["https://place-hold.it/300x200?text=Speed+Management"],
+    "references": [
+      "California Department of Transportation (2023). Vision Zero and Safe Systems.",
+      "FHWA (2022). Safe System Primer."
+    ],
+    "related_measures": [
+      {
+        "title": "Vision Zero Initiative",
+        "link": "https://www.visionzeroinitiative.com"
+      },
+      {
+        "title": "California Assembly Bill 43",
+        "link": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB43"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/SSA_Speeding.pdf",
+    "group": "Group 2",
+    "categories": ["US", "Safer Speed", "Urban Planning", "Pedestrian"]
+  },
+  {
+    "title": "A Safe System Approach to Vulnerable Road User Safety Issues in Ghana",
+    "description": "This dissertation explores the safety challenges faced by vulnerable road users (VRUs) in Ghana, focusing on pedestrians and motorcyclists. It applies the Safe System Approach to identify contributing factors to crashes and develop data-driven countermeasures. The research emphasizes the role of local context in addressing road safety and discusses the use of Analytic Hierarchy Process (AHP) to prioritize VRU safety strategies.",
+    "notable_practices": [
+      "Apply data-driven methods to understand local crash dynamics.",
+      "Prioritize countermeasures using the Analytic Hierarchy Process (AHP)."
+    ],
+    "advantages": [
+      "Reduces fatalities among vulnerable road users.",
+      "Provides a framework for developing localized safety interventions."
+    ],
+    "drawbacks": [
+      "Requires collaboration among multiple stakeholders.",
+      "Implementation challenges in areas with limited infrastructure."
+    ],
+    "images": ["https://place-hold.it/300x200?text=VRU+Safety+Ghana"],
+    "references": [
+      "World Health Organization (2018). Global Status Report on Road Safety.",
+      "Agyemang et al. (2021). VRU Safety in Sub-Sahara Africa."
+    ],
+    "related_measures": [
+      {
+        "title": "Pedestrian Safety Initiatives",
+        "link": "https://example.com/pedestrian-safety"
+      },
+      {
+        "title": "Motorcycle Safety Strategies",
+        "link": "https://example.com/motorcycle-safety"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/SSA_VRU01.pdf",
+    "group": "Group 3",
+    "categories": [
+      "Non-US",
+      "Pedestrian",
+      "Motorcycle",
+      "Urban Planning",
+      "Safer People"
+    ]
+  },
+  {
+    "title": "Safe System Approach in Work Zones",
+    "description": "This report outlines the principles and strategies for applying the Safe System Approach to work zones, focusing on improving safety for both road users and workers. It emphasizes proactive speed management, better design, and increased awareness to minimize risks and reduce fatalities in work zone environments.",
+    "notable_practices": [
+      "Implement automated speed enforcement and traffic calming in work zones.",
+      "Educate workers and drivers on work zone safety practices.",
+      "Improve work zone design and operations to reduce crash risks."
+    ],
+    "advantages": [
+      "Reduces the risk of work zone fatalities.",
+      "Encourages safer driving behavior and protects workers."
+    ],
+    "drawbacks": [
+      "Enforcement challenges in automated speed zones.",
+      "High costs of implementing advanced work zone safety systems."
+    ],
+    "images": ["https://place-hold.it/300x200?text=Work+Zone+Safety"],
+    "references": [
+      "NHTSA (2021). Work Zone Safety Report.",
+      "FHWA (2022). Safe System Primer for Work Zones."
+    ],
+    "related_measures": [
+      {
+        "title": "Automated Speed Enforcement in Work Zones",
+        "link": "https://example.com/work-zone-enforcement"
+      },
+      {
+        "title": "Traffic Management Plans for Work Zones",
+        "link": "https://example.com/work-zone-traffic-plans"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/SSA_WZ01.pdf",
+    "group": "Group 2",
+    "categories": [
+      "US",
+      "Safer Roads",
+      "Work Zone Safety",
+      "Speed Management",
+      "Road Workers"
+    ]
+  },
+  {
+    "title": "Safe System Principles Applied to Work Zones",
+    "description": "This document explores the implementation of Safe System principles within work zones, focusing on crash prevention and mitigation strategies. It highlights the challenges in maintaining safety in dynamic work environments, emphasizing proactive speed management, worker safety education, and collaborative planning across agencies.",
+    "notable_practices": [
+      "Implement automated speed enforcement and rumble strips to manage speed in work zones.",
+      "Provide safety education for workers, drivers, and law enforcement officials.",
+      "Adopt better work zone designs, including buffer spaces and clear signage."
+    ],
+    "advantages": [
+      "Reduces fatalities and injuries by managing crash forces effectively.",
+      "Promotes safer driving behavior and improves worker protection."
+    ],
+    "drawbacks": [
+      "High costs of implementing comprehensive safety measures.",
+      "Requires collaboration across multiple stakeholders for effective execution."
+    ],
+    "images": ["https://place-hold.it/300x200?text=Work+Zone+Safety"],
+    "references": [
+      "FHWA (2022). Safe System Primer for Work Zones.",
+      "NHTSA (2021). Work Zone Safety Report."
+    ],
+    "related_measures": [
+      {
+        "title": "Automated Speed Enforcement in Work Zones",
+        "link": "https://example.com/work-zone-enforcement"
+      },
+      {
+        "title": "Work Zone Traffic Management Plans",
+        "link": "https://example.com/traffic-management"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/SSA_WZ02.pdf",
+    "group": "Group 2",
+    "categories": [
+      "US",
+      "Safer Roads",
+      "Work Zone Safety",
+      "Speed Management",
+      "Road Workers"
+    ]
+  },
+  {
+    "title": "MAG Strategic Transportation Safety Plan 2020-2030",
+    "description": "This plan outlines the Maricopa Association of Governments (MAG) approach to improving transportation safety through the Safe System Approach. It highlights regional crash data, safety strategies, and action areas, focusing on reducing fatal and injury crashes with proactive safety measures and community involvement.",
+    "notable_practices": [
+      "Implement high-value countermeasures like pedestrian hybrid beacons (PHBs).",
+      "Conduct network screenings with demographic and land use data to incorporate equity.",
+      "Promote safety through public education campaigns like 'See Me AZ'."
+    ],
+    "advantages": [
+      "Promotes proactive safety planning.",
+      "Encourages collaboration across agencies.",
+      "Reduces crash-related fatalities and injuries."
+    ],
+    "drawbacks": [
+      "Implementation requires significant funding and coordination.",
+      "Challenges in integrating with existing infrastructure."
+    ],
+    "images": ["https://place-hold.it/300x200?text=Strategic+Plan+Safety"],
+    "references": [
+      "FHWA Proven Safety Countermeasures, 2022.",
+      "Arizona Department of Transportation Safety Guidelines, 2020."
+    ],
+    "related_measures": [
+      {
+        "title": "Road Safety Assessments (RSA)",
+        "link": "https://example.com/rsa-guidelines"
+      },
+      {
+        "title": "MAG Transportation Programs",
+        "link": "https://azmag.gov/Programs/Transportation"
+      }
+    ],
+    "pdf": "/core/docs/NewSSA/STSP_2021-06-30_Strategic-Transportation-System-Plan.pdf",
+    "group": "Group 1",
+    "categories": [
+      "US",
+      "Safer Roads",
+      "Pedestrian",
+      "Intersection Related",
+      "Speed Management"
+    ]
   }
 ]
