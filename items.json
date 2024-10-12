@@ -32,7 +32,7 @@
         "link": "https://www.dpti.sa.gov.au/standards/roads-all#roaddesignoutputs"
       }
     ],
-    "pdf": "/core/docs/NewSSA/0 SSA Scoring.pdf",
+    "pdf": "docs/NewSSA/0 SSA Scoring.pdf",
     "group": "Group 1",
     "categories": [
       "US",
@@ -72,7 +72,7 @@
         "link": "https://www.fhwa.dot.gov/saferoads/safe-system-approach"
       }
     ],
-    "pdf": "/core/docs/NewSSA/0 Survey ca234007finalreportasafesystemapproachtospeedlimitsetting2023816a11y.pdf",
+    "pdf": "docs/NewSSA/0 Survey ca234007finalreportasafesystemapproachtospeedlimitsetting2023816a11y.pdf",
     "group": "Group 2",
     "categories": ["US", "Speed Management", "Urban Planning", "Pedestrian"]
   },
@@ -106,7 +106,7 @@
         "link": "https://www.fhwa.dot.gov/saferoads"
       }
     ],
-    "pdf": "/core/docs/NewSSA/0 Survey CSCRS-R35-Final-Report.pdf",
+    "pdf": "docs/NewSSA/0 Survey CSCRS-R35-Final-Report.pdf",
     "group": "Group 2",
     "categories": ["US", "Road Safety", "Traffic Planning", "Urban Development"]
   },
@@ -140,7 +140,7 @@
         "link": "https://visionzeronetwork.org"
       }
     ],
-    "pdf": "/core/docs/NewSSA/0 Survey Lorain_County_CSAP_Survey_English-4.pdf",
+    "pdf": "docs/NewSSA/0 Survey Lorain_County_CSAP_Survey_English-4.pdf",
     "group": "Group 3",
     "categories": [
       "US",
@@ -179,7 +179,7 @@
         "link": "https://www.fhwa.dot.gov/saferoads"
       }
     ],
-    "pdf": "/core/docs/NewSSA/SSA_Aggressive01.pdf",
+    "pdf": "docs/NewSSA/SSA_Aggressive01.pdf",
     "group": "Group 2",
     "categories": [
       "US",
@@ -219,7 +219,7 @@
         "link": "https://safety.fhwa.dot.gov/zerodeaths/docs/FHWA_SafeSystem_Brochure_V9_508_200717.pdf"
       }
     ],
-    "pdf": "/core/docs/NewSSA/SSA_Aggressive02.pdf",
+    "pdf": "docs/NewSSA/SSA_Aggressive02.pdf",
     "group": "Group 3",
     "categories": [
       "Non-US",
@@ -260,7 +260,7 @@
         "link": "https://example.com/infrastructure-safety"
       }
     ],
-    "pdf": "/core/docs/NewSSA/SSA_Older02.pdf",
+    "pdf": "docs/NewSSA/SSA_Older02.pdf",
     "group": "Group 2",
     "categories": [
       "US",
@@ -300,7 +300,7 @@
         "link": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB43"
       }
     ],
-    "pdf": "/core/docs/NewSSA/SSA_Speeding.pdf",
+    "pdf": "docs/NewSSA/SSA_Speeding.pdf",
     "group": "Group 2",
     "categories": ["US", "Safer Speed", "Urban Planning", "Pedestrian"]
   },
@@ -334,7 +334,7 @@
         "link": "https://example.com/motorcycle-safety"
       }
     ],
-    "pdf": "/core/docs/NewSSA/SSA_VRU01.pdf",
+    "pdf": "docs/NewSSA/SSA_VRU01.pdf",
     "group": "Group 3",
     "categories": [
       "Non-US",
@@ -375,7 +375,7 @@
         "link": "https://example.com/work-zone-traffic-plans"
       }
     ],
-    "pdf": "/core/docs/NewSSA/SSA_WZ01.pdf",
+    "pdf": "docs/NewSSA/SSA_WZ01.pdf",
     "group": "Group 2",
     "categories": [
       "US",
@@ -416,7 +416,7 @@
         "link": "https://example.com/traffic-management"
       }
     ],
-    "pdf": "/core/docs/NewSSA/SSA_WZ02.pdf",
+    "pdf": "docs/NewSSA/SSA_WZ02.pdf",
     "group": "Group 2",
     "categories": [
       "US",
@@ -458,7 +458,7 @@
         "link": "https://azmag.gov/Programs/Transportation"
       }
     ],
-    "pdf": "/core/docs/NewSSA/STSP_2021-06-30_Strategic-Transportation-System-Plan.pdf",
+    "pdf": "docs/NewSSA/STSP_2021-06-30_Strategic-Transportation-System-Plan.pdf",
     "group": "Group 1",
     "categories": [
       "US",
