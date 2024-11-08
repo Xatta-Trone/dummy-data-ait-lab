@@ -66,7 +66,8 @@
     "categories": [
       "Non-US",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/post crash care/1476-072X-14-5.pdf.pdf"
   },
   {
     "title": "Comparison of crashes involving ambulances with those of similar-sized vehicles",
@@ -134,7 +135,8 @@
       "US",
       "Signalized",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/post crash care/COMPARISON_OF_CRASHE.pdf"
   },
   {
     "title": "The effects of weather on daily emergency ambulance service demand in Taipei: a comparison with Hong Kong",
@@ -203,7 +205,8 @@
     "categories": [
       "Non-US",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/post crash care/s00704-020-03213-4.p.pdf"
   },
   {
     "title": "Organisational factors affecting EMS performance in rural and urban areas of Saudi Arabia",
@@ -268,7 +271,8 @@
     "categories": [
       "Non-US",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/post crash care/s12913-021-06565-3.p.pdf"
   },
   {
     "title": "Data mining approach to explore emergency vehicle crash patterns: A comparative study of crash severity in emergency and non-emergency response modes",
@@ -341,7 +345,8 @@
       "Speeding related",
       "Seatbelt use",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/post crash care/1-s2.0-S000145752300.pdf"
   },
   {
     "title": "Links Between Observed and Self-Reported Driving Anger and Aggressive Driving",
@@ -412,7 +417,8 @@
       "Non-US",
       "Aggressive driving",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Aggressive/1-s2.0-S000145752030.pdf"
   },
   {
     "title": "Investigating the Trip-Configured Causal Effect of Distracted Driving on Aggressive Driving for E-Hailing Taxi Drivers",
@@ -483,7 +489,8 @@
       "Non-US",
       "Distracted drivers",
       "Aggressive driving"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Aggressive/1-s2.0-S209575642030.pdf"
   },
   {
     "title": "Analysis of Factors Influencing Aggressive Driver Behavior and Crash Involvement",
@@ -554,7 +561,8 @@
       "Non-US",
       "Aggressive driving",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Aggressive/Analysis of factors .pdf"
   },
   {
     "title": " Cluster analysis and multi-level modeling for evaluating the impact of rain on aggressive lane changing characteristics utilizing naturalistic driving data",
@@ -620,6 +628,7 @@
       }
     ],
     "pdf": "docs/safer people/Behavior/Aggressive/Cluster analysis and multi-level modeling for evaluating the impact of rain on aggressive lane-changing characteristic.pdf",
+    "pdf1":"docs/safer people/Behavior/Aggressive/cluster-analysis.pdf",
     "group": "Group 2",
     "categories": [
       "US",
@@ -691,6 +700,7 @@
       }
     ],
     "pdf": "docs/safer people/Behavior/Aggressive/Traffic safety analysis at interchange exits using the surrogate measure of aggressive driving behavior and speed variation.pdf",
+    "pdf1":"docs/safer people/Behavior/Aggressive/traffic-safety",
     "group": "Group 2",
     "categories": [
       "Non-US",
@@ -762,7 +772,8 @@
       "Speeding related",
       "Seatbelt use",
       "Unlicensed and Revoked"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Alcohol related/1-s2.0-S000145751830.pdf"
   },
   {
     "title": "Modeling of Drinking and Driving Behaviors Among Adolescents and Young Adults in the United States: Complexities and Intervention Outcomes",
@@ -822,7 +833,8 @@
       "Young Drivers",
       "Distracted drivers",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Alcohol related/1-s2.0-S027795362400.pdf"
   },
   {
     "title": "Modeling Head-On Crash Severity with Drivers Under the Influence of Alcohol or Drugs (DUI) and Non-DUI",
@@ -882,7 +894,8 @@
       "Head-on crashes",
       "Motorcycle",
       "Speeding related"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Alcohol related/Modeling head-on cra.pdf"
   },
   {
     "title": "Relationship Between Driving While Impaired and Riding with an Impaired Driver Among Adolescents in the United States",
@@ -935,6 +948,7 @@
     ],
     "related_measures": [],
     "pdf": "docs/safer people/Behavior/Alcohol related/Relationship between driving while impaired and riding with an impaired driver among adolescents in the United States.pdf",
+    "pdf1":"docs/safer people/Behavior/Alcohol related/impaired-driver.pdf",
     "group": "Group 3",
     "categories": [
       "US",
@@ -1000,7 +1014,8 @@
       "US",
       "Alcohol-related",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Alcohol related/s41599-022-01041-7.p.pdf"
   },
   {
     "title": "Influence of Built Environment on the Severity of Vehicle Crashes Caused by Distracted Driving: A Multi-State Comparison",
@@ -1075,7 +1090,8 @@
       "US",
       "Distracted drivers",
       "Work zone collisions"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Distracted/1-s2.0-S000145752031.pdf"
   },
   {
     "title": "Understanding Driver Distractions in Fatal Crashes: An Exploratory Empirical Analysis",
@@ -1151,7 +1167,8 @@
       "Distracted drivers",
       "Young Drivers",
       "Older Drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Distracted/1-s2.0-S002243751830.pdf"
   },
   {
     "title": "Understanding Drowsy Driving Crash Patterns: Insights from Correspondence Regression Analysis",
@@ -1225,7 +1242,8 @@
     "categories": [
       "US",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Distracted/1-s2.0-S002243752200.pdf"
   },
   {
     "title": "Investigating the Effects of Left-Turn Distracted Drivers on Signalized Intersections’ Traffic Operations",
@@ -1300,7 +1318,8 @@
       "US",
       "Distracted drivers",
       "Signalized"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Distracted/1-s2.0-S136984782300.pdf"
   },
   {
     "title": "Distracted Driving Crashes: A Review on Data Collection, Analysis, and Crash Prevention Methods",
@@ -1449,7 +1468,8 @@
     "categories": [
       "US",
       "Seatbelt use"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Seatbelt use/1-s2.0-S000145751830.pdf"
   },
   {
     "title": "Nighttime Seat Belt Use Among Front Seat Passengers: Does the Driver's Belt Use Matter?",
@@ -1523,7 +1543,8 @@
     "categories": [
       "US",
       "Seatbelt use"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Seatbelt use/1-s2.0-S002243751830.pdf"
   },
   {
     "title": "Joint Analysis of Injury Severity in Two-Vehicle Crashes: Accounting for Seat Belt Use Endogeneity",
@@ -1598,7 +1619,8 @@
       "Non-US",
       "Seatbelt use",
       "Head-on crashes"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Seatbelt use/1-s2.0-S019126151300.pdf"
   },
   {
     "title": "Effectiveness of Media and Enforcement Campaigns in Increasing Seat Belt Usage Rates in a State with a Secondary Seat Belt Law",
@@ -1746,7 +1768,8 @@
     "categories": [
       "Non-US",
       "Seatbelt use"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Seatbelt use/s42506-023-00139-3.p.pdf"
   },
   {
     "title": "The Role of Gender and Temporal Instability in Driver-Injury Severities in Crashes Caused by Speeds Too Fast for Conditions",
@@ -1820,7 +1843,8 @@
     "categories": [
       "US",
       "Speeding related"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Speeding related/1-s2.0-S000145752100.pdf"
   },
   {
     "title": "Exploring the Influence of Drivers' Visual Surroundings on Speeding Behavior",
@@ -1895,7 +1919,8 @@
       "US",
       "Speeding related",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Speeding related/1-s2.0-S000145752400.pdf"
   },
   {
     "title": "The Influence of Roadway Characteristics and Built Environment on the Extent of Over-Speeding: An Exploration Using Mobile Automated Traffic Camera Data",
@@ -1969,7 +1994,8 @@
     "categories": [
       "Non-US",
       "Speeding related"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Speeding related/1-s2.0-S204604302400.pdf"
   },
   {
     "title": "A Comparative Analysis of Factors Affecting Injury Severity in Speeding-Related Crashes on Rural and Urban Roads",
@@ -2119,7 +2145,8 @@
       "US",
       "Speeding related",
       "Young Drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Behavior/Speeding related/GHSA_TeenSpeeding_Ja.pdf"
   },
   {
     "title": "Critical Older Driver Errors in a National Sample of Serious U.S. Crashes",
@@ -2194,7 +2221,8 @@
       "US",
       "Older Drivers",
       "Signalized"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Old/1-s2.0-S000145751500.pdf"
   },
   {
     "title": "Factors Associated with Driver Injury Severity of Lane Changing Crashes Involving Younger and Older Drivers",
@@ -2270,7 +2298,8 @@
       "Young Drivers",
       "Older Drivers",
       "Aggressive driving"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Old/1-s2.0-S000145752031.pdf"
   },
   {
     "title": "Factors Influencing Injury Severity in Single and Multivehicle Crashes Involving At-Fault Older Drivers",
@@ -2346,7 +2375,8 @@
       "Older Drivers",
       "Run-off-road",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Old/1-s2.0-S259019822300.pdf"
   },
   {
     "title": "Investigating Older Driver Crashes on High-Speed Roadway Segments: A Hybrid Approach with Extreme Gradient Boosting and Random Parameter Model",
@@ -2573,7 +2603,8 @@
       "Unlicensed and Revoked",
       "Alcohol-related",
       "Seatbelt use"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Unlicensed/1-s2.0-S000145751300.pdf"
   },
   {
     "title": "Impact of Alcohol Driving-While-Impaired License Suspension Duration on Future Alcohol-Related License Events and Motor Vehicle Crash Involvement",
@@ -2648,7 +2679,8 @@
       "US",
       "Alcohol-related",
       "Unlicensed and Revoked"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Unlicensed/1-s2.0-S000145752300.pdf"
   },
   {
     "title": "Young Unlicensed Drivers: Understanding the Association of Lifestyle and Area-Associated Risk",
@@ -2725,7 +2757,8 @@
       "Unlicensed and Revoked",
       "Alcohol-related",
       "Seatbelt use"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Unlicensed/dot_34413_DS1.pdf.pdf"
   },
   {
     "title": "The Problem of Suspended and Revoked Drivers Who Avoid Detection at Checkpoints",
@@ -2799,7 +2832,8 @@
     "categories": [
       "US",
       "Unlicensed and Revoked"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Unlicensed/The Problem of Suspe.pdf"
   },
   {
     "title": "Unlicensed Drivers and Car Crash Injury",
@@ -2875,7 +2909,8 @@
       "Unlicensed and Revoked",
       "Alcohol-related",
       "Seatbelt use"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Unlicensed/Unlicensed Drivers a.pdf"
   },
   {
     "title": "Examining Teen Driver Crashes and the Prevalence of Distraction: Recent Trends, 2007–2015",
@@ -2946,7 +2981,8 @@
       "US",
       "Young Drivers",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Young/1-s2.0-S002243751730.pdf"
   },
   {
     "title": "Crash Risk Factors Associated with Injury Severity of Teen Drivers",
@@ -3019,7 +3055,8 @@
       "Speeding related",
       "Seatbelt use",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Young/1-s2.0-S038611121830.pdf"
   },
   {
     "title": "Young Driver Emotions and Their Intention to Engage in Cellphone Distraction",
@@ -3232,7 +3269,8 @@
       "US",
       "Young Drivers",
       "Distracted drivers"
-    ]
+    ],
+    "pdf1": "docs/safer people/Person decmographic/Young/Cellphone-distracted.pdf"
   },
   {
     "title": "Single-Bicycle Crashes: An In-Depth Analysis of Self-Reported Crashes and Estimation of Attributable Hospital Costs",
@@ -3307,7 +3345,8 @@
       "Non-US",
       "Bicycle",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Bicycle/1-s2.0-S000145752100.pdf"
   },
   {
     "title": "Exploring the Severity of Bicycle-Vehicle Crashes Using Latent Class Clustering Approach in India",
@@ -3382,7 +3421,8 @@
       "Non-US",
       "Bicycle",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Bicycle/1-s2.0-S002243751930.pdf"
   },
   {
     "title": "Exploring Bicyclist Injury Severity in Bicycle-Vehicle Crashes Using Latent Class Clustering Analysis and Partial Proportional Odds Models",
@@ -3457,7 +3497,8 @@
       "US",
       "Bicycle",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Bicycle/1-s2.0-S002243752030.pdf"
   },
   {
     "title": "Drivers’ and Cyclists’ Safety Perceptions in Overtaking Maneuvers",
@@ -3532,7 +3573,8 @@
       "Non-US",
       "Bicycle",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Bicycle/1-s2.0-S136984782100.pdf"
   },
   {
     "title": "Bicycle Safety at Roundabouts: A Systematic Literature Review",
@@ -3607,7 +3649,8 @@
       "Non-US",
       "Bicycle",
       "Signalized"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Bicycle/Bicycle safety at ro.pdf"
   },
   {
     "title": "Fatality Risk in Motorcycle Collisions with Roadside Objects in the United States",
@@ -3683,7 +3726,8 @@
       "Motorcycle",
       "Utility poles, Trees",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Motorcycle/1-s2.0-S000145751000.pdf"
   },
   {
     "title": "Influence of Horizontally Curved Roadway Section Characteristics on Motorcycle-to-Barrier Crash Frequency",
@@ -3759,7 +3803,8 @@
       "Motorcycle",
       "Horizontal curve",
       "Utility poles, Trees"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Motorcycle/1-s2.0-S000145751500.pdf"
   },
   {
     "title": "A Motorcyclist-Injury Severity Analysis: A Comparison of Single-, Two-, and Multi-Vehicle Crashes Using Latent Class Ordered Probit Model",
@@ -3836,7 +3881,8 @@
       "Horizontal curve",
       "Heavy Trucks",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Motorcycle/1-s2.0-S000145752031.pdf"
   },
   {
     "title": "Alcohol-Related Hospitalizations of Adult Motorcycle Riders",
@@ -3912,7 +3958,8 @@
       "Motorcycle",
       "Alcohol-related",
       "Head-on crashes"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Motorcycle/1749-7922-10-2.pdf.pdf"
   },
   {
     "title": "Trends and Patterns in Fatal U.S. Motorcycle Crashes, 2000–2016",
@@ -4064,7 +4111,8 @@
       "Pedestrian",
       "Signalized",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Pedestrian/1-s2.0-S000145750500.pdf"
   },
   {
     "title": "Pedestrian Injury Severity in Motor Vehicle Crashes: An Integrated Spatio-Temporal Modeling Approach",
@@ -4140,7 +4188,8 @@
       "Pedestrian",
       "Signalized",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Pedestrian/1-s2.0-S000145751930.pdf"
   },
   {
     "title": "Fatal Pedestrian Crashes at Intersections: Trend Mining Using Association Rules",
@@ -4216,7 +4265,8 @@
       "Pedestrian",
       "Signalized",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Pedestrian/1-s2.0-S000145752100.pdf"
   },
   {
     "title": "Applying Association Rules Mining to Investigate Pedestrian Fatal and Injury Crash Patterns Under Different Lighting Conditions",
@@ -4293,7 +4343,8 @@
       "Alcohol-related",
       "Speeding related",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Pedestrian/hossain-et-al-2022-a.pdf"
   },
   {
     "title": "Uncovering Pedestrian Midblock Crash Severity Patterns Using Association Rules Mining",
@@ -4370,7 +4421,8 @@
       "Alcohol-related",
       "Speeding related",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/safer people/VRU/Pedestrian/Uncovering pedestria.pdf"
   },
   {
     "title": "Temporal and Spatial Analyses of Rear-End Crashes at Signalized Intersections",
@@ -4445,7 +4497,8 @@
       "US",
       "Signalized",
       "Speeding related"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Intersection related/Signalized/1-s2.0-S000145750600.pdf"
   },
   {
     "title": "Examining Signalized Intersection Crash Frequency Using Multivariate Zero-Inflated Poisson Regression",
@@ -4521,7 +4574,8 @@
       "Signalized",
       "Heavy Trucks",
       "Speeding related"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Intersection related/Signalized/1-s2.0-S092575351400.pdf"
   },
   {
     "title": "Determination and Utilization of Dilemma Zone Length and Location for Safety Assessment of Rural High-Speed Signalized Intersections",
@@ -4672,7 +4726,8 @@
       "Signalized",
       "Pedestrian",
       "Bicycle"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Intersection related/Signalized/polders-et-al-2015-c.pdf"
   },
   {
     "title": "Effects of Signalization at Rural Intersections Considering the Elderly Driving Population",
@@ -4821,7 +4876,8 @@
     "categories": [
       "Non-US",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Intersection related/Unsignalized/1-s2.0-S2666691X2100.pdf"
   },
   {
     "title": "Analyzing Angle Crashes at Unsignalized Intersections Using Machine Learning Techniques",
@@ -4895,7 +4951,8 @@
     "categories": [
       "US",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Intersection related/Unsignalized/1-s2.0-S000145751000.pdf"
   },
   {
     "title": "Examining Traffic Crash Injury Severity at Unsignalized Intersections",
@@ -4971,7 +5028,8 @@
       "Young Drivers",
       "Older Drivers",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Intersection related/Unsignalized/1-s2.0-S002243751000.pdf"
   },
   {
     "title": "Comprehensive Investigation of Commercial Motor Vehicle Crashes at Signalized and Unsignalized Intersections in Kentucky",
@@ -5122,7 +5180,8 @@
       "US",
       "Bicycle",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Intersection related/Unsignalized/Statistical Analysis.pdf"
   },
   {
     "title": "Exploring the Effects of Roadway Characteristics on the Frequency and Severity of Head-On Crashes",
@@ -5199,7 +5258,8 @@
       "Horizontal curve",
       "Heavy Trucks",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/HOC/1-s2.0-S000145751300.pdf"
   },
   {
     "title": "Analysis of Driver Injury Severity in Wrong-Way Driving Crashes on Controlled-Access Highways",
@@ -5276,7 +5336,8 @@
       "Alcohol-related",
       "Seatbelt use",
       "Head-on crashes on freeways"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/HOC/1-s2.0-S000145751630.pdf"
   },
   {
     "title": "Analysis of the Injury Severity of Crashes Considering Different Lighting Conditions on Two-Lane Rural Roads",
@@ -5352,7 +5413,8 @@
       "Head-on crashes",
       "Run-off-road",
       "Signalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/HOC/1-s2.0-S002243751500.pdf"
   },
   {
     "title": "Analysis of Head-on Crash Injury Severity Using a Partial Proportional Odds Model",
@@ -5428,7 +5490,8 @@
       "Head-on crashes",
       "Horizontal curve",
       "Speeding related"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/HOC/Analysis of head-on .pdf"
   },
   {
     "title": "Identifying Significant Predictors of Head-on Conflicts on Two-Lane Rural Roads Using Inductive Loop Detectors Data",
@@ -5582,7 +5645,8 @@
       "Run-off-road",
       "Aggressive driving",
       "Alcohol-related"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/HOC on freeway/1-s2.0-S204604301730.pdf"
   },
   {
     "title": "A Model of the Probability of a Cross-Median Crash When a Vehicle Fully Crosses the Median",
@@ -5733,7 +5797,8 @@
       "Head-on crashes on freeways",
       "Run-off-road",
       "Horizontal curve"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/HOC on freeway/dot_32259_DS1.pdf.pdf"
   },
   {
     "title": "Modeling the Risk of Wrong-Way Driving on Freeways and Toll Roads",
@@ -5808,7 +5873,8 @@
       "US",
       "Head-on crashes on freeways",
       "Signalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/HOC on freeway/rogers-et-al-2016-mo.pdf"
   },
   {
     "title": "A Comparative Analysis of Factors Affecting the Frequency and Severity of Freight-Involved and Non-Freight Crashes on a Major Freight Corridor Freeway",
@@ -5959,7 +6025,8 @@
       "US",
       "Older Drivers",
       "Horizontal curve"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Horizontal curve/1-s2.0-S000145751730.pdf"
   },
   {
     "title": "Analysis of Vehicle Skidding Potential on Horizontal Curves",
@@ -6033,7 +6100,8 @@
     "categories": [
       "US",
       "Horizontal curve"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Horizontal curve/1-s2.0-S000145752031.pdf"
   },
   {
     "title": "Effect of Spatial Relationships Between Curves on Crash Severity in Mountainous Terrain",
@@ -6109,7 +6177,8 @@
       "Horizontal curve",
       "Head-on crashes",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Horizontal curve/1-s2.0-S000145752400.pdf"
   },
   {
     "title": "Analysis of Single-Vehicle Truck Crashes on Rural Curved Segments",
@@ -6185,7 +6254,8 @@
       "Heavy Trucks",
       "Horizontal curve",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Horizontal curve/1-s2.0-S002243752100.pdf"
   },
   {
     "title": "Models of Vehicle Operating Speeds Along Two-Lane Rural Highway Transition Zones",
@@ -6331,7 +6401,8 @@
       "Non-US",
       "Run-off-road",
       "Utility poles, Trees"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/ROR/1-s2.0-S000145752100.pdf"
   },
   {
     "title": "Analyzing Road Design Risk Factors for Run-off-road Crashes in the Netherlands",
@@ -6403,7 +6474,8 @@
       "Run-off-road",
       "Horizontal curve",
       "Utility poles, Trees"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/ROR/1-s2.0-S002243751400.pdf"
   },
   {
     "title": "Rule-Based Safety Prediction Models for Rural Two-Lane Run-off-Road Crashes",
@@ -6474,7 +6546,8 @@
       "US",
       "Run-off-road",
       "Horizontal curve"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/ROR/1-s2.0-S204604302030.pdf"
   },
   {
     "title": "Contributing Factors to Run-Off-Road Crashes Involving Large Trucks under Lighted and Dark Conditions",
@@ -6546,7 +6619,8 @@
       "Run-off-road",
       "Heavy Trucks",
       "Horizontal curve"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/ROR/contributing_factors.pdf"
   },
   {
     "title": "Prediction of Occurrence and Severity of Run-off-Roadway Crashes on Rural Two-Lane Roadways Using Bayesian Networks",
@@ -6690,7 +6764,8 @@
       "Run-off-road",
       "Utility poles, Trees",
       "Horizontal curve"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Tree/1-s2.0-S000145751530.pdf"
   },
   {
     "title": "Applying Interpretable Machine Learning to Classify Tree and Utility Pole Related Crash Injury Types",
@@ -6761,7 +6836,8 @@
       "US",
       "Run-off-road",
       "Utility poles, Trees"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Utility pole/1-s2.0-S038611122100.pdf"
   },
   {
     "title": "The Unresolved Relationship Between Street Trees and Road Safety",
@@ -6833,7 +6909,8 @@
       "Run-off-road",
       "Utility poles, Trees",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Tree/dot_43900_DS1.pdf.pdf"
   },
   {
     "title": "Severity Assessment of Accidents Involving Roadside Trees Based on Occupant Injury Analysis",
@@ -6904,7 +6981,8 @@
       "Non-US",
       "Run-off-road",
       "Utility poles, Trees"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Tree/file.pdf.pdf"
   },
   {
     "title": "Urban Trees and Traffic Safety: Considering U.S. Roadside Policy and Crash Data",
@@ -6976,7 +7054,8 @@
       "Run-off-road",
       "Utility poles, Trees",
       "Unsignalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Tree/TransSafety_ArbUF.pd.pdf"
   },
   {
     "title": "Severity Analysis of Tree and Utility Pole Crashes: Applying Fast and Frugal Heuristics",
@@ -7047,7 +7126,8 @@
       "US",
       "Run-off-road",
       "Utility poles, Trees"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Utility pole/1-s2.0-S038611121830.pdf"
   },
   {
     "title": "Classifying Injury Severity in Tree and Utility Pole Crashes Using Machine Learning",
@@ -7190,7 +7270,8 @@
       "Motorcycle",
       "Run-off-road",
       "Utility poles, Trees"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Utility pole/12-1278.pdf.pdf"
   },
   {
     "title": "Case Study: Poles in the Urban Clear Zone",
@@ -7261,7 +7342,8 @@
       "US",
       "Utility poles, Trees",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/Utility pole/1233-016.pdf.pdf"
   },
   {
     "title": "Examining Driver Injury Severity in Single-Vehicle Road Departure Crashes Involving Large Trucks",
@@ -7404,7 +7486,8 @@
       "US",
       "Work zone collisions",
       "Signalized"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/WZ collision/1-s2.0-S000145752400.pdf"
   },
   {
     "title": "A Temporal Investigation of Crash Severity Factors in Worker-Involved Work Zone Crashes",
@@ -7475,7 +7558,8 @@
       "US",
       "Work zone collisions",
       "Emergency Medical Service (EMS)"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/WZ collision/1-s2.0-S259019822100.pdf"
   },
   {
     "title": "Analyzing Time-Varying Patterns of Contributing Factors in Work Zone-Related Crashes",
@@ -7545,7 +7629,8 @@
     "categories": [
       "US",
       "Work zone collisions"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/WZ collision/Analyzing the time-v.pdf"
   },
   {
     "title": "Assessing the Effects of Geometry and Non-Geometry Related Factors in Work-Zone Crashes",
@@ -7612,7 +7697,8 @@
     "categories": [
       "US",
       "Work zone collisions"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/WZ collision/Assessing the effect.pdf"
   },
   {
     "title": "Severity Modeling of Work Zone Crashes in New Jersey Using Machine Learning Models",
@@ -7682,7 +7768,8 @@
     "categories": [
       "US",
       "Work zone collisions"
-    ]
+    ],
+    "pdf1": "docs/safer roads/Segment related/WZ collision/Severity modeling of.pdf"
   },
   {
     "title": "Truck Crash Severity in New York City: An Investigation of Spatial and Temporal Effects",
@@ -7752,7 +7839,8 @@
     "categories": [
       "US",
       "Heavy Trucks"
-    ]
+    ],
+    "pdf1": "docs/safer vehicle/Heavy truck/1-s2.0-S000145751630.pdf"
   },
   {
     "title": "Effects of Truck Traffic on Crash Injury Severity on Rural Highways in Wyoming",
@@ -7823,7 +7911,8 @@
       "US",
       "Heavy Trucks",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer vehicle/Heavy truck/1-s2.0-S000145751830.pdf"
   },
   {
     "title": "Crash Risk Factors for Interstate Large Trucks in North Carolina",
@@ -7893,7 +7982,8 @@
     "categories": [
       "US",
       "Heavy Trucks"
-    ]
+    ],
+    "pdf1": "docs/safer vehicle/Heavy truck/1-s2.0-S002243751630.pdf"
   },
   {
     "title": "Examining Injury Severity in Truck-Involved Collisions Using a Cumulative Link Mixed Model",
@@ -7964,7 +8054,8 @@
       "US",
       "Heavy Trucks",
       "Run-off-road"
-    ]
+    ],
+    "pdf1": "docs/safer vehicle/Heavy truck/1-s2.0-S221414052030.pdf"
   },
   {
     "title": "Characteristics and Contributory Causes Related to Large Truck Crashes",
@@ -8034,6 +8125,7 @@
     "categories": [
       "US",
       "Heavy Trucks"
-    ]
+    ],
+    "pdf1": "docs/safer vehicle/Heavy truck/dot_25417_DS1.pdf.pdf"
   }
 ]
