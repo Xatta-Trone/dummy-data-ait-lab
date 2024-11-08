@@ -1389,6 +1389,7 @@
       }
     ],
     "pdf": "docs/safer people/Behavior/Distracted/sajid-hasan-et-al-2022-distracted-driving-crashes-a-review-on-data-collection-analysis-and-crash-prevention-methods.pdf",
+    "pdf": "docs/safer people/Behavior/Distracted/sajid-hasan.pdf",
     "group": "Group 4",
     "categories": [
       "US",
@@ -1690,6 +1691,7 @@
       }
     ],
     "pdf": "docs/safer people/Behavior/Seatbelt use/Effectiveness of Media and Enforcement Campaigns in Increasing Seat Belt Usage Rates in a State with a Secondary Seat Belt Law.pdf",
+    "pdf1": "docs/safer people/Behavior/Seatbelt use/efff.pdf",
     "group": "Group 5",
     "categories": [
       "US",
@@ -2065,6 +2067,7 @@
       }
     ],
     "pdf": "docs/safer people/Behavior/Speeding related/A comparative analysis of factors affecting injury severity in speeding-related crashes on rural and urban roads.pdf",
+    "pdf1": "docs/safer people/Behavior/Speeding related/urban.pdf",
     "group": "Group 6",
     "categories": [
       "US",
@@ -2522,6 +2525,7 @@
       }
     ],
     "pdf": "docs/safer roads/Intersection related/Signalized/yue-et-al-2019-effects-of-signalization-at-rural-intersections-considering-the-elderly-driving-population.pdf",
+    "pdf1": "docs/safer roads/Intersection related/Signalized/yue-et-al.pdf",
     "group": "Group 1",
     "categories": [
       "US",
@@ -3122,6 +3126,7 @@
       }
     ],
     "pdf": "docs/safer people/Person decmographic/Young/hoseinzadeh-nooshabadi-et-al-2021-young-driver-emotions-relate-to-their-intention-to-engage-in-cellphone-distraction.pdf",
+    "pdf1": "docs/safer people/Person decmographic/Young/young.pdf",
     "group": "Group 3",
     "categories": [
       "Non-US",
@@ -3193,6 +3198,7 @@
       }
     ],
     "pdf": "docs/safer people/Person decmographic/Young/hossain-et-al-2023-a-clustering-regression-approach-to-explore-the-heterogeneous-effects-of-risk-factors-associated.pdf",
+    "pdf1": "docs/safer people/Person decmographic/Young/hossain.pdf",
     "group": "Group 3",
     "categories": [
       "US",
@@ -4645,6 +4651,7 @@
       }
     ],
     "pdf": "docs/safer roads/Intersection related/Signalized/kang-et-al-2020-determination-and-utilization-of-dilemma-zone-length-and-location-for-safety-assessment-of-.pdf",
+    "pdf1": "docs/safer roads/Intersection related/Signalized/kang.pdf",
     "group": "Group 1",
     "categories": [
       "US",
@@ -4797,6 +4804,7 @@
       }
     ],
     "pdf": "docs/safer roads/Intersection related/Signalized/yue-et-al-2019-effects-of-signalization-at-rural-intersections-considering-the-elderly-driving-population.pdf",
+    "pdf1": "docs/safer roads/Intersection related/Signalized/yue.pdf",
     "group": "Group 1",
     "categories": [
       "Non-US",
@@ -5099,6 +5107,7 @@
       }
     ],
     "pdf": "docs/safer roads/Intersection related/Unsignalized/haleem-hosseinpour-2023-comprehensive-investigation-of-commercial-motor-vehicle-crashes-at-signalized-and.pdf",
+    "pdf1": "docs/safer roads/Intersection related/Unsignalized/haleem.pdf",
     "group": "Group 2",
     "categories": [
       "US",
@@ -5561,6 +5570,7 @@
       }
     ],
     "pdf": "docs/safer roads/Segment related/HOC/Identifying Significant Predictors of Head-on Conflicts on Two-Lane Rural Roads Using Inductive Loop Detectors Data.pdf",
+    "pdf1": "docs/safer roads/Segment related/HOC/detector.pdf",
     "group": "Group 3",
     "categories": [
       "Non-US",
@@ -5716,6 +5726,7 @@
       }
     ],
     "pdf": "docs/safer roads/Segment related/HOC on freeway/carrigan-ray-2018-a-model-of-the-probability-of-a-cross-median-crash-when-a-vehicle-fully-crosses-the-median.pdf",
+    "pdf1": "docs/safer roads/Segment related/HOC on freeway/carrigan.pdf",
     "group": "Group 4",
     "categories": [
       "US",
@@ -5944,6 +5955,7 @@
       }
     ],
     "pdf": "docs/safer roads/Segment related/HOC on freeway/taylor-et-al-2018-a-comparative-analysis-of-factors-affecting-the-frequency-and-severity-of-freight-involved.pdf",
+    "pdf1": "docs/safer roads/Segment related/HOC on freeway/taylor-et-al.pdf",
     "group": "Group 4",
     "categories": [
       "US",
@@ -6325,6 +6337,7 @@
       }
     ],
     "pdf": "docs/safer roads/Segment related/Horizontal curve/Models of vehicle operating speeds along two-lane rural highway transition zones  panel and multilevel mod.pdf",
+    "pdf1": "docs/safer roads/Segment related/Horizontal curve/multilevel.pdf",
     "group": "Group 5",
     "categories": [
       "US",
@@ -6686,6 +6699,7 @@
       }
     ],
     "pdf": "docs/safer roads/Segment related/ROR/kutela-et-al-2021-prediction-of-occurrence-and-severity-of-run-off-roadway-crashes-on-rural-two-lane-roadways-using.pdf",
+    "pdf1": "docs/safer roads/Segment related/ROR/kutela.pdf",
     "group": "Group 6",
     "categories": [
       "US",
@@ -7409,6 +7423,7 @@
       }
     ],
     "pdf": "docs/safer roads/Segment related/Utility pole/hosseinpour-haleem-2021-examining-driver-injury-severity-in-single-vehicle-road-departure-crashes-involving-la.pdf",
+    "pdf1": "docs/safer roads/Segment related/Utility pole/hosseinpour.pdf",
     "group": "Group 5",
     "categories": [
       "US",
