@@ -51,18 +51,18 @@
       "related_measures": [
         {
           "title": "Sequential Transit Network Design with Optimal Learning Under Correlated Beliefs",
-          "link": "2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
+          "link": "docs/2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
         },
         {
           "title": "Comparative Analysis of Deep Learning Models for Hourly Bus Passenger Flow Forecasting",
-          "link": "2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
+          "link": "docs/2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
         },
         {
           "title": "Exploring Micromobility Choice Behavior Across Different Mode Users Using Machine Learning Methods",
-          "link": "2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf"
+          "link": "docs/2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf"
         }
       ],
-      "pdf": "2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf",
+      "pdf": "docs/2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf",
       "objective": "This study presents a data-driven framework designed to prioritize maintenance interventions in metro systems, focusing on minimizing passenger disruptions. By integrating asset condition data with passenger flow analysis, the framework aims to optimize maintenance schedules and enhance service reliability.",
       "method": "The framework combines anomaly detection, predictive maintenance algorithms, and passenger flow modeling. Data from automated passenger counting systems and maintenance records from Milan’s M5 metro line were analyzed. Maintenance activities were prioritized based on asset criticality and service impact.",
       "key_findings": [
@@ -131,18 +131,18 @@
       "related_measures": [
         {
           "title": "A Data-Driven Prioritization Framework to Mitigate Maintenance Impact on Passengers During Metro Line Operation",
-          "link": "2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf"
+          "link": "docs/2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf"
         },
         {
           "title": "Comparative Analysis of Deep Learning Models for Hourly Bus Passenger Flow Forecasting",
-          "link": "2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
+          "link": "docs/2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
         },
         {
           "title": "Sequential Transit Network Design with Optimal Learning Under Correlated Beliefs",
-          "link": "2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
+          "link": "docs/2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
         }
       ],
-      "pdf": "2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf",
+      "pdf": "docs/2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf",
       "objective": "The study aims to explore micromobility choice behavior by analyzing preferences for e-scooters, mopeds, and combined micromobility-transit services. It focuses on understanding how demographic, attitudinal, and trip-related factors influence the adoption of these modes.",
       "method": "A stated-preference survey was conducted in Florida, collecting data on various micromobility options. Extreme Gradient Boosting (XGBoost) models were applied to identify key determinants of mode choice. SHAP values and LIME were used for interpretability and validation.",
       "key_findings": [
@@ -211,18 +211,18 @@
       "related_measures": [
         {
           "title": "Exploring Micromobility Choice Behavior Across Different Mode Users Using Machine Learning Methods",
-          "link": "2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf"
+          "link": "docs/2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf"
         },
         {
           "title": "Sequential Transit Network Design with Optimal Learning Under Correlated Beliefs",
-          "link": "2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
+          "link": "docs/2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
         },
         {
           "title": "Comparative Analysis of Deep Learning Models for Hourly Bus Passenger Flow Forecasting",
-          "link": "2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
+          "link": "docs/2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
         }
       ],
-      "pdf": "2024_Wu_Minimum_living_standard_impact_on_transportation_expenditures_09121.pdf",
+      "pdf": "docs/2024_Wu_Minimum_living_standard_impact_on_transportation_expenditures_09121.pdf",
       "objective": "This study aims to evaluate the impact of China’s Minimum Living Standard Guarantee (MLSG) subsidy on household transportation expenditures. The research focuses on understanding how this policy affects the allocation of household resources, particularly for low-income families. By analyzing data from the Chinese Social Survey, the study seeks to uncover regional disparities and heterogeneity in treatment effects. This work contributes to policy discussions by exploring how MLSG subsidies can improve access to transportation and promote social equity.",
       "method": "The study employs a combination of Propensity Score Matching (PSM), Causal Forest (CF), and Marginal Treatment Effect (MTE) models. These methods address selection bias and estimate heterogeneous treatment effects. The data used includes household characteristics and expenditure patterns. Causal mediation analysis further explores mechanisms through which MLSG influences transportation spending. The robustness of findings is validated through cross-method comparisons.",
       "key_findings": [
@@ -287,18 +287,18 @@
       "related_measures": [
         {
           "title": "A Data-Driven Prioritization Framework to Mitigate Maintenance Impact on Passengers During Metro Line Operation",
-          "link": "2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf"
+          "link": "docs/2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf"
         },
         {
           "title": "Comparative Analysis of Deep Learning Models for Hourly Bus Passenger Flow Forecasting",
-          "link": "2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
+          "link": "docs/2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf"
         },
         {
           "title": "Unveiling the Causal Effects of China’s Minimum Living Standard Guarantee on Household Transportation Expenditures: A Causal Forest Analysis",
-          "link": "2024_Wu_Minimum_living_standard_impact_on_transportation_expenditures_09121.pdf"
+          "link": "docs/2024_Wu_Minimum_living_standard_impact_on_transportation_expenditures_09121.pdf"
         }
       ],
-      "pdf": "2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf",
+      "pdf": "docs/2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf",
       "objective": "This paper introduces an innovative framework for sequential transit network design that leverages optimal learning with correlated beliefs. The aim is to address demand uncertainty in transit operations by integrating data-driven approaches into network expansion strategies. The study explores how adaptive learning algorithms can enhance route design by iteratively updating demand predictions based on real-time operational data.",
       "method": "The research utilizes reinforcement learning techniques, specifically knowledge gradient methods with correlated beliefs, to optimize sequential decision-making in transit network design. The algorithm is tested on simulated and real-world datasets, including public use microdata from New York City. Comparisons with traditional greedy algorithms and other learning policies demonstrate the effectiveness of the proposed approach.",
       "key_findings": [
@@ -363,18 +363,18 @@
       "related_measures": [
         {
           "title": "A Data-Driven Prioritization Framework to Mitigate Maintenance Impact on Passengers During Metro Line Operation",
-          "link": "2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf"
+          "link": "docs/2024_Consilvio_Data_driven_prioritisation_framework_to_mitigate_maintenance_impact_on_passengers_00631.pdf"
         },
         {
           "title": "Sequential Transit Network Design with Optimal Learning Under Correlated Beliefs",
-          "link": "2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
+          "link": "docs/2024_Yoon_Sequential_transit_network_design_with_optimal_learning_under_correlated_beliefs_103707.pdf"
         },
         {
           "title": "Exploring Micromobility Choice Behavior Across Different Mode Users Using Machine Learning Methods",
-          "link": "2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf"
+          "link": "docs/2024_Sarker_Exploring_micromobility_choice_behavior_using_machine_learning_methods_100167.pdf"
         }
       ],
-      "pdf": "2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf",
+      "pdf": "docs/2024_Zhang_Comparative_Analysis_of_Deep_Learning_Models_for_Hourly_Bus_Passenger_Flow_Forecasting_10385.pdf",
       "objective": "This study conducts a comparative analysis of various deep learning models to forecast hourly bus passenger flow. The objective is to identify the most effective model for real-time passenger flow prediction, contributing to improved transit management and congestion mitigation. The research compares nine deep learning architectures, including LSTM, GRU, CNN, and hybrid models.",
       "method": "Two datasets from bus lines in Guangzhou, China, were analyzed using models such as LSTM, BiLSTM, CNN, and hybrid networks. Performance metrics, including root-mean-square error and Theil coefficient, were used to evaluate the models. Statistical tests, such as the Friedman test, assessed the significance of differences in model performance.",
       "key_findings": [
@@ -436,18 +436,18 @@
       "related_measures": [
         {
           "title": "Physics-Guided Deep Learning-Based Model for Short-Term Origin–Destination Demand Prediction in Urban Rail Transit Systems Under Pandemic",
-          "link": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
+          "link": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
         },
         {
           "title": "Beyond Binary Relationship: Multivariant Analysis Between Ride-Hailing and Public Transit Based on Multi-Sourcing Data",
-          "link": "2025_Cui_Beyond_binary_relationship_100876.pdf"
+          "link": "docs/2025_Cui_Beyond_binary_relationship_100876.pdf"
         },
         {
           "title": "A Copula-Based Approach for Multi-Modal Demand Dependence Modeling: Temporal Correlation Between Demand of Subway and Bike-Sharing",
-          "link": "2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf"
+          "link": "docs/2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf"
         }
       ],
-      "pdf": "2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf",
+      "pdf": "docs/2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf",
       "objective": "This paper proposes a multi-agent hierarchical deep reinforcement learning framework to address the complex multi-trip vehicle routing problem with soft time windows (MTVRPTW). The study aims to improve the efficiency and robustness of vehicle routing in logistics and urban delivery systems, particularly under conditions that require dynamic and collaborative decision-making.",
       "method": "The Coordinated Multi-Agent Hierarchical Deep Reinforcement Learning (CMA-HDRL) framework integrates three layers—time, communication, and global optimization. It employs a combination of reinforcement learning algorithms and multi-agent systems to optimize routing decisions. The model’s performance was benchmarked against traditional heuristic and genetic algorithms using real-world logistics data.",
       "key_findings": [
@@ -516,18 +516,18 @@
       "related_measures": [
         {
           "title": "Coordinated Multi-Agent Hierarchical Deep Reinforcement Learning for Multi-Trip Vehicle Routing Problems with Soft Time Windows",
-          "link": "2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
+          "link": "docs/2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
         },
         {
           "title": "Perceived Discrimination, Transit Use, and Walking Behavior During the COVID-19 Pandemic",
-          "link": "2025_Cochran_Perceived_discrimination_transit_use_and_walking_behavior_during_the_COVID19_pandemic_100871.pdf"
+          "link": "docs/2025_Cochran_Perceived_discrimination_transit_use_and_walking_behavior_during_the_COVID19_pandemic_100871.pdf"
         },
         {
           "title": "Beyond Binary Relationship: Multivariant Analysis Between Ride-Hailing and Public Transit Based on Multi-Sourcing Data",
-          "link": "2025_Cui_Beyond_binary_relationship_100876.pdf"
+          "link": "docs/2025_Cui_Beyond_binary_relationship_100876.pdf"
         }
       ],
-      "pdf": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf",
+      "pdf": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf",
       "objective": "The study focuses on developing a novel framework for predicting short-term origin–destination (OD) demand in urban rail transit systems, particularly under pandemic conditions. It aims to address the unique challenges posed by data sparsity, high-dimensionality, and real-time availability issues exacerbated by the pandemic. By incorporating physics-guided principles, the model seeks to improve the accuracy of OD demand predictions and enhance the operational efficiency of metro systems during both regular and pandemic scenarios.",
       "method": "The proposed methodology employs the Physics-Guided Adaptive Graph Spatial–Temporal Attention Network (PAG-STAN), which integrates various modules such as dynamic OD demand matrix compression and adaptive graph convolution. The framework leverages heterogeneous data, including historical OD demand and pandemic-related data, to train the model. A masked physics-guided loss function is applied to enhance interpretability by embedding physical relationships between OD demand and inbound flow into the model’s training process. The model's performance was validated using real-world metro data from Nanning, China.",
       "key_findings": [
@@ -596,18 +596,18 @@
       "related_measures": [
         {
           "title": "Physics-Guided Deep Learning-Based Model for Short-Term Origin–Destination Demand Prediction in Urban Rail Transit Systems Under Pandemic",
-          "link": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
+          "link": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
         },
         {
           "title": "A Copula-Based Approach for Multi-Modal Demand Dependence Modeling: Temporal Correlation Between Demand of Subway and Bike-Sharing",
-          "link": "2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf"
+          "link": "docs/2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf"
         },
         {
           "title": "Beyond Binary Relationship: Multivariant Analysis Between Ride-Hailing and Public Transit Based on Multi-Sourcing Data",
-          "link": "2025_Cui_Beyond_binary_relationship_100876.pdf"
+          "link": "docs/2025_Cui_Beyond_binary_relationship_100876.pdf"
         }
       ],
-      "pdf": "2025_Cochran_Perceived_discrimination_transit_use_and_walking_behavior_during_the_COVID19_pandemic_100871.pdf",
+      "pdf": "docs/2025_Cochran_Perceived_discrimination_transit_use_and_walking_behavior_during_the_COVID19_pandemic_100871.pdf",
       "objective": "This research investigates how perceived discrimination influenced transit use and walking behaviors among different racial and ethnic groups in the U.S. during the COVID-19 pandemic. The study aims to understand the structural disparities in mobility and physical activity during periods of restricted movement and heightened social tensions. By leveraging data from the Understanding America Study, it seeks to inform policymakers about the long-term implications of discrimination on health and mobility equity.",
       "method": "Data was collected from 20 waves of the Understanding America Study's COVID-19 tracking survey, covering July 2020 to July 2021. A linear mixed-effects model was used to analyze the impact of perceived discrimination on transit use and walking behaviors. The study controlled for demographic variables such as race, income, and urban density to isolate the effects of discrimination on mobility patterns.",
       "key_findings": [
@@ -676,18 +676,18 @@
       "related_measures": [
         {
           "title": "A Copula-Based Approach for Multi-Modal Demand Dependence Modeling: Temporal Correlation Between Demand of Subway and Bike-Sharing",
-          "link": "2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf"
+          "link": "docs/2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf"
         },
         {
           "title": "Physics-Guided Deep Learning-Based Model for Short-Term Origin–Destination Demand Prediction in Urban Rail Transit Systems Under Pandemic",
-          "link": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
+          "link": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
         },
         {
           "title": "Coordinated Multi-Agent Hierarchical Deep Reinforcement Learning for Multi-Trip Vehicle Routing Problems with Soft Time Windows",
-          "link": "2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
+          "link": "docs/2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
         }
       ],
-      "pdf": "2025_Cui_Beyond_binary_relationship_100876.pdf",
+      "pdf": "docs/2025_Cui_Beyond_binary_relationship_100876.pdf",
       "objective": "This study explores the complex, multivariant relationships between ride-hailing services and public transit systems. Moving beyond the traditional binary framework of competition or complementarity, it aims to uncover the nuanced interplay between these modes of transport. By leveraging multi-sourcing data, the research provides a deeper understanding of how factors like service quality, travel cost, and temporal variations influence user preferences and modal interactions.",
       "method": "The study employs a Gaussian Mixture Model (GMM) to classify the relationship between ride-hailing and public transit into multiple categories. It further utilizes multinomial logistic regression and Geographically Weighted Regression (GWR) to analyze the spatial and temporal factors influencing these classifications. Data was collected from various transit and ride-hailing platforms in Xi’an, China.",
       "key_findings": [
@@ -756,18 +756,18 @@
       "related_measures": [
         {
           "title": "Beyond Binary Relationship: Multivariant Analysis Between Ride-Hailing and Public Transit Based on Multi-Sourcing Data",
-          "link": "2025_Cui_Beyond_binary_relationship_100876.pdf"
+          "link": "docs/2025_Cui_Beyond_binary_relationship_100876.pdf"
         },
         {
           "title": "Perceived Discrimination, Transit Use, and Walking Behavior During the COVID-19 Pandemic",
-          "link": "2025_Cochran_Perceived_discrimination_transit_use_and_walking_behavior_during_the_COVID19_pandemic_100871.pdf"
+          "link": "docs/2025_Cochran_Perceived_discrimination_transit_use_and_walking_behavior_during_the_COVID19_pandemic_100871.pdf"
         },
         {
           "title": "Coordinated Multi-Agent Hierarchical Deep Reinforcement Learning for Multi-Trip Vehicle Routing Problems with Soft Time Windows",
-          "link": "2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
+          "link": "docs/2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
         }
       ],
-      "pdf": "2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf",
+      "pdf": "docs/2025_Di_Multimodal_demand_dependence_modeling_using_copula_approach_100908.pdf",
       "objective": "The research focuses on understanding the temporal correlation between subway and docked bike-sharing demands within a multimodal transportation system. It aims to improve operational strategies by identifying spatial-temporal patterns and dependencies in user behavior. This framework seeks to optimize first- and last-mile connectivity, thereby enhancing the efficiency of urban mobility networks.",
       "method": "Dynamic Time Warping (DTW) was used to define the catchment area between subway and bike-sharing services. A copula-based statistical model was employed to capture the dependency structure, separating individual usage patterns from joint modal interactions. The study applied its methodology to datasets from New York City's subway and bike-sharing systems.",
       "key_findings": [
@@ -829,18 +829,18 @@
       "related_measures": [
         {
           "title": "Comparative Analysis of Nonlinear Impacts on Built Environment Within Station Areas with Different Metro Ridership Segments",
-          "link": "2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
+          "link": "docs/2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
         },
         {
           "title": "Physics-Guided Deep Learning-Based Model for Short-Term Origin–Destination Demand Prediction in Urban Rail Transit Systems Under Pandemic",
-          "link": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
+          "link": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
         },
         {
           "title": "Coordinated Multi-Agent Hierarchical Deep Reinforcement Learning for Multi-Trip Vehicle Routing Problems with Soft Time Windows",
-          "link": "2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
+          "link": "docs/2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
         }
       ],
-      "pdf": "2025_Gerbaux_Column_generation_for_electric_bus_scheduling_106848.pdf",
+      "pdf": "docs/2025_Gerbaux_Column_generation_for_electric_bus_scheduling_106848.pdf",
       "objective": "This study focuses on optimizing electric bus scheduling by addressing challenges related to battery constraints and charging station capacities. It aims to improve operational efficiency and reduce computational time through a novel column-generation heuristic that integrates machine learning.",
       "method": "The study developed a column generation heuristic incorporating graph neural networks to reduce network size. Real-world data from Montreal's transit system was used to test the heuristic, which evaluated over 400 instances to assess its performance in terms of computational time and solution quality.",
       "key_findings": [
@@ -905,18 +905,18 @@
       "related_measures": [
         {
           "title": "Comparative Analysis of Nonlinear Impacts on Built Environment Within Station Areas with Different Metro Ridership Segments",
-          "link": "2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
+          "link": "docs/2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
         },
         {
           "title": "User Acceptance and Recommendation of Automated Buses: A Longitudinal Study in Stockholm",
-          "link": "2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
+          "link": "docs/2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
         },
         {
           "title": "Physics-Guided Deep Learning-Based Model for Short-Term Origin–Destination Demand Prediction in Urban Rail Transit Systems Under Pandemic",
-          "link": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
+          "link": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
         }
       ],
-      "pdf": "2025_Gu_Impact_of_transit_interchange_discount_policy_on_metro_to_bus_behavior_100923.pdf",
+      "pdf": "docs/2025_Gu_Impact_of_transit_interchange_discount_policy_on_metro_to_bus_behavior_100923.pdf",
       "objective": "The study explores the impacts of a transit interchange discount policy in Suzhou, China, on metro-to-bus transfer behavior. It aims to understand the policy's effects across different spatial and temporal contexts, providing insights for optimizing multimodal transport systems.",
       "method": "Using a two-year dataset, the study employs an explainable machine learning approach to analyze interchange behavior before and after the policy implementation. The analysis considers land use, demographic factors, and a novel bus accessibility metric.",
       "key_findings": [
@@ -985,18 +985,18 @@
       "related_measures": [
         {
           "title": "Free Interchange for Better Transit? Assessing the Multi-Dimensional Impacts on Metro to Bus Interchange Behavior − Insights from an Explainable Machine Learning Method",
-          "link": "2025_Gu_Impact_of_transit_interchange_discount_policy_on_metro_to_bus_behavior_100923.pdf"
+          "link": "docs/2025_Gu_Impact_of_transit_interchange_discount_policy_on_metro_to_bus_behavior_100923.pdf"
         },
         {
           "title": "Habits and the Subexploration of Better Transportation Options: A Dual-System Approach",
-          "link": "2025_HenriquezJara_Habits_and_the_subexploration_of_better_transportation_options_100877.pdf"
+          "link": "docs/2025_HenriquezJara_Habits_and_the_subexploration_of_better_transportation_options_100877.pdf"
         },
         {
           "title": "Comparative Analysis of Nonlinear Impacts on Built Environment Within Station Areas with Different Metro Ridership Segments",
-          "link": "2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
+          "link": "docs/2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
         }
       ],
-      "pdf": "2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf",
+      "pdf": "docs/2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf",
       "objective": "This study examines the factors influencing public acceptance and adoption of automated buses, with a focus on understanding how these factors evolve over time. It leverages real-world data from pilot projects in Stockholm to analyze the impact of service quality on user satisfaction, perception of usefulness, and behavioral intention. The goal is to provide insights that enhance user experience and facilitate the successful implementation of automated public transport systems.",
       "method": "A longitudinal survey was conducted with participants who experienced automated bus services under real traffic conditions. The study employed a dynamic structural equation model to analyze data collected over three waves, spanning 14 months. The model integrated elements from the Technology Acceptance Model and service quality assessments, allowing for an in-depth exploration of how user perceptions and adoption behaviors change over time.",
       "key_findings": [
@@ -1065,18 +1065,18 @@
       "related_measures": [
         {
           "title": "User Acceptance and Recommendation of Automated Buses: A Longitudinal Study in Stockholm",
-          "link": "2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
+          "link": "docs/2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
         },
         {
           "title": "A Machine-Learning-Based Column Generation Heuristic for Electric Bus Scheduling",
-          "link": "2025_Gerbaux_Column_generation_for_electric_bus_scheduling_106848.pdf"
+          "link": "docs/2025_Gerbaux_Column_generation_for_electric_bus_scheduling_106848.pdf"
         },
         {
           "title": "Coordinated Multi-Agent Hierarchical Deep Reinforcement Learning for Multi-Trip Vehicle Routing Problems with Soft Time Windows",
-          "link": "2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
+          "link": "docs/2024_Zhang_Coordinated_Multi_Agent_Hierarchical_Deep_Reinforcement_Learning_for_Multi_Trip_Vehicle_Routing_12394.pdf"
         }
       ],
-      "pdf": "2025_HenriquezJara_Habits_and_the_subexploration_of_better_transportation_options_100877.pdf",
+      "pdf": "docs/2025_HenriquezJara_Habits_and_the_subexploration_of_better_transportation_options_100877.pdf",
       "objective": "This research introduces the dual-system approach from psychology into transportation studies, aiming to explore how habitual and goal-directed decision-making systems influence travel behavior. The study focuses on identifying the extent to which habitual tendencies limit the exploration of superior transportation options, thereby providing insights for public policy aimed at encouraging more goal-directed travel behavior.",
       "method": "Two experiments were conducted involving participants who made travel choices under controlled conditions. A combination of model-based and model-free reinforcement learning algorithms was used to assess decision-making patterns. The experiments also incorporated stress-level assessments to evaluate their moderating effects on habitual behavior.",
       "key_findings": [
@@ -1146,18 +1146,18 @@
       "related_measures": [
         {
           "title": "Free Interchange for Better Transit? Assessing the Multi-Dimensional Impacts on Metro to Bus Interchange Behavior − Insights from an Explainable Machine Learning Method",
-          "link": "2025_Gu_Impact_of_transit_interchange_discount_policy_on_metro_to_bus_behavior_100923.pdf"
+          "link": "docs/2025_Gu_Impact_of_transit_interchange_discount_policy_on_metro_to_bus_behavior_100923.pdf"
         },
         {
           "title": "Physics-Guided Deep Learning-Based Model for Short-Term Origin–Destination Demand Prediction in Urban Rail Transit Systems Under Pandemic",
-          "link": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
+          "link": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
         },
         {
           "title": "User Acceptance and Recommendation of Automated Buses: A Longitudinal Study in Stockholm",
-          "link": "2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
+          "link": "docs/2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
         }
       ],
-      "pdf": "2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf",
+      "pdf": "docs/2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf",
       "objective": "This study investigates the nonlinear relationship between the built environment and metro ridership across different segments and time periods. By focusing on ridership segmentation, it aims to uncover spatiotemporal heterogeneity and provide actionable insights for optimizing transit-oriented development strategies.",
       "method": "Using metro ridership data from Wuhan, China, the study employs quantile regression and machine learning models to analyze built environment factors. The models evaluate ridership during weekdays and weekends, identifying threshold effects and nonlinear relationships across different ridership segments.",
       "key_findings": [
@@ -1226,18 +1226,18 @@
       "related_measures": [
         {
           "title": "Optimizing Customized Bus Lines Considering Users' Transfer Willingness under Cooperative and Competitive Relationships Between Metro and Online Car-hailing",
-          "link": "2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf"
+          "link": "docs/2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf"
         },
         {
           "title": "Investigating Spatial-Temporal Characteristics of Joint Activity/Travel Behaviour with Smart Card Data",
-          "link": "2025_Yang_Investigating_spatial_temporal_characteristics_of_joint_activity_travel_behaviour_100899.pdf"
+          "link": "docs/2025_Yang_Investigating_spatial_temporal_characteristics_of_joint_activity_travel_behaviour_100899.pdf"
         },
         {
           "title": "The Relationship Between Accessibility and Land Prices: A Focus on Accessibility to Transit in the 15-Min City",
-          "link": "2025_Yin_Accessibility_and_land_prices_in_the_15min_city_100914.pdf"
+          "link": "docs/2025_Yin_Accessibility_and_land_prices_in_the_15min_city_100914.pdf"
         }
       ],
-      "pdf": "2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf",
+      "pdf": "docs/2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf",
       "objective": "This study analyzes the relationship between activity spaces and leisure travel emissions in Reykjavík, focusing on how urban form and personal mobility patterns influence carbon footprints. It aims to provide actionable insights for reducing leisure travel emissions through urban design and policy measures.",
       "method": "Data were collected through travel diaries and GPS tracking to map activity spaces and estimate leisure travel emissions. A spatial regression model was applied to identify factors influencing emissions, including travel mode, trip distance, and destination types. The study also conducted scenario analysis to evaluate the impact of different urban planning strategies.",
       "key_findings": [
@@ -1306,18 +1306,18 @@
       "related_measures": [
         {
           "title": "Activity Spaces and Leisure Travel Emissions: A Case Study in Reykjavík, Iceland",
-          "link": "2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf"
+          "link": "docs/2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf"
         },
         {
           "title": "Investigating Spatial-Temporal Characteristics of Joint Activity/Travel Behaviour with Smart Card Data",
-          "link": "2025_Yang_Investigating_spatial_temporal_characteristics_of_joint_activity_travel_behaviour_100899.pdf"
+          "link": "docs/2025_Yang_Investigating_spatial_temporal_characteristics_of_joint_activity_travel_behaviour_100899.pdf"
         },
         {
           "title": "User Acceptance and Recommendation of Automated Buses: A Longitudinal Study in Stockholm",
-          "link": "2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
+          "link": "docs/2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
         }
       ],
-      "pdf": "2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf",
+      "pdf": "docs/2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf",
       "objective": "The study investigates the optimization of customized bus lines by accounting for users’ transfer willingness in the context of cooperative and competitive relationships between metro and online car-hailing services. It aims to enhance the efficiency and attractiveness of customized bus services in urban transport ecosystems.",
       "method": "A bi-level optimization model was developed to design customized bus routes. The upper-level model maximized system efficiency, while the lower-level model simulated user choices based on transfer costs and service quality. Data from Guangzhou’s transit system were used to validate the model.",
       "key_findings": [
@@ -1388,18 +1388,18 @@
       "related_measures": [
         {
           "title": "Activity Spaces and Leisure Travel Emissions: A Case Study in Reykjavík, Iceland",
-          "link": "2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf"
+          "link": "docs/2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf"
         },
         {
           "title": "Optimizing Customized Bus Lines Considering Users' Transfer Willingness under Cooperative and Competitive Relationships Between Metro and Online Car-hailing",
-          "link": "2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf"
+          "link": "docs/2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf"
         },
         {
           "title": "Comparative Analysis of Nonlinear Impacts on Built Environment Within Station Areas with Different Metro Ridership Segments",
-          "link": "2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
+          "link": "docs/2025_Peng_Comparative_analysis_of_nonlinear_impacts_on_built_environment_100898.pdf"
         }
       ],
-      "pdf": "2025_Yang_Investigating_spatial_temporal_characteristics_of_joint_activity_travel_behaviour_100899.pdf",
+      "pdf": "docs/2025_Yang_Investigating_spatial_temporal_characteristics_of_joint_activity_travel_behaviour_100899.pdf",
       "objective": "This study aims to analyze joint activity and travel behavior using smart card data from urban transit systems. By examining spatial and temporal patterns, the research seeks to uncover insights into collective travel dynamics and inform the design of user-centric transit services.",
       "method": "The study utilizes anonymized smart card data from Beijing’s transit network. A clustering algorithm was applied to group joint travel behaviors, identifying patterns in activity participation and travel timing. Spatial analysis tools were used to map travel flows and activity hotspots across the city.",
       "key_findings": [
@@ -1468,18 +1468,18 @@
       "related_measures": [
         {
           "title": "Activity Spaces and Leisure Travel Emissions: A Case Study in Reykjavík, Iceland",
-          "link": "2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf"
+          "link": "docs/2025_Raudsepp_Activity_spaces_and_leisure_travel_emissions_100896.pdf"
         },
         {
           "title": "Joint Choice of Departure Time, Trip-Chaining, and Travel Mode under Metro Disruption Scenarios",
-          "link": "2025_Zheng_Joint_choice_of_departure_time_trip_chaining_and_travel_mode_100892.pdf"
+          "link": "docs/2025_Zheng_Joint_choice_of_departure_time_trip_chaining_and_travel_mode_100892.pdf"
         },
         {
           "title": "Physics-Guided Deep Learning-Based Model for Short-Term Origin–Destination Demand Prediction in Urban Rail Transit Systems Under Pandemic",
-          "link": "2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
+          "link": "docs/2024_Zhang_Physics_Guided_Deep_Learning_for_Short_term_OD_Demand_Prediction_in_Urban_Rail_Transit_0420.pdf"
         }
       ],
-      "pdf": "2025_Yin_Accessibility_and_land_prices_in_the_15min_city_100914.pdf",
+      "pdf": "docs/2025_Yin_Accessibility_and_land_prices_in_the_15min_city_100914.pdf",
       "objective": "This research explores the relationship between transit accessibility and land prices within the framework of the 15-minute city concept. The study aims to quantify how proximity to public transit influences land values, providing empirical evidence to guide urban planning and policy development.",
       "method": "The study uses hedonic pricing models to analyze data from multiple cities, focusing on properties within a 15-minute walking radius of transit stations. The models account for various factors such as property size, neighborhood amenities, and transit frequency. Spatial autocorrelation was also addressed using Geographically Weighted Regression (GWR).",
       "key_findings": [
@@ -1549,18 +1549,18 @@
       "related_measures": [
         {
           "title": "The Relationship Between Accessibility and Land Prices: A Focus on Accessibility to Transit in the 15-Min City",
-          "link": "2025_Yin_Accessibility_and_land_prices_in_the_15min_city_100914.pdf"
+          "link": "docs/2025_Yin_Accessibility_and_land_prices_in_the_15min_city_100914.pdf"
         },
         {
           "title": "User Acceptance and Recommendation of Automated Buses: A Longitudinal Study in Stockholm",
-          "link": "2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
+          "link": "docs/2025_Guo_User_acceptance_and_recommendation_of_automated_buses_100909.pdf"
         },
         {
           "title": "Optimizing Customized Bus Lines Considering Users' Transfer Willingness under Cooperative and Competitive Relationships Between Metro and Online Car-hailing",
-          "link": "2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf"
+          "link": "docs/2025_Wang_Optimizing_Customized_Bus_Lines_100878.pdf"
         }
       ],
-      "pdf": "2025_Zheng_Joint_choice_of_departure_time_trip_chaining_and_travel_mode_100892.pdf",
+      "pdf": "docs/2025_Zheng_Joint_choice_of_departure_time_trip_chaining_and_travel_mode_100892.pdf",
       "objective": "This study examines how metro disruptions influence travelers' decisions regarding departure time, trip-chaining, and travel mode. The research focuses on understanding the interconnected nature of these choices during unplanned metro outages, providing insights for improving resilience in urban transit systems.",
       "method": "Using survey data collected from metro users in Shanghai, the study employs a joint choice model that integrates nested logit and mixed logit approaches. The model captures the interdependencies between departure time, trip-chaining, and travel mode choices under varying disruption scenarios. Simulated metro disruptions were introduced to validate the model's predictive capability.",
       "key_findings": [
