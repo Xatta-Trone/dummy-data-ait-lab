@@ -1,40 +1,88 @@
-{
+[
+  {
     "Transit Operations": [
-        "Public Transit",
-        "Network Design",
-        "Passenger Flow Forecasting",
-        "Electric Vehicles",
-        "Optimization",
-        "Machine Learning",
-        "Deep Learning Models",
-        "Demand Prediction",
-        "Physics-Guided Machine Learning"
-    ],
-    "Multi-Modal and Micromobility Integration": [
-        "Micromobility Integration",
-        "User Behavior",
-        "Ride-Hailing",
-        "Public Transit",
-        "Multi-Modal Integration",
-        "Bike-Sharing",
-        "Demand Modeling"
-    ],
-    "Behavioral Impacts": [
-        "Social and Economic Factors",
-        "User Behavior",
-        "Equity in Transportation"
-    ],
-    "Policy and Economic Impacts": [
-        "Economic Policies",
-        "Social and Economic Factors",
-        "15-Minute City",
-        "Land Use and Prices",
-        "Transit Accessibility",
-        "Machine Learning in Urban Planning"
-    ],
-    "Technology and AI Applications": [
-        "Vehicle Routing",
-        "Reinforcement Learning",
-        "AI in Transportation Systems"
+      {
+        "Public Transit": [
+          "Network Design",
+          "Passenger Flow Forecasting",
+          "Electric Vehicles"
+        ]
+      },
+      {
+        "Optimization Methods": [
+          "Machine Learning",
+          "Deep Learning Models",
+          "Demand Prediction",
+          "Physics-Guided Machine Learning"
+        ]
+      }
     ]
-}
+  },
+  {
+    "Multi-Modal and Micromobility Integration": [
+      {
+        "Micromobility": [
+          "Micromobility Integration",
+          "Bike-Sharing"
+        ]
+      },
+      {
+        "Transport Modes": [
+          "Ride-Hailing",
+          "Public Transit",
+          "Multi-Modal Integration"
+        ]
+      },
+      {
+        "Behavioral Factors": [
+          "User Behavior",
+          "Demand Modeling"
+        ]
+      }
+    ]
+  },
+  {
+    "Behavioral Impacts": [
+      {
+        "User Behavior": [
+          "Transportation Choices",
+          "Social and Economic Factors"
+        ]
+      },
+      {
+        "Equity Considerations": [
+          "Equity in Transportation"
+        ]
+      }
+    ]
+  },
+  {
+    "Policy and Economic Impacts": [
+      {
+        "Urban Planning": [
+          "15-Minute City",
+          "Transit Accessibility",
+          "Machine Learning in Urban Planning"
+        ]
+      },
+      {
+        "Economic Impacts": [
+          "Land Use and Prices",
+          "Economic Policies",
+          "Social and Economic Factors"
+        ]
+      }
+    ]
+  },
+  {
+    "Technology and AI Applications": [
+      {
+        "Algorithmic Models": [
+          "Vehicle Routing",
+          "Reinforcement Learning",
+          "AI in Transportation Systems"
+        ]
+      }
+    ]
+  }
+]
