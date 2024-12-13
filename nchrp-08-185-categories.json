@@ -1,57 +1,72 @@
 [
   {
-    "Transportation Systems Management": [
-      {
-        "Operational Strategies": [
-          "Traffic Management",
-          "Incident Management",
-          "Operational Efficiency"
-        ]
-      }
-    ]
+    "Transportation Systems Management": {
+      "Traffic Operations": [
+        "Traffic Flow Optimization",
+        "Incident Management",
+        "Operational Efficiency"
+      ],
+      "Integrated Planning": [
+        "ITS Integration",
+        "Regional Collaboration",
+        "Sustainability in Operations"
+      ]
+    }
   },
   {
-    "Intelligent Transportation Systems (ITS)": [
-      {
-        "Technology Integration": [
-          "Advanced Technologies",
-          "Data Integration",
-          "Real-Time Operations"
-        ]
-      }
-    ]
+    "Disaster Management and Resilience": {
+      "Emergency Preparedness": [
+        "Disaster Readiness",
+        "Infrastructure Protection",
+        "System Redundancy"
+      ],
+      "Response and Recovery": [
+        "Crisis Coordination",
+        "Post-Disaster Operations",
+        "Public Safety Communication"
+      ]
+    }
   },
   {
-    "Infrastructure Resilience": [
-      {
-        "Disaster and Maintenance Preparedness": [
-          "Disaster Preparedness",
-          "Bridge Evaluation",
-          "System Redundancy"
-        ]
-      }
-    ]
+    "Intelligent Transportation Systems (ITS)": {
+      "Technological Advancements": [
+        "AI in Transportation",
+        "Real-Time Operations",
+        "Data Integration"
+      ],
+      "Applications and Benefits": [
+        "Incident Detection",
+        "Public Transit Optimization",
+        "Driver Assistance Systems"
+      ]
+    }
   },
   {
-    "Funding and Policy": [
-      {
-        "Economic and Policy Frameworks": [
-          "Economic Analysis",
-          "Public-Private Partnerships",
-          "Innovative Funding Strategies"
-        ]
-      }
-    ]
+    "Policy and Funding Strategies": {
+      "Economic Planning": [
+        "Public-Private Partnerships",
+        "Innovative Funding Mechanisms",
+        "Cost-Benefit Analysis"
+      ],
+      "Regulatory Frameworks": [
+        "Policy Development",
+        "Sustainability Goals",
+        "Equity in Transportation"
+      ]
+    }
   },
   {
-    "Remote Sensing and Visualization": [
-      {
-        "Advanced Monitoring and Visualization": [
-          "LiDAR Applications",
-          "Structural Health Monitoring",
-          "Data Visualization"
-        ]
-      }
-    ]
+    "Remote Sensing and Advanced Visualization": {
+      "Monitoring and Evaluation": [
+        "LiDAR Scanning",
+        "Bridge Health Monitoring",
+        "Environmental Analysis"
+      ],
+      "Data Integration and Visualization": [
+        "GIS Integration",
+        "Interactive Dashboards",
+        "Decision-Making Tools"
+      ]
+    }
   }
 ]
