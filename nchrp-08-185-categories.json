@@ -1,72 +1,82 @@
 [
   {
-    "Transportation Systems Management": {
-      "Traffic Operations": [
-        "Traffic Flow Optimization",
-        "Incident Management",
-        "Operational Efficiency"
-      ],
-      "Integrated Planning": [
-        "ITS Integration",
-        "Regional Collaboration",
-        "Sustainability in Operations"
-      ]
-    }
+    "Transportation Systems Management": [
+      {
+        "Traffic Operations": [
+          "Traffic Flow Optimization",
+          "Incident Management",
+          "Operational Efficiency"
+        ],
+        "Integrated Planning": [
+          "ITS Integration",
+          "Regional Collaboration",
+          "Sustainability in Operations"
+        ]
+      }
+    ]
   },
   {
-    "Disaster Management and Resilience": {
-      "Emergency Preparedness": [
-        "Disaster Readiness",
-        "Infrastructure Protection",
-        "System Redundancy"
-      ],
-      "Response and Recovery": [
-        "Crisis Coordination",
-        "Post-Disaster Operations",
-        "Public Safety Communication"
-      ]
-    }
+    "Disaster Management and Resilience": [
+      {
+        "Emergency Preparedness": [
+          "Disaster Readiness",
+          "Infrastructure Protection",
+          "System Redundancy"
+        ],
+        "Response and Recovery": [
+          "Crisis Coordination",
+          "Post-Disaster Operations",
+          "Public Safety Communication"
+        ]
+      }
+    ]
   },
   {
-    "Intelligent Transportation Systems (ITS)": {
-      "Technological Advancements": [
-        "AI in Transportation",
-        "Real-Time Operations",
-        "Data Integration"
-      ],
-      "Applications and Benefits": [
-        "Incident Detection",
-        "Public Transit Optimization",
-        "Driver Assistance Systems"
-      ]
-    }
+    "Intelligent Transportation Systems (ITS)": [
+      {
+        "Technological Advancements": [
+          "AI in Transportation",
+          "Real-Time Operations",
+          "Data Integration"
+        ],
+        "Applications and Benefits": [
+          "Incident Detection",
+          "Public Transit Optimization",
+          "Driver Assistance Systems"
+        ]
+      }
+    ]
   },
   {
-    "Policy and Funding Strategies": {
-      "Economic Planning": [
-        "Public-Private Partnerships",
-        "Innovative Funding Mechanisms",
-        "Cost-Benefit Analysis"
-      ],
-      "Regulatory Frameworks": [
-        "Policy Development",
-        "Sustainability Goals",
-        "Equity in Transportation"
-      ]
-    }
+    "Policy and Funding Strategies": [
+      {
+        "Economic Planning": [
+          "Public-Private Partnerships",
+          "Innovative Funding Mechanisms",
+          "Cost-Benefit Analysis"
+        ],
+        "Regulatory Frameworks": [
+          "Policy Development",
+          "Sustainability Goals",
+          "Equity in Transportation"
+        ]
+      }
+    ]
   },
   {
-    "Remote Sensing and Advanced Visualization": {
-      "Monitoring and Evaluation": [
-        "LiDAR Scanning",
-        "Bridge Health Monitoring",
-        "Environmental Analysis"
-      ],
-      "Data Integration and Visualization": [
-        "GIS Integration",
-        "Interactive Dashboards",
-        "Decision-Making Tools"
-      ]
-    }
+    "Remote Sensing and Advanced Visualization": [
+      {
+        "Monitoring and Evaluation": [
+          "LiDAR Scanning",
+          "Bridge Health Monitoring",
+          "Environmental Analysis"
+        ],
+        "Data Integration and Visualization": [
+          "GIS Integration",
+          "Interactive Dashboards",
+          "Decision-Making Tools"
+        ]
+      }
+    ]
   }
 ]
