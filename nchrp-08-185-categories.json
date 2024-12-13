@@ -1,0 +1,57 @@
+[
+  {
+    "Transportation Systems Management": [
+      {
+        "Operational Strategies": [
+          "Traffic Management",
+          "Incident Management",
+          "Operational Efficiency"
+        ]
+      }
+    ]
+  },
+  {
+    "Intelligent Transportation Systems (ITS)": [
+      {
+        "Technology Integration": [
+          "Advanced Technologies",
+          "Data Integration",
+          "Real-Time Operations"
+        ]
+      }
+    ]
+  },
+  {
+    "Infrastructure Resilience": [
+      {
+        "Disaster and Maintenance Preparedness": [
+          "Disaster Preparedness",
+          "Bridge Evaluation",
+          "System Redundancy"
+        ]
+      }
+    ]
+  },
+  {
+    "Funding and Policy": [
+      {
+        "Economic and Policy Frameworks": [
+          "Economic Analysis",
+          "Public-Private Partnerships",
+          "Innovative Funding Strategies"
+        ]
+      }
+    ]
+  },
+  {
+    "Remote Sensing and Visualization": [
+      {
+        "Advanced Monitoring and Visualization": [
+          "LiDAR Applications",
+          "Structural Health Monitoring",
+          "Data Visualization"
+        ]
+      }
+    ]
+  }
+]
