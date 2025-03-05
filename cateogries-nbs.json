@@ -1,0 +1,33 @@
+[
+    {
+        "Climate Resilience": [
+            "Coastal Protection",
+            "Extreme Weather",
+            "Transportation Resilience",
+            "Flood & Erosion"
+        ]
+    },
+    {
+        "Nature-Based Solutions": [
+            "Highway Protection",
+            "Rail Adaptation",
+            "Port & Mangroves",
+            "Blue-Green Infrastructure",
+            "Carbon & Water"
+        ]
+    },
+    {
+        "Urban Sustainability": [
+            "Water Management",
+            "Air Quality",
+            "Urban Planning"
+        ]
+    },
+    {
+        "Environmental Impact": [
+            "Biodiversity",
+            "Ecosystem Services",
+            "Economic Benefits"
+        ]
+    }
+]
