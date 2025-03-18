@@ -1,0 +1,1033 @@
+[
+    {
+        "title": "National Assessment of Near-Road Air Quality in 2016: Multi-Year Pollutant Trends and Estimation of Near-Road PM2.5 Increment",
+        "description": "This study provides a national-scale evaluation of air quality in near-road environments across the United States, focusing on PM2.5 and NO2 trends from 2014 to 2016. The research analyzes near-road monitoring data, estimating the PM2.5 ‘increment’—the additional pollution observed near roadways compared to regional background levels. The findings contribute to regulatory air quality assessments and inform policymakers on transportation-related air pollution impacts.",
+        "images": [],
+        "references": [
+            "Karner et al. (2010). Near-Roadway Air Quality: Synthesizing the Findings from Real-World Data.",
+            "Baldauf et al. (2008). Traffic and Meteorological Impacts on Near-Road Air Quality: Summary of Methods and Trends from the Raleigh Near-Road Study.",
+            "U.S. Environmental Protection Agency (2016). Revision to the Near-Road NO2 Minimum Monitoring Requirements.",
+            "Fischer et al. (2015). Factors Affecting Pollutant Concentrations in the Near-Road Environment.",
+            "Ginzburg et al. (2015). Monitoring Study of the Near-Road PM2.5 Concentrations in Maryland."
+        ],
+        "related_measures": [
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            },
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts (2019)",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            }
+        ],
+        "pdf": "docs/2019_seagram_National Assessment of Near-Road Air Quality in 2016: Multi-Year Pollutant Trends and Estimation of Near-Road PM2.5 Increment.pdf",
+        "objective": "To evaluate near-road air pollution trends in the U.S., estimate the PM2.5 increment, and assess the regulatory and health implications of near-road air quality monitoring data.",
+        "method": "The study analyzes PM2.5 and NO2 monitoring data from 68 near-road sites across the U.S. from 2014 to 2016. It compares near-road PM2.5 concentrations with background levels using three methods: distance-based site selection, inverse distance weighting (IDW), and upwind site monitoring. The research also examines correlations between pollutant levels and factors such as roadway traffic volume, fleet composition, and distance from the roadway.",
+        "key_findings": [
+            "The estimated PM2.5 increment at near-road sites ranged from +0.6 to +1.1 µg/m³, contributing 6–10% of the total PM2.5 concentration.",
+            "NO2 concentrations decreased with increasing distance from roadways and increased with higher traffic volumes.",
+            "PM2.5 concentrations were not significantly correlated with traffic volume but showed stronger dependence on background regional pollution levels.",
+            "Urban areas with higher truck traffic showed a greater near-road contribution to PM2.5 levels.",
+            "The results support the need for refined methodologies in regulatory PM ‘hot-spot’ analyses for transportation planning."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Air Quality Monitoring",
+            "Population Exposure"
+        ]
+    },
+    {
+        "title": "The Impacts of Urbanization on Fine Particulate Matter (PM2.5) Concentrations",
+        "description": "This study investigates how urbanization affects PM2.5 concentrations across 135 countries at different stages of economic development. It explores the relationship between urbanization, transport emissions, and industrial activities, categorizing countries into underdeveloped, developing, and developed economies to analyze variations in pollution trends.",
+        "images": [],
+        "references": [
+            "Lelieveld et al. (2015). The contribution of outdoor air pollution sources to premature mortality on a global scale.",
+            "WHO (2018). Air pollution and public health impact assessment reports.",
+            "Pope et al. (2002). Health effects of fine particulate air pollution: Lung cancer and cardiopulmonary mortality.",
+            "UN-DESA (2018). Urbanization trends and socio-economic development classification.",
+            "Huang et al. (2014). Global urbanization and the environmental impacts of economic transitions."
+        ],
+        "related_measures": [
+            {
+                "title": "The Impacts of Urbanization on Fine Particulate Matter (PM2.5) Concentrations",
+                "link": "docs/2019_wang_The impacts of urbanization on fine particulate matter (PM2.5) concentrations.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions",
+                "link": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf"
+            }
+        ],
+        "pdf": "docs/2019_wang_The impacts of urbanization on fine particulate matter (PM2.5) concentrations.pdf",
+        "objective": "To analyze the effects of urbanization on PM2.5 concentrations across countries with different economic development levels and determine the role of industrial and transportation emissions in shaping air pollution trends.",
+        "method": "The study employs a panel data analysis from 1998 to 2014, classifying countries into three groups (underdeveloped, developing, and developed). It examines relationships between PM2.5 levels, urbanization rates, CO2 emissions from transport and manufacturing, and economic transformations using regression models and statistical tests.",
+        "key_findings": [
+            "Urbanization significantly increases PM2.5 levels in underdeveloped and developing countries due to rising transportation and industrial emissions.",
+            "In developed nations, urbanization is linked to a decline in PM2.5 concentrations due to stricter regulations, advanced pollution control technologies, and cleaner fuel adoption.",
+            "CO2 emissions from the transport sector have the highest impact on PM2.5 levels in underdeveloped countries, while industrial emissions dominate in developing regions.",
+            "Urban sprawl in developed countries leads to lower population density and mixed effects on PM2.5 levels, with transportation policies influencing air quality outcomes.",
+            "Policy interventions focusing on cleaner transportation and industrial practices are necessary to mitigate urbanization-induced PM2.5 pollution."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Urbanization & Pollution",
+            "Traffic Flow & Air Pollution",
+            "Policy & Regulations",
+            "PM2.5 Exposure"
+        ]
+    },
+    {
+        "title": "Toward Periodicity Correlation of Roadside PM2.5 Concentration and Traffic Volume: A Wavelet Perspective",
+        "description": "This study investigates the periodicity correlation between roadside PM2.5 concentration and traffic volume using wavelet transform analysis. Unlike traditional macroscopic approaches, the research focuses on the micro-scale relationship between PM2.5 levels and traffic flow. The study examines data from four urban streets in Beijing, revealing key patterns in pollution dispersion and traffic volume fluctuations. The findings contribute to a better understanding of PM2.5 concentration evolution and provide insights for traffic pollution mitigation and urban air quality regulation.",
+        "images": [],
+        "references": [
+            "Karner et al. (2010). Near-Roadway Air Quality: Synthesizing the Findings from Real-World Data.",
+            "Baldauf et al. (2008). Traffic and Meteorological Impacts on Near-Road Air Quality.",
+            "Grinsted et al. (2004). Application of the Cross Wavelet Transform and Wavelet Coherence to Geophysical Time Series.",
+            "Maraun & Kurths (2004). Cross Wavelet Analysis: Significance Testing and Pitfalls.",
+            "Torrence & Compo (1998). A Practical Guide to Wavelet Analysis."
+        ],
+        "related_measures": [
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            }
+        ],
+        "pdf": "docs/2019_wei_Toward_Periodicity_Correlation_of_Roadside_PM_2.5_Concentration_and_Traffic_Volume_A_Wavelet_Perspective.pdf",
+        "objective": "To explore the periodic correlation between roadside PM2.5 concentration and traffic volume using wavelet transform methods and analyze the hysteresis response of PM2.5 concentration concerning traffic volume fluctuations.",
+        "method": "The study employs discrete wavelet transform (DWT) and cross-wavelet transform (XWT) to examine the periodic patterns and lagging effects of PM2.5 concentration with respect to traffic volume. Data from four urban streets in Beijing were analyzed over different time scales to assess micro-scale interactions between traffic patterns and PM2.5 dispersion.",
+        "key_findings": [
+            "PM2.5 concentration and traffic volume exhibit periodicity influenced significantly by traffic signal cycles.",
+            "A hysteresis effect (time delay) of PM2.5 concentration relative to traffic volume was observed, ranging from 0.3 to 0.9 minutes.",
+            "Urban arterial roads showed stronger PM2.5 response delays due to wider pavement and increased diesel vehicle presence.",
+            "Micro-scale analysis revealed that traffic volume fluctuations are not always directly proportional to PM2.5 increments due to atmospheric conditions like wind speed and humidity.",
+            "Wavelet-based analysis provides a more accurate assessment of real-time pollutant evolution than traditional statistical regression models."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "title": "Spatial PM2.5 Mobile Source Impacts Using a Calibrated Indicator Method",
+        "description": "This study develops a spatially resolved method to estimate mobile source impacts on PM2.5 using a calibrated integrated mobile source indicator (IMSI) approach. By leveraging measurements of elemental carbon (EC), carbon monoxide (CO), and nitrogen oxides (NOx), the method refines spatial emissions data and receptor model results to estimate PM2.5 contributions from gasoline and diesel vehicles. The analysis focuses on Georgia, USA, and evaluates the method's performance compared to receptor-based Chemical Mass Balance (CMB) estimates.",
+        "images": [],
+        "references": [
+            "Pachon et al. (2012). Development of outcome-based, multipollutant mobile source indicators.",
+            "Friberg et al. (2016). Method for fusing observational data and chemical transport model simulations to estimate spatiotemporally resolved ambient air pollution.",
+            "Hu et al. (2014). Fine particulate matter source apportionment using a hybrid chemical transport and receptor model approach.",
+            "EPA (2004). EPA-CMB8.2 User’s Manual.",
+            "Watson et al. (1984). Receptor model techniques for resolving source contributions to ambient particulate matter."
+        ],
+        "related_measures": [
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            },
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts (2019)",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            },
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            }
+        ],
+        "pdf": "docs/2019_zhai_Spatial PM2.5 mobile source impacts using a calibrated indicator method.pdf",
+        "objective": "To develop and validate a method for estimating spatially resolved PM2.5 mobile source impacts using calibrated emissions and receptor model data. The study aims to improve spatial accuracy and provide daily estimates of gasoline and diesel vehicle contributions.",
+        "method": "The study extends the IMSI method by integrating concentration data from the Community Multiscale Air Quality (CMAQ) model with receptor-based estimates from the Chemical Mass Balance (CMB) model. The IMSI method uses weighted EC, CO, and NOx concentrations as indicators of mobile source contributions, adjusting for spatial resolution and calibrating against annual CMB source impact estimates.",
+        "key_findings": [
+            "Mobile source contributions to PM2.5 were estimated with high temporal correlation (R = 0.59 to 0.88) compared to receptor-based CMB estimates.",
+            "The method effectively differentiates between gasoline and diesel vehicle impacts, with urban areas showing a higher fraction of gasoline vehicle emissions and rural areas dominated by diesel emissions.",
+            "PM2.5 source impacts varied spatially, with hotspots near major roadways and lower concentrations in rural regions.",
+            "The approach demonstrated better agreement with CMB estimates in urban areas than in rural areas due to non-traffic sources affecting EC and NOx concentrations.",
+            "Daily PM2.5 estimates from mobile sources provide valuable input for air quality assessments and public health studies."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Air Quality Monitoring",
+            "Population Exposure"
+        ]
+    },
+    {
+        "title": "Apportionment of PM2.5 Adjacent to the I-710 Harbor Freeway in Long Beach, CA",
+        "description": "This study examines the sources of PM2.5 pollution adjacent to the I-710 Harbor Freeway in Long Beach, CA. Using hourly monitoring data and Positive Matrix Factorization (PMF), the research identifies key contributors to near-road air pollution, including diesel truck emissions from port-related and non-port sources, gasoline vehicle emissions, and secondary pollutant formation. The study also evaluates the impact of refinery upsets on PM2.5 levels and visibility degradation.",
+        "images": [],
+        "references": [
+            "Brunekreef et al. (1997). Air pollution and reduced lung function in children.",
+            "Health Effects Institute (2010). Traffic-Related Air Pollution: A Critical Review of the Literature.",
+            "Westerdahl et al. (2005). Ultrafine Particle Exposure Near Freeways and Urban Streets.",
+            "Kozawa, Fruin, and Winer (2009). Near-roadway air pollution and truck traffic impacts.",
+            "Polissar et al. (1998). Evaluation of a source apportionment technique using chemically speciated air quality data."
+        ],
+        "related_measures": [
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            },
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            }
+        ],
+        "pdf": "docs/2020_eatough_Apportionment of PM2.5 adjacent to the I-710 Harbor Freeway in Long Beach CA.pdf",
+        "objective": "To apportion PM2.5 sources near a major freeway and assess the contributions of diesel and gasoline vehicle emissions, secondary PM formation, and refinery upsets to air pollution in Long Beach, CA.",
+        "method": "PM2.5 and associated pollutants were monitored hourly at a site near the I-710 Freeway. A Positive Matrix Factorization (EPA-PMF v5.0) analysis was applied to 520 data sets of PM2.5 species, including black carbon (BC), elemental carbon (EC), nitrate, sulfate, and organic material. The study also used nephelometer light scattering data to examine visibility degradation sources. Meteorological modeling (WRF) was used to evaluate air mass transport patterns influencing pollutant distribution.",
+        "key_findings": [
+            "Three diesel-related PM2.5 factors were identified: two linked to port truck traffic and one associated with general freeway diesel emissions.",
+            "Gasoline vehicle emissions contributed significantly to PM2.5 levels, particularly during peak traffic hours.",
+            "Secondary PM formation played a major role, with ammonium nitrate and organic aerosols making substantial contributions.",
+            "Refinery upsets, rather than port activities, were the primary source of sulfate and chloride-related PM2.5 spikes.",
+            "Diesel truck emissions from the ports accounted for 95% of the black carbon measured at the site, despite making up only 9% of total traffic."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Air Quality Monitoring",
+            "Population Exposure"
+        ]
+    },
+    {
+        "title": "Health and Economic Consequences of Applying the United States’ PM2.5 Automobile Emissions Standards to Other Nations",
+        "description": "This study examines the potential health and economic benefits of adopting the United States’ PM2.5 automobile emissions standards in France and Italy. Using a cost-effectiveness modeling approach, the study assesses the impact of stricter vehicle emission regulations on air quality, healthcare costs, and overall public health. The findings demonstrate that implementing U.S. standards would save both lives and money, making a strong case for adopting more stringent emission policies in European nations.",
+        "images": [],
+        "references": [
+            "European Environment Agency (2017). Air Quality in Europe Report.",
+            "Health Effects Institute (2010). Traffic-Related Air Pollution: A Critical Review.",
+            "Hoek et al. (2013). Long-term Air Pollution Exposure and Cardiorespiratory Mortality.",
+            "United States Environmental Protection Agency (2016). Final Rule for Model Year 2017 and Later Light-Duty Vehicle Greenhouse Gas Emissions.",
+            "Beelen et al. (2014). Effects of Long-Term Exposure to Air Pollution on Natural-Cause Mortality."
+        ],
+        "related_measures": [
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts (2019)",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            },
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            },
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            }
+        ],
+        "pdf": "docs/2020_kim_Health and Economic Consequences of Applying the United States’ PM2.5 Automobile Emissions Standards to Other Nations.pdf",
+        "objective": "To evaluate the health and economic consequences of adopting U.S. vehicle emission standards for PM2.5 in France and Italy, using cost-effectiveness modeling to assess the incremental benefits in terms of quality-adjusted life years (QALYs) and financial savings.",
+        "method": "A quasi-experimental cost-effectiveness analysis using a Markov model to estimate the impact of stricter PM2.5 vehicle emission standards. The model compares two scenarios: maintaining current European standards versus adopting the U.S. standards. Inputs include PM2.5 exposure levels, disease incidence rates, healthcare costs, and regulatory expenses. Monte Carlo simulations are used to assess the robustness of the findings.",
+        "key_findings": [
+            "Adopting U.S. PM2.5 vehicle emission standards would lead to net financial savings of €1,000 per capita in France and €3,000 per capita in Italy.",
+            "Quality-adjusted life years (QALYs) would increase by 0.04 per person in France and 0.31 in Italy under stricter regulations.",
+            "Reductions in PM2.5 exposure would significantly lower rates of cardiovascular disease, stroke, and asthma hospitalizations.",
+            "Monte Carlo simulations confirm that over 90% of modeled scenarios resulted in both cost savings and improved public health outcomes.",
+            "Stricter vehicle emission standards could reduce premature mortality and improve overall life expectancy in European populations."
+        ],
+        "group": "Environmental Impact & Modeling",
+        "categories": [
+            "Pollution Modeling",
+            "Health Effects",
+            "Vehicle Pollution Control",
+            "Traffic Emissions"
+        ]
+    },
+    {
+        "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+        "description": "This study assesses the accuracy of air quality models by comparing modeled PM2.5 exposure concentrations with monitored data in near-road communities. The research focuses on a site adjacent to US 54 in El Paso, Texas, analyzing the contribution of transportation emissions to air pollution levels. Using traffic data, emission modeling, and dispersion analysis, the study evaluates the relative impact of regional background pollution versus near-road PM2.5 exposure, offering insights into improving air quality assessments.",
+        "images": [],
+        "references": [
+            "Beckerman et al. (2008). Correlation of Nitrogen Dioxide with Other Traffic Pollutants near a Major Expressway.",
+            "Brugge et al. (2007). Near-Highway Pollutants in Motor Vehicle Exhaust: A Review of Epidemiologic Evidence.",
+            "DeWinter et al. (2018). A National-Scale Review of Air Pollutant Concentrations Measured in the U.S. Near-Road Monitoring Network.",
+            "Hu et al. (2009). A Wide Area of Air Pollutant Impact Downwind of a Freeway during Pre-sunrise Hours.",
+            "Karner et al. (2010). Near-Roadway Air Quality: Synthesizing the Findings from Real-World Data."
+        ],
+        "related_measures": [
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts (2019)",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            }
+        ],
+        "pdf": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf",
+        "objective": "To evaluate the accuracy of modeled PM2.5 exposure concentrations by comparing them with monitored data, assessing the contribution of transportation emissions to air pollution in a near-road community.",
+        "method": "The study utilizes traffic data collection, air quality monitoring, emission modeling (MOVES2014b), and dispersion modeling (AERMOD) to estimate PM2.5 exposure concentrations near a major highway. Data from three monitoring sites at varying distances from US 54 are analyzed to determine the impact of highway-related emissions compared to regional background concentrations.",
+        "key_findings": [
+            "Modeled PM2.5 concentrations were generally higher than monitored values, with overestimation ranging from 11% to 41%.",
+            "More than 85% of the PM2.5 exposure in the near-road community was attributed to regional background pollution rather than direct transportation emissions.",
+            "PM2.5 concentrations dropped significantly within 300m of the highway, indicating rapid dispersion of traffic-related pollutants.",
+            "Traffic emissions from the US 54 highway contributed 80–90% of PM2.5 at near-road receptors but only 50% at receptors located farther from the roadway.",
+            "The study highlights the need for improved background data and site-specific meteorological inputs to enhance air quality modeling accuracy."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Traffic Flow & Air Pollution",
+            "Population Exposure",
+            "Air Quality Monitoring",
+            "Pollution Modeling"
+        ]
+    },
+    {
+        "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition (Case Study of Saint Petersburg)",
+        "description": "This study investigates the presence of PM2.5 soot particles in near-road environments along the Saint Petersburg Ring Road under extreme meteorological and traffic conditions. It examines the morphology, chemical composition, and diffusion patterns of diesel soot particles, particularly under temperature inversions and low wind speeds. The research highlights the high concentrations of black carbon and toxic metal compounds near ring roads, emphasizing their implications for urban air quality and human health.",
+        "images": [],
+        "references": [
+            "Brook et al. (2004). Air Pollution and Cardiovascular Disease: A Statement for Healthcare Professionals.",
+            "Seaton et al. (1995). Particulate Air Pollution and Acute Health Effects.",
+            "Lozhkin et al. (2019). Physical and Mathematical Model of PM2.5 Formation, Distribution, and Accumulation.",
+            "Genikhovich et al. (2012). Characteristics of Aerosol Atmospheric Pollution: Modeling for Practical Applications.",
+            "Serebritsky (2019). Report on the Environmental Situation in Saint Petersburg."
+        ],
+        "related_measures": [
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Health and Economic Consequences of Applying the United States’ PM2.5 Automobile Emissions Standards to Other Nations",
+                "link": "docs/2020_kim_Health and Economic Consequences of Applying the United States’ PM2.5 Automobile Emissions Standards to Other Nations.pdf"
+            }
+        ],
+        "pdf": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition (case study of Saint Petersburg).pdf",
+        "objective": "To analyze the air pollution levels on ring roads under extreme meteorological and traffic conditions, focusing on PM2.5 soot particle composition, diffusion patterns, and potential health impacts.",
+        "method": "This study integrates field measurements, computational modeling, and chemical analysis of PM2.5 soot particles collected near the Saint Petersburg Ring Road. Digital traffic monitoring was used to quantify diesel truck density, while spectral analysis assessed the presence of heavy metals and polycyclic aromatic hydrocarbons (PAHs) in soot deposits. The study modeled PM2.5 dispersion under varying wind speeds and temperature inversions.",
+        "key_findings": [
+            "PM2.5 soot concentrations near the Saint Petersburg Ring Road reached up to 2.5 times the maximum allowable concentration under extreme conditions.",
+            "Diesel soot deposits contained high levels of lead (17.5 mg/kg), cadmium (0.5 mg/kg), nickel (104 mg/kg), and chromium (156 mg/kg).",
+            "Benzo[a]pyrene (a PAH) was detected at 0.015 mg/kg in diesel soot, exceeding WHO-recommended safe levels.",
+            "During peak traffic hours, localized air pollution zones formed near major interchanges, particularly under stable temperature inversion conditions.",
+            "The study highlights the need for stricter diesel emission controls and improved urban traffic planning to mitigate near-road exposure risks."
+        ],
+        "group": "Vehicle Emissions & Public Health",
+        "categories": [
+            "Diesel & Gasoline Impacts",
+            "Air Quality Monitoring",
+            "Traffic Flow & Air Pollution",
+            "Pollution Modeling"
+        ]
+    },
+    {
+        "title": "Cytotoxicity of PM2.5 Vehicular Emissions in the Shing Mun Tunnel, Hong Kong",
+        "description": "This study investigates the oxidative stress and inflammatory responses induced by PM2.5 vehicular emissions in the Shing Mun Tunnel, Hong Kong. The research examines the cytotoxic effects of PM2.5 on human lung alveolar epithelial (A549) cells, identifying key pollutants responsible for oxidative stress and inflammation. The study highlights the significant role of diesel-fueled vehicles in producing toxic emissions and their impact on respiratory health.",
+        "images": [],
+        "references": [
+            "Brunekreef & Holgate (2002). Air Pollution and Health.",
+            "Pope III & Dockery (2006). Health Effects of Fine Particulate Air Pollution: Lines that Connect.",
+            "Steenhof et al. (2011). Pro-inflammatory Responses to Air Pollution in Human Cells.",
+            "Janssen et al. (2003). Air Pollution from Heavy Traffic and Respiratory Sensitization.",
+            "Chuang et al. (2012). Traffic-Related PM2.5 and Inflammatory Mediators in Human Exposure Studies."
+        ],
+        "related_measures": [
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            },
+            {
+                "title": "Health and Economic Consequences of Applying the United States’ PM2.5 Automobile Emissions Standards to Other Nations",
+                "link": "docs/2020_kim_Health and Economic Consequences of Applying the United States’ PM2.5 Automobile Emissions Standards to Other Nations.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            }
+        ],
+        "pdf": "docs/2020_niu_Cytotoxicity of PM2.5 vehicular emissions in the Shing Mun Tunnel, Hong Kong.pdf",
+        "objective": "To assess the cytotoxic effects of PM2.5 vehicular emissions on human lung cells and identify specific pollutants responsible for oxidative stress and inflammation in a tunnel environment.",
+        "method": "PM2.5 samples were collected at the inlet and outlet of the Shing Mun Tunnel and analyzed for their chemical composition. Human lung alveolar epithelial (A549) cells were exposed to these samples, and their oxidative stress and inflammatory responses were measured using biomarkers such as lactate dehydrogenase (LDH), 8-isoprostane, and interleukin-6 (IL-6). Cytotoxicity emission factors (CFveh) were calculated to normalize the toxicity impact per vehicle.",
+        "key_findings": [
+            "PM2.5 emissions from diesel vehicles exhibited significantly higher cytotoxic effects than gasoline vehicle emissions.",
+            "Oxidative stress increased by 31.4% at the tunnel outlet compared to the inlet, indicating significant PM2.5 bioreactivity.",
+            "Inflammation markers such as IL-6 increased by 29.4% after PM2.5 exposure, highlighting the potential respiratory health risks.",
+            "Higher toxicity factors (CFveh) were observed during morning rush hours, coinciding with peak diesel vehicle traffic.",
+            "Polycyclic aromatic hydrocarbons (PAHs) such as benzo(a)pyrene and indeno(1,2,3-cd)pyrene were strongly correlated with inflammatory responses in lung cells."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "Health Effects",
+            "Vehicle Pollution Control",
+            "PM2.5 Exposure",
+            "Traffic Emissions"
+        ]
+    },
+    {
+        "title": "Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas",
+        "description": "This study develops a novel transport-based population exposure model that accounts for the different modes of transport in urban areas to estimate exposure to NO2 and PM2.5. The research applies a dynamic time-microenvironment-activity (TMA) modeling approach to Hamburg, Germany, in 2016, incorporating transport-specific exposure environments such as in-car, walking, cycling, buses, and rail-based public transit. The study aims to improve air pollution risk assessments and inform urban mobility planning by identifying modal contributions to air pollution exposure.",
+        "images": [],
+        "references": [
+            "Brunekreef & Holgate (2002). Air Pollution and Health.",
+            "Pope III & Dockery (2006). Health Effects of Fine Particulate Air Pollution.",
+            "Janssen et al. (2003). Air Pollution from Heavy Traffic and Respiratory Sensitization.",
+            "Chuang et al. (2012). Traffic-Related PM2.5 and Inflammatory Mediators in Human Exposure Studies.",
+            "Brook et al. (2004). Air Pollution and Cardiovascular Disease: A Statement for Healthcare Professionals."
+        ],
+        "related_measures": [
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts (2019)",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            }
+        ],
+        "pdf": "docs/2020_ramacher_Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas.pdf",
+        "objective": "To enhance urban air pollution exposure models by integrating transport-specific population exposure assessments, improving accuracy in estimating NO2 and PM2.5 exposure levels for different transport environments.",
+        "method": "A dynamic time-microenvironment-activity (TMA) modeling approach is applied to estimate NO2 and PM2.5 exposure across different transport environments in Hamburg, Germany. The study combines an urban-scale chemistry transport model (EPISODE-CityChem) with mobility and exposure assessments, incorporating OpenStreetMap data to distinguish between walking, cycling, in-car, bus, subway, suburban, and regional train environments. Population exposure is estimated by integrating air pollution modeling with mobility patterns, considering pollutant infiltration into indoor transport spaces.",
+        "key_findings": [
+            "The dynamic transport exposure model reported 12% more total exposure to NO2 and 19% more to PM2.5 compared to estimates based solely on residential addresses.",
+            "The in-car environment contributed 40% of annual NO2 exposure and 33% of PM2.5 exposure, followed by walking (26% NO2, 30% PM2.5) and cycling (15% NO2, 17% PM2.5).",
+            "Exposure to PM2.5 concentrations above WHO guideline values was highest in the cycling environment, followed by in-car environments during peak traffic hours.",
+            "The study highlights the limitations of static exposure models, emphasizing the importance of considering real-world transport exposure when assessing urban air quality impacts.",
+            "Findings support the need for transport-specific policy interventions, such as improved public transit infrastructure, traffic restrictions, and active transport incentives to reduce exposure."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Traffic Flow & Air Pollution",
+            "Population Exposure",
+            "Air Quality Monitoring",
+            "Pollution Modeling"
+        ]
+    },
+    {
+        "title": "High-Speed Rail, Firm Agglomeration, and PM2.5: Evidence from China",
+        "description": "This study examines the impact of high-speed rail (HSR) connectivity on air quality in China, focusing on how firm agglomeration patterns influence PM2.5 concentrations. Using a difference-in-differences approach, the research evaluates whether HSR connections lead to changes in pollution levels by shifting industrial activities and modifying regional economic structures. The findings suggest that HSR connectivity reduces PM2.5 levels, primarily through the relocation of polluting industries.",
+        "images": [],
+        "references": [
+            "Chen et al. (2013). Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy.",
+            "Ebenstein et al. (2015). Growth, pollution, and life expectancy: China from 1991–2012.",
+            "Zheng & Kahn (2017). A new era of pollution progress in urban China?",
+            "Li et al. (2016). Economic evaluation of the air pollution effect on public health in China’s 74 cities.",
+            "Diao (2018). Does growth follow the rail? The potential impact of high-speed rail on the economic geography of China."
+        ],
+        "related_measures": [
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Comparison of Modeled-to-Monitored PM2.5 Exposure Concentrations Resulting from Transportation Emissions",
+                "link": "docs/2020_li_comparison-of-modeled-to-monitored-pm2-5-exposure-concentrations-resulting-from-transportation-emissions.pdf"
+            },
+            {
+                "title": "Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas",
+                "link": "docs/2020_ramacher_Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas.pdf"
+            }
+        ],
+        "pdf": "docs/2021_chang_High-speed rail, firm agglomeration, and PM2.5.pdf",
+        "objective": "To analyze how HSR connectivity affects air quality in China by influencing firm agglomeration patterns and relocating polluting industries, thereby reducing PM2.5 concentrations in connected regions.",
+        "method": "The study employs a difference-in-differences (DID) estimation method to compare PM2.5 concentrations before and after HSR implementation. It also utilizes an instrumental variable approach to estimate the causal relationship between HSR connectivity and industrial relocation. The research leverages county-level data from 2004 to 2016, controlling for economic, demographic, and environmental variables.",
+        "key_findings": [
+            "HSR connectivity reduces PM2.5 concentrations by an average of 2.8% in connected counties.",
+            "Industrial relocation driven by HSR results in a 2.74% decrease in PM2.5 levels, as polluting firms move away from high-cost areas.",
+            "The impact of HSR on air quality is stronger in suburban regions compared to urban areas.",
+            "Counties without HSR access face an increase in industrial activity and pollution, exacerbating regional environmental inequality.",
+            "The findings suggest that HSR development not only improves transportation efficiency but also has unintended environmental benefits by shifting pollution-intensive industries."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Urbanization & Pollution",
+            "Traffic Flow & Air Pollution",
+            "Pollution Modeling",
+            "Population Exposure"
+        ]
+    },
+    {
+        "title": "Spatial Distribution Characteristics of PM2.5 Concentration Around Residential Buildings in Urban Traffic-Intensive Areas",
+        "description": "This study investigates the spatial distribution of PM2.5 concentrations near residential buildings in urban areas with heavy traffic emissions. It develops a machine-learning-based spatial distribution model (SDC) to estimate PM2.5 exposure and assesses the decrease in life expectancy (DLE) of residents. The study uses computational fluid dynamics (CFD) simulations and on-site monitoring to analyze PM2.5 variation with building height and distance from the road, providing insights for urban planning and pollution mitigation strategies.",
+        "images": [],
+        "references": [
+            "Patel et al. (2016). Urban Air Pollution and Health Risks.",
+            "Yu et al. (2019). The Impact of Air Quality on Life Expectancy in Urban Areas.",
+            "Cao et al. (2017). Traffic Pollution and Residential Air Quality in High-Density Cities.",
+            "Pateraki et al. (2019). Quantification of Non-Exhaust Traffic Emissions in Urban Areas.",
+            "Wang et al. (2020). CFD-Based Modeling of Particulate Matter Dispersion in Urban Environments."
+        ],
+        "related_measures": [
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            }
+        ],
+        "pdf": "docs/2021_meng_Spatial distribution characteristics of PM2.5 concentration around residential buildings in urban traffic-intensive area.pdf",
+        "objective": "To evaluate the spatial distribution of PM2.5 concentration near residential buildings in urban traffic-intensive areas and assess its impact on life expectancy, using a combination of on-site monitoring, CFD simulations, and machine learning-based predictive modeling.",
+        "method": "The study integrates field monitoring, CFD simulations, and machine learning-based regression modeling to estimate PM2.5 concentrations and their impact on residents' life expectancy. PM2.5 levels were measured at different heights (1st to 21st floors) and distances from the road (0 to 120m) in Guangzhou, China. A spatial distribution model (SDC) was developed using logistic regression to estimate PM2.5 variations across different urban settings.",
+        "key_findings": [
+            "PM2.5 concentrations decrease from 74μg/m³ to 43μg/m³ within 120m from the road and from 73μg/m³ to 42μg/m³ from ground level to 60m height.",
+            "Residents living in buildings within 120m of the road experience a decrease in life expectancy (DLE) of up to 5.11 years.",
+            "PM2.5 concentrations stabilize at approximately 40-45μg/m³ at heights above 60m and distances beyond 120m, where DLE reduces to 0.62-0.91 years.",
+            "A spatial distribution estimation model (SDC) was developed, demonstrating high accuracy (<10% error) in predicting PM2.5 levels and DLE.",
+            "Findings provide recommendations for urban planners, including positioning residential buildings at least 120m from high-traffic roads to reduce exposure risks."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Health Effects",
+            "Urbanization & Pollution",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "title": "Relationship Between Neighborhood Land Use Structure and the Spatiotemporal Pattern of PM2.5 at the Microscale",
+        "description": "This study investigates the relationship between neighborhood land use structure and the spatiotemporal distribution of PM2.5 at the microscale in the central area of Guangzhou, China. Using mobile monitoring data and point of interest (POI) data, the research employs a Classification and Regression Tree (CART) model to analyze land use impacts on PM2.5 pollution levels. The study provides insights into how urban land use influences PM2.5 concentrations and offers recommendations for urban planning and pollution mitigation.",
+        "images": [],
+        "references": [
+            "Beelen et al. (2014). Air Pollution and Mortality Risk: A Global Perspective.",
+            "Zhong et al. (2014). Urban Land Use and PM2.5 Variability in High-Density Areas.",
+            "Li et al. (2016). Impact of Traffic and Industrial Activities on PM2.5 Levels in Urban Environments.",
+            "Shi et al. (2017). The Role of Land Use in Air Pollution Diffusion in Dense City Cores.",
+            "Lu et al. (2018). The Role of Trees in PM2.5 Mitigation: Benefits and Challenges."
+        ],
+        "related_measures": [
+            {
+                "title": "Spatial Distribution Characteristics of PM2.5 Concentration Around Residential Buildings in Urban Traffic-Intensive Areas",
+                "link": "docs/2021_meng_Spatial distribution characteristics of PM2.5 concentration around residential buildings in urban traffic-intensive area.pdf"
+            },
+            {
+                "title": "High-Speed Rail, Firm Agglomeration, and PM2.5",
+                "link": "docs/2021_chang_High-speed rail, firm agglomeration, and PM2.5.pdf"
+            },
+            {
+                "title": "Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas",
+                "link": "docs/2020_ramacher_Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas.pdf"
+            }
+        ],
+        "pdf": "docs/2021_song_relationship-between-neighborhood-land-use-structure-and-the-spatiotemporal-pattern-of-pm2-5-at-the.pdf",
+        "objective": "To explore how neighborhood land use structure influences the spatiotemporal distribution of PM2.5, using a machine-learning approach to provide a basis for localized air pollution mitigation strategies in urban environments.",
+        "method": "The study integrates mobile PM2.5 monitoring data and point-of-interest (POI) land use data from Guangzhou, China. A Classification and Regression Tree (CART) model is applied to identify the impact of different land use types on PM2.5 pollution levels. The research categorizes urban neighborhoods into high, medium, and low PM2.5 risk zones based on land use characteristics and pollution patterns.",
+        "key_findings": [
+            "Neighborhood land use structure explains 60.4% of PM2.5 spatiotemporal patterns at the microscale.",
+            "Traffic land and ecological land are the two most influential land use types affecting PM2.5 concentrations.",
+            "High-risk PM2.5 areas are strongly correlated with low ecological land coverage and high commercial activity.",
+            "Open spaces can promote the diffusion of PM2.5, whereas dense land use blocks airflow, increasing localized pollution levels.",
+            "The study highlights the need for land use planning strategies that integrate ecological land expansion and pollution diffusion considerations."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Urbanization & Pollution",
+            "Roadside Air Quality",
+            "Air Quality Monitoring",
+            "Pollution Modeling"
+        ]
+    },
+    {
+        "title": "Co-Benefit Assessment of Active Transportation in Delhi: Estimating the Willingness to Use Nonmotorized Mode and Near-Roadway-Avoided PM2.5 Exposure",
+        "description": "This study evaluates the environmental, health, and economic benefits of replacing personal motorized transport with nonmotorized transport (NMT) in Delhi, India. Using a willingness-based trip demand model, the research estimates the impact of increased walking and cycling on air pollution reduction, physical activity, and avoided PM2.5 exposure. The study highlights the potential for significant reductions in mortality, morbidity, and economic costs through active transportation policies.",
+        "images": [],
+        "references": [
+            "Bhat et al. (2022). Co-Benefit Assessment of Active Transportation in Delhi.",
+            "Pathak et al. (2020). Sustainable and Low-Carbon Mobility in India: Quantifying Co-Benefits.",
+            "WHO (2022). Cycling and Walking to Reduce Physical Inactivity and Air Pollution.",
+            "Pope III & Dockery (2006). Health Effects of Fine Particulate Air Pollution.",
+            "Janssen et al. (2003). Air Pollution from Heavy Traffic and Respiratory Sensitization."
+        ],
+        "related_measures": [
+            {
+                "title": "Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas",
+                "link": "docs/2020_ramacher_Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas.pdf"
+            },
+            {
+                "title": "Spatial Distribution Characteristics of PM2.5 Concentration Around Residential Buildings in Urban Traffic-Intensive Areas",
+                "link": "docs/2021_meng_Spatial distribution characteristics of PM2.5 concentration around residential buildings in urban traffic-intensive area.pdf"
+            },
+            {
+                "title": "High-Speed Rail, Firm Agglomeration, and PM2.5",
+                "link": "docs/2021_chang_High-speed rail, firm agglomeration, and PM2.5.pdf"
+            }
+        ],
+        "pdf": "docs/2022_bhat_Co-benefit assessment of active transportation in Delhi estimating th.pdf",
+        "objective": "To quantify the environmental, health, and economic co-benefits of increased nonmotorized transport (walking and cycling) in Delhi by analyzing its impact on air pollution reduction, physical activity, and economic savings from reduced mortality and morbidity.",
+        "method": "The study integrates a willingness-based trip demand model with a health and air quality impact assessment. A logistic regression model is used to estimate the willingness of Delhi residents to adopt NMT based on socio-economic factors. The near-roadway PM2.5 exposure model (CALRoads View 6.5) is applied to estimate pollution reductions from avoided vehicle kilometers. The health impact assessment quantifies avoided mortality and morbidity using relative risk (RR) estimates, while economic benefits are calculated using the Value of a Statistical Life (VSL) and Cost of Illness (COI) approaches.",
+        "key_findings": [
+            "The implementation of NMT in Delhi could lead to an annual reduction of 138.9 tons of PM2.5 and 121.5 kilotons of CO2 emissions.",
+            "Physical activity improvements from increased walking and cycling could prevent 17,529 premature deaths annually.",
+            "Avoided near-road PM2.5 exposure reduces respiratory diseases and cardiovascular-related hospitalizations.",
+            "The economic savings from reduced mortality and morbidity are estimated at USD 4.87 billion per year.",
+            "The study highlights the potential for NMT policies to improve urban air quality, enhance public health, and support sustainable transport planning."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Traffic Flow & Air Pollution",
+            "Health Effects",
+            "Population Exposure",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "title": "Estimation of the Concentration of Nano-Carbon Black in Tire-Wear Particles Using Emission Factors of PM10, PM2.5, and Black Carbon",
+        "description": "This study estimates the concentration of nano-carbon black (nano-CB) released from tire-wear particles (TWPs) using emission factors of PM10, PM2.5, and black carbon (BC). It highlights the significant contribution of non-exhaust sources, particularly tire wear, to airborne particulate matter (PM) pollution. The research quantifies nano-CB emissions in different urban environments and evaluates its persistence under varying weather conditions, emphasizing the need for targeted air quality management strategies.",
+        "images": [],
+        "references": [
+            "Timmers & Achten (2016). Non-Exhaust PM Emissions from Electric Vehicles.",
+            "Wagner et al. (2018). Tire Wear Particles in the Aquatic Environment – A Review on Generation, Analysis, Occurrence, Fate, and Effects.",
+            "Kim et al. (2021). Potential Release of Nano-Carbon Black from Tire-Wear Particles through the Weathering Effect.",
+            "Ema et al. (2016). Reproductive and Developmental Toxicity of Carbon-Based Nanomaterials.",
+            "Hong et al. (2021). Differentiation of Carbon Black from Black Carbon Using a Ternary Plot Based on Elemental Analysis."
+        ],
+        "related_measures": [
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            },
+            {
+                "title": "Cytotoxicity of PM2.5 Vehicular Emissions in the Shing Mun Tunnel, Hong Kong",
+                "link": "docs/2020_niu_Cytotoxicity of PM2.5 vehicular emissions in the Shing Mun Tunnel, Hong Kong.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            }
+        ],
+        "pdf": "docs/2022_kim_Estimation of the concentration of nano-carbon black in tire-wear particles using emission factors of PM10, PM2.5, and black carbon.pdf",
+        "objective": "To quantify the concentration of nano-carbon black in tire-wear particles using emission factors of PM10, PM2.5, and black carbon, providing insights into its impact on air pollution and human health.",
+        "method": "The study integrates real-time monitoring of PM10, PM2.5, and BC at urban open and semi-closed sites using a ternary plotting method. Field measurements were conducted at a downtown bus stop, an expressway rest area, a highway tunnel, and an underground roadway in Seoul, South Korea. The study estimates nano-CB emissions by deriving emission factors from black carbon data and evaluating PM composition through scanning mobility particle sizer (SMPS) analysis and transmission electron microscopy (TEM). Additionally, the impact of rainfall on airborne nano-CB was assessed by comparing data from dry and rainy days.",
+        "key_findings": [
+            "Nano-carbon black concentrations at semi-closed sites (highway tunnel, underground roadway) were 2.9–4.0 times higher than those at open sites (bus stop, expressway rest area).",
+            "The estimated nano-CB concentration was 22.47–23.96 ng/m³ at open sites and 66.32–90.33 ng/m³ at semi-closed sites.",
+            "Nano-CB particles exhibited a grape-like aggregated structure, confirmed via TEM and selected-area electron diffraction (SAED).",
+            "Rainfall significantly reduced PM10 and PM2.5 concentrations but did not affect nano-CB levels in tunnel environments, highlighting its persistence in the atmosphere.",
+            "The study underscores the need for stricter regulations on non-exhaust PM sources, particularly from tire wear, as electric vehicle adoption does not mitigate PM emissions."
+        ],
+        "group": "Vehicle Emissions & Public Health",
+        "categories": [
+            "Toxicity of Emissions",
+            "Air Quality Monitoring",
+            "Vehicle Pollution Control",
+            "Near-Road Pollution"
+        ]
+    },
+    {
+        "title": "Assessing Personal Travel Exposure to On-Road PM2.5 Using Cellphone Positioning Data and Mobile Sensors",
+        "description": "This study quantifies personal exposure to on-road PM2.5 by integrating cellphone positioning data with mobile air quality sensors. By extracting user trajectories and estimating PM2.5 exposure along travel routes, the study provides insights into how urban populations are affected by traffic-related air pollution. The findings contribute to urban planning, health risk assessment, and air pollution mitigation strategies.",
+        "images": [],
+        "references": [
+            "Gulliver & Briggs (2005). Time-Space Modeling of Journey-Time Exposure to Traffic-Related Air Pollution Using GIS.",
+            "Xu et al. (2019). Unraveling Environmental Justice in Ambient PM2.5 Exposure in Beijing: A Big Data Approach.",
+            "Nyhan et al. (2019). Quantifying Population Exposure to Air Pollution Using Individual Mobility Patterns Inferred from Mobile Phone Data.",
+            "Park (2020). Assessing Personal Exposure to Traffic-Related Air Pollution Using Individual Travel-Activity Diary Data and an On-Road Source Air Dispersion Model.",
+            "Ma et al. (2020). Assessing Mobility-Based Real-Time Air Pollution Exposure Using Smart Sensors and GPS Trajectories in Beijing."
+        ],
+        "related_measures": [
+            {
+                "title": "Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas",
+                "link": "docs/2020_ramacher_Integrating Modes of Transport in a Dynamic Modelling Approach to Evaluate Population Exposure to Ambient NO2 and PM2.5 Pollution in Urban Areas.pdf"
+            },
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            }
+        ],
+        "pdf": "docs/2022_li-Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors.pdf",
+        "objective": "To assess individual exposure to on-road PM2.5 using dynamic travel data and mobile air quality sensors, improving the accuracy of exposure estimates for urban populations.",
+        "method": "The study integrates cellphone positioning data with PM2.5 concentration data from mobile sensors deployed in Guangzhou, China. Travel routes are reconstructed using the shortest path algorithm, and individual exposure levels are estimated by linking movement patterns to real-time PM2.5 concentrations. Clustering analysis is used to identify exposure patterns across different user groups and times of the day.",
+        "key_findings": [
+            "The majority of users experience PM2.5 exposure between 20–75 µg/m³ during travel.",
+            "Travel exposure patterns vary significantly across users: 54.0% have consistently low exposure, 25.5% experience high exposure in the evening, and 20.5% in the afternoon.",
+            "High-risk roads include Huan Shi Middle Road (morning), Inner Ring Road (afternoon), and Xinjiao Middle Road (evening).",
+            "Exposure estimates using mobile sensors are more accurate than those from static monitoring stations, capturing fine-scale spatial variability.",
+            "Policy recommendations include improving pedestrian infrastructure, traffic restrictions, and air quality monitoring on high-exposure roadways."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Population Exposure",
+            "Roadside Air Quality"
+        ]
+    },
+    {
+        "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions: A Case Study of the M25 Motorway, UK",
+        "description": "This study analyzes the impact of changes in traffic flow on non-exhaust PM2.5 and PM10 emissions along the M25 motorway in the UK, particularly during the COVID-19 pandemic. Using real-world traffic data and emission factor models, the study quantifies emissions from different vehicle categories and assesses the dominant sources of non-exhaust particulate pollution. The research highlights the role of resuspended road dust, tire wear, and brake wear as major contributors to non-exhaust particulate matter.",
+        "images": [],
+        "references": [
+            "Amato et al. (2014). Urban air quality: the challenge of traffic non-exhaust emissions.",
+            "Beddows & Harrison (2021). PM10 and PM2.5 emission factors for non-exhaust particles from road vehicles.",
+            "Timmers & Achten (2016). Non-exhaust PM emissions from electric vehicles.",
+            "OECD (2020). Non-exhaust particulate emissions from road transport: An ignored environmental policy challenge.",
+            "Wang et al. (2022). Traffic emission dominates the spatial variations of metal contamination and ecological-health risks in urban park soil."
+        ],
+        "related_measures": [
+            {
+                "title": "Estimation of the Concentration of Nano-Carbon Black in Tire-Wear Particles Using Emission Factors of PM10, PM2.5, and Black Carbon",
+                "link": "docs/2022_kim_Estimation of the concentration of nano-carbon black in tire-wear particles using emission factors of PM10, PM2.5, and black carbon.pdf"
+            },
+            {
+                "title": "Cytotoxicity of PM2.5 Vehicular Emissions in the Shing Mun Tunnel, Hong Kong",
+                "link": "docs/2020_niu_Cytotoxicity of PM2.5 vehicular emissions in the Shing Mun Tunnel, Hong Kong.pdf"
+            },
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            }
+        ],
+        "pdf": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf",
+        "objective": "To evaluate the effect of changing traffic flow on non-exhaust emissions, particularly during the COVID-19 pandemic, and identify major sources of vehicle-related PM2.5 and PM10 emissions on the M25 motorway in the UK.",
+        "method": "The study utilizes traffic flow data from the National Highways MIDAS system, covering the period before and during the COVID-19 pandemic (March 2019 – February 2021). It categorizes vehicle types into passenger cars (PCs), light goods vehicles (LGVs), heavy goods vehicles (HGVs), and long HGVs. Non-exhaust emissions from road dust resuspension, tire wear, brake wear, and road wear are calculated using an emission factor model. The data is processed using Python and analyzed for temporal variations due to pandemic-induced mobility changes.",
+        "key_findings": [
+            "Traffic flows decreased significantly during the pandemic: -38.6% (PCs), -27.6% (LGVs), -15.9% (HGVs), and -7.2% (long HGVs).",
+            "Non-exhaust PM2.5 emissions were dominated by road dust resuspension, contributing over 50% of total emissions.",
+            "Long HGVs emitted significantly more PM2.5 and PM10 per vehicle compared to PCs, despite lower traffic volumes.",
+            "Brake wear contributed the least to PM2.5 and PM10 emissions on motorways, while road wear and tire wear were notable contributors.",
+            "Policy recommendations include traffic flow regulation and vehicle lightweighting strategies to reduce non-exhaust particulate pollution."
+        ],
+        "group": "Vehicle Emissions & Public Health",
+        "categories": [
+            "Vehicle Pollution Control",
+            "Near-Road Pollution",
+            "Traffic Flow & Air Pollution",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "title": "Quantification of Population Exposure to NO2, PM10 and PM2.5, and Estimated Health Impacts (2019)",
+        "description": "This study assesses population exposure to annual mean concentrations of NO2, PM10, and PM2.5 in ambient air across Sweden. It evaluates the associated health and economic impacts using exposure-response functions and socio-economic valuation models. The findings reveal that while pollution levels remain below national standards, a significant proportion of the population is exposed to levels exceeding the WHO 2021 air quality guidelines, highlighting ongoing health risks from air pollution.",
+        "images": [],
+        "references": [
+            "WHO (2021). Air Quality Guidelines – Global Update 2021.",
+            "Gustafsson et al. (2018). Population Exposure and Health Effects of Air Pollution in Sweden.",
+            "Hoek et al. (2013). Meta-Analysis of Long-Term Exposure to PM2.5 and Mortality Risk.",
+            "Turner et al. (2016). Near-Source PM2.5 and Health Effects: An Analysis of ACS Cohort Data.",
+            "Pinault et al. (2016). Long-Term Exposure to Air Pollution and Mortality in Canada."
+        ],
+        "related_measures": [
+            {
+                "title": "Assessing Personal Travel Exposure to On-Road PM2.5 Using Cellphone Positioning Data and Mobile Sensors",
+                "link": "docs/2022_li-Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors.pdf"
+            },
+            {
+                "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions",
+                "link": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf"
+            },
+            {
+                "title": "Co-Benefit Assessment of Active Transportation in Delhi: Estimating the Willingness to Use Nonmotorized Mode and Near-Roadway-Avoided PM2.5 Exposure",
+                "link": "docs/2022_bhat_Co-benefit assessment of active transportation in Delhi estimating th.pdf"
+            }
+        ],
+        "pdf": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf",
+        "objective": "To quantify the exposure of the Swedish population to NO2, PM10, and PM2.5 in 2019, assess health risks and mortality related to air pollution, and estimate the socio-economic costs of pollution-related health impacts.",
+        "method": "The study utilizes an empirical statistical URBAN model combined with air quality monitoring data and population exposure grids. It applies exposure-response functions to estimate health impacts and uses economic valuation models to quantify socio-economic costs. The study compares results with previous assessments from 2015 and evaluates long-term air quality trends in Sweden.",
+        "key_findings": [
+            "82% of the Swedish population is exposed to PM2.5 concentrations exceeding WHO 2021 guidelines, and 11% to NO2 levels above recommended thresholds.",
+            "Estimated air pollution-related mortality in Sweden was 6,740 deaths per year in 2019, compared to 7,600 in 2015.",
+            "NO2 exposure is largely linked to local traffic emissions, while PM2.5 originates from a mix of local and long-range transported sources.",
+            "Socio-economic costs of air pollution exposure in Sweden were estimated at 168 billion SEK (~$15 billion USD) in 2019.",
+            "Health impacts include increased risk of cardiovascular diseases, lung cancer, and respiratory illnesses, leading to productivity losses and premature deaths."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Health Effects",
+            "Population Exposure",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "title": "Predicting PM10 and PM2.5 Concentration in Container Ports: A Deep Learning Approach",
+        "description": "This study develops and applies deep learning models, including Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), to predict PM10 and PM2.5 concentrations in container ports. The research uses meteorological data, terminal operation data, and air pollutant measurements from Gwangyang Port, South Korea, to improve prediction accuracy and assess the role of port activities in PM emissions. The findings provide valuable insights for port authorities and policymakers to enhance air quality management in port areas.",
+        "images": [],
+        "references": [
+            "Bailey & Solomon (2004). Pollution Prevention at Ports: Clearing the Air.",
+            "Ahn et al. (2019). A Study of Improvement Measures for Air Pollutants Management System and Policy in Korean Ports.",
+            "Lam & Van de Voorde (2012). Green Port Strategy for Sustainable Growth and Development.",
+            "Demuzere et al. (2009). The Impact of Weather and Atmospheric Circulation on O3 and PM10 Levels at a Rural Mid-Latitude Site.",
+            "Zhou et al. (2014). A Hybrid Model for PM2.5 Forecasting Based on Ensemble Empirical Mode Decomposition and a General Regression Neural Network."
+        ],
+        "related_measures": [
+            {
+                "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions",
+                "link": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf"
+            },
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            },
+            {
+                "title": "Monitoring of Extreme Air Pollution on Ring Roads with PM2.5 Soot Particles Considering Their Chemical Composition",
+                "link": "docs/2020_lozhkin_Monitoring of extreme air pollution on ring roads with PM2.5 soot particles considering their chemical composition.pdf"
+            }
+        ],
+        "pdf": "docs/2023_park_Predicting PM10 and PM2.5 concentration in container ports-A deep learning approach.pdf",
+        "objective": "To develop predictive models for PM10 and PM2.5 concentrations in container ports using deep learning techniques, incorporating meteorological data, port operation data, and air pollutant measurements to enhance forecasting accuracy and inform air quality management strategies.",
+        "method": "The study employs three machine learning models: Multiple Linear Regression (MLR), Recurrent Neural Networks (RNN), and Long Short-Term Memory (LSTM). Data collected from Gwangyang Port (September 2020 - June 2021) includes meteorological variables (temperature, humidity, wind speed, rainfall), air pollutants (NO2, SO2, CO, O3), and operational data (vessel movements, truck traffic). The models are trained and tested using an 80:20 data split, with performance evaluated based on Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Square Error (RMSE). Hyperparameter tuning optimizes the learning rate, number of neurons, and batch size for the deep learning models.",
+        "key_findings": [
+            "LSTM outperforms MLR and RNN in PM2.5 prediction, achieving the lowest MAE (5.692), MSE (70.963), and RMSE (8.424).",
+            "Incorporating port operation data improves prediction accuracy, particularly for PM2.5, reducing model errors significantly.",
+            "PM concentrations in ports are strongly correlated with meteorological conditions and local pollutant sources but exhibit weaker associations with direct port operations.",
+            "Traffic restrictions and improved emission controls at container terminals could reduce PM concentrations in port areas.",
+            "The study highlights the necessity for extended datasets and enhanced deep learning techniques to improve model robustness and real-time air quality forecasting."
+        ],
+        "group": "Environmental Impact & Modeling",
+        "categories": [
+            "Pollution Modeling",
+            "Air Quality Monitoring",
+            "Traffic Flow & Air Pollution",
+            "Emission Standards"
+        ]
+    },
+    {
+        "title": "Toward Prediction of Roadside PM2.5 Concentration: A Multi-Factor Prediction Method",
+        "description": "This study proposes a multi-factor prediction model for roadside PM2.5 concentrations by integrating traffic flow conditions, meteorological factors, and wavelet neural networks. The research leverages the CAMx air quality model to quantify traffic emissions' contribution to PM2.5 levels, demonstrating that approximately 40% of PM2.5 pollution in Beijing is derived from vehicular emissions. The study's predictive model achieves an accuracy of 86.17%, offering a valuable tool for environmental monitoring and urban air pollution management.",
+        "images": [],
+        "references": [
+            "Zhang et al. (2015). Investigation of Fine Chalk Dust Particles’ Chemical Compositions and Toxicities on Alveolar Macrophages in Vitro.",
+            "Djalalova et al. (2015). Air Quality Forecasting System Using the CMAQ Model.",
+            "Wei et al. (2019). Toward Periodicity Correlation of Roadside PM.",
+            "Hrust et al. (2009). Neural Network Forecasting of Air Pollutants’ Hourly Concentration.",
+            "Wang et al. (2015). Fine-Scale Estimation of Carbon Monoxide and PM2.5 Concentration Near Road Intersections."
+        ],
+        "related_measures": [
+            {
+                "title": "Predicting PM10 and PM2.5 Concentration in Container Ports: A Deep Learning Approach",
+                "link": "docs/2023_park_Predicting PM10 and PM2.5 concentration in container ports-A deep learning approach.pdf"
+            },
+            {
+                "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions",
+                "link": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf"
+            },
+            {
+                "title": "Assessing Personal Travel Exposure to On-Road PM2.5 Using Cellphone Positioning Data and Mobile Sensors",
+                "link": "docs/2022_li-Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors.pdf"
+            }
+        ],
+        "pdf": "docs/2023_wei_toward-prediction-of-roadside-pm2-5-concentration-a-multi-factor-prediction-method.pdf",
+        "objective": "To develop a highly accurate roadside PM2.5 prediction model by integrating multiple factors such as traffic emissions, meteorological conditions, and machine learning techniques, improving air quality forecasting for urban planning and environmental protection.",
+        "method": "The study combines the CAMx air quality model with a wavelet neural network (WNN) and meteorological modeling to predict roadside PM2.5 levels. Traffic volume data from four urban streets in Beijing is collected using video-based vehicle counting, and PM2.5 is measured using handheld sensors. The WNN is trained to capture the periodicity between traffic volume and PM2.5 fluctuations, while the CAMx model quantifies background PM2.5 concentrations. The multi-factor prediction model integrates these components to estimate roadside PM2.5 with improved accuracy.",
+        "key_findings": [
+            "Approximately 40% of PM2.5 pollution in Beijing is directly attributed to traffic emissions.",
+            "The proposed multi-factor prediction model achieved an average prediction accuracy of 86.17%.",
+            "Roadside PM2.5 concentration correlates strongly with traffic signal cycles, exhibiting time delays of 0.3–0.9 minutes.",
+            "Traffic emissions are the dominant source of PM2.5 in microenvironments, whereas background PM2.5 is more influenced by meteorological conditions.",
+            "The model provides a reliable framework for integrating air quality forecasting into urban transportation planning."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Pollution Modeling",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+        "description": "This study examines the influence of road network structure and traffic volume on PM2.5 concentrations using Bayesian machine learning models. By integrating road network metrics, vehicle density, and air quality data, the research identifies key transportation-related factors that impact air pollution. The study applies SHAP models to interpret the contributions of these factors, providing insights for sustainable urban planning and transportation system design.",
+        "images": [],
+        "references": [
+            "Rattigan et al. (2020). Incremental PM2.5 and NOX impacts from major roads using near-road monitor data.",
+            "Mukherjee et al. (2020). The role of distance from roadways in air pollution exposure.",
+            "Xu et al. (2019). Geographically weighted regression analysis of transportation-related PM2.5 emissions.",
+            "Zhou & Lin (2019). The influence of road network centrality on air pollution prediction.",
+            "Dabek-Zlotorzynska et al. (2019). Traffic-related emissions and their contribution to PM2.5 concentrations."
+        ],
+        "related_measures": [
+            {
+                "title": "Assessing Personal Travel Exposure to On-Road PM2.5 Using Cellphone Positioning Data and Mobile Sensors",
+                "link": "docs/2022_li-Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors.pdf"
+            },
+            {
+                "title": "Toward Prediction of Roadside PM2.5 Concentration: A Multi-Factor Prediction Method",
+                "link": "docs/2023_wei_toward-prediction-of-roadside-pm2-5-concentration-a-multi-factor-prediction-method.pdf"
+            },
+            {
+                "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions",
+                "link": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf"
+            }
+        ],
+        "pdf": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf",
+        "objective": "To investigate how road network structure and traffic volume influence PM2.5 concentrations, using machine learning models to analyze transportation-related factors and their environmental impact.",
+        "method": "The study applies Bayesian neural networks to model the complex relationships between PM2.5 concentration, road network patterns, and traffic volume. It integrates spatial lag models to account for autocorrelation in air pollution data. The SHAP interpretability model is used to quantify the contribution of transportation factors, such as road density, network centrality, and vehicle counts, in influencing PM2.5 levels. Empirical data from the Greater Los Angeles area is utilized for validation.",
+        "key_findings": [
+            "Road network structure contributes 19.8% and traffic volume 11.6% to PM2.5 concentrations, surpassing the influence of demographic factors.",
+            "Improving road network structure has diminishing marginal benefits in reducing PM2.5 levels.",
+            "Areas with higher road density and vehicle counts exhibit stronger spatial clustering of PM2.5 pollution.",
+            "Machine learning models, particularly Bayesian neural networks, enhance the accuracy of PM2.5 concentration predictions.",
+            "Findings support the need for road network redesign strategies to improve urban air quality."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Traffic Flow & Air Pollution",
+            "Roadside Air Quality",
+            "Pollution Modeling",
+            "PM2.5 Exposure"
+        ]
+    },
+    {
+        "title": "A Game-Theoretic Approach for Route Planning on Traveling by Public Transportation in the PM2.5 Pollution: A Case Study in Bangkok",
+        "description": "This study applies game theory to optimize public transportation routes in Bangkok to minimize passengers' exposure to PM2.5 pollution. By constructing a directed graph of transit routes and modeling commuters’ decisions as a strategic game, the research identifies an equilibrium state where passengers distribute themselves to minimize PM2.5 inhalation. The findings provide insights for improving urban transit planning and reducing pollution exposure in congested cities.",
+        "images": [],
+        "references": [
+            "Nash (1950). Equilibrium Points in N-Person Games.",
+            "Altman & Wynter (2004). Equilibrium Models and Optimization in Transportation Networks.",
+            "Cheewaphongphan et al. (2017). Air Pollution and Public Transportation in Bangkok.",
+            "Pollution Control Department (2021). Bangkok Air Quality Trends and Mitigation Strategies.",
+            "Zhu et al. (2018). A Game-Theoretic Model for Reducing Transportation Emissions."
+        ],
+        "related_measures": [
+            {
+                "title": "Traffic Volume and Road Network Structure: Revealing Transportation-Related Factors on PM2.5 Concentrations",
+                "link": "docs/2023_yu_Traffic volume and road network structure-Revealing transportation-related factors on PM2.5 concentrations.pdf"
+            },
+            {
+                "title": "Assessing Personal Travel Exposure to On-Road PM2.5 Using Cellphone Positioning Data and Mobile Sensors",
+                "link": "docs/2022_li-Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors.pdf"
+            },
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts (2019)",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            }
+        ],
+        "pdf": "docs/2024_Lewchalermvongs_A game-theoretic approach for route planning on traveling by.pdf",
+        "objective": "To develop a game-theoretic model that optimizes public transit routes in Bangkok to reduce PM2.5 exposure, enabling sustainable urban planning and improved public health outcomes.",
+        "method": "The study constructs a directed graph of Bangkok’s public transportation routes, modeling each commuter as a player in a game where the payoff is determined by PM2.5 exposure along the chosen route. The Nash equilibrium is calculated to identify optimal route distributions. PM2.5 exposure data is integrated from real-world air quality measurements, while route choices are analyzed using a quadratic programming optimization model to achieve balance in passenger distribution.",
+        "key_findings": [
+            "PM2.5 exposure varies significantly based on route choice, with high-density traffic areas contributing to increased inhalation risks.",
+            "Game-theoretic modeling helps commuters select routes that balance exposure while maintaining transit efficiency.",
+            "The Nash equilibrium approach shows that distributing commuters across multiple transit options can reduce peak PM2.5 exposure by up to 12%.",
+            "Optimization methods applied to the transit network can inform policy measures for reducing public exposure to air pollution.",
+            "Results support the development of smart public transit strategies that integrate real-time air quality data for route planning."
+        ],
+        "group": "Urban & Transportation Planning",
+        "categories": [
+            "Traffic Flow & Air Pollution",
+            "Roadside Air Quality",
+            "PM2.5 Exposure",
+            "Policy & Regulations"
+        ]
+    },
+    {
+        "title": "Assessment of PM2.5 Concentration at University Transit Bus Stops Using Low-Cost Aerosol Monitors by Student Commuters",
+        "description": "This study investigates PM2.5 exposure at university transit bus stops using low-cost AirBeam aerosol monitors. Seven student commuters measured PM2.5 levels at transit stops over four weeks, comparing the results with an ADR-1500 high-cost monitor and EPA PM2.5 reference measurements. The study highlights elevated PM2.5 levels at some bus stops, suggesting increased exposure risks for students using university transit systems.",
+        "images": [],
+        "references": [
+            "EPA (2023). Health and Environmental Effects of Particulate Matter (PM).",
+            "Gertler (2005). Diesel vs. Gasoline Emissions: Does PM from Diesel or Gasoline Vehicles Dominate in the U.S.?",
+            "Qiu & Cao (2020). Commuter Exposure to Particulate Matter in Urban Public Transportation of Xi’an, China.",
+            "Sousan et al. (2022). Evaluation of Low-Cost Aerosol and Gas Sensors for Real-Time Measurements.",
+            "Hess et al. (2010). Determinants of Exposure to Fine Particulate Matter (PM2.5) for Waiting Passengers at Bus Stops."
+        ],
+        "related_measures": [
+            {
+                "title": "Quantification of Population Exposure to NO2, PM10, and PM2.5, and Estimated Health Impacts",
+                "link": "docs/2022_malin_Quantification of population exposure to NO2, PM10 and PM2.5, and estimated health impacts 2019.pdf"
+            },
+            {
+                "title": "Assessing Personal Travel Exposure to On-Road PM2.5 Using Cellphone Positioning Data and Mobile Sensors",
+                "link": "docs/2022_li-Assessing personal travel exposure to on-road PM2.5 using cellphone positioning data and mobile sensors.pdf"
+            },
+            {
+                "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions",
+                "link": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf"
+            }
+        ],
+        "pdf": "docs/2024_Murray_Assessment of PM2.5 Concentration at University Transit Bus.pdf",
+        "objective": "To evaluate PM2.5 exposure levels at university transit bus stops, compare low-cost monitor data with high-cost and regulatory-grade sensors, and assess potential health risks for students using public transit.",
+        "method": "The study recruited seven student participants who used personal AirBeam aerosol monitors to record PM2.5 levels at campus bus stops over a four-week period. The data were compared against an ADR-1500 high-cost monitor and EPA PM2.5 reference measurements. Statistical analysis was conducted to identify variations in PM2.5 exposure across different transit stops, considering factors like traffic volume, stop location, and meteorological influences.",
+        "key_findings": [
+            "PM2.5 concentrations at some transit stops exceeded county-wide EPA reference values, indicating localized pollution hotspots.",
+            "Bus stops located near major roads or parking lots showed higher PM2.5 concentrations than those in less trafficked areas.",
+            "Low-cost AirBeam monitors provided consistent but slightly underestimated readings compared to high-cost ADR-1500 monitors.",
+            "PM2.5 exposure varied across students, with peak concentrations observed during high-traffic periods.",
+            "The findings support the need for improved air quality monitoring and mitigation strategies in university transit planning."
+        ],
+        "group": "Vehicle Emissions & Public Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Near-Road Pollution",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "title": "Analysis and Interpretation of the Particulate Matter (PM10 and PM2.5) Concentrations at the Subway Stations in Beijing, China",
+        "description": "This study investigates PM10 and PM2.5 concentrations inside subway stations in Beijing, China. It examines the influence of station location, passenger flow, outdoor pollution levels, and environmental factors on indoor air quality. The study applies correlation analysis and a general linear model (GLM) to determine how subway environments contribute to air pollution exposure for commuters and workers.",
+        "images": [],
+        "references": [
+            "Kim et al. (2008). Spatial Distribution of Particulate Matter (PM10 and PM2.5) in Seoul Metropolitan Subway Stations.",
+            "Cheng et al. (2012). Comparisons of PM10, PM2.5, Particle Number, and CO2 Levels Inside Metro Trains in Taipei.",
+            "Moreno et al. (2014). Subway Platform Air Quality: Assessing the Influences of Tunnel Ventilation, Train Piston Effect, and Station Design.",
+            "Gomez-Perales et al. (2004). Commuter Exposure to PM2.5, CO, and Benzene in Public Transport in Mexico City.",
+            "Guo et al. (2014). Characteristics and Chemical Compositions of Particulate Matter Collected at the Selected Metro Stations of Shanghai, China."
+        ],
+        "related_measures": [
+            {
+                "title": "Assessment of PM2.5 Concentration at University Transit Bus Stops Using Low-Cost Aerosol Monitors by Student Commuters",
+                "link": "docs/2024_Murray_Assessment of PM2.5 Concentration at University Transit Bus.pdf"
+            },
+            {
+                "title": "Impact of Change in Traffic Flow on Vehicle Non-Exhaust PM2.5 and PM10 Emissions",
+                "link": "docs/2022_lin_Impact of change in traffic flow on vehicle non-exhaust PM2.5 and PM10 emissions.pdf"
+            },
+            {
+                "title": "Toward Prediction of Roadside PM2.5 Concentration: A Multi-Factor Prediction Method",
+                "link": "docs/2023_wei_toward-prediction-of-roadside-pm2-5-concentration-a-multi-factor-prediction-method.pdf"
+            }
+        ],
+        "pdf": "docs/2019_pan_Analysis and Interpretation of the Particulate Matter (PM10 and PM2.5) Concentrations at the Subway Stations in Beijing, China.pdf",
+        "objective": "To analyze PM2.5 and PM10 concentrations in subway stations and assess their impact on indoor air quality, considering outdoor pollution levels, passenger density, and station design factors.",
+        "method": "The study collected PM2.5 and PM10 measurements from four subway stations in Beijing between October 9th and October 22nd, 2016. Using Statistical Package for Social Science (SPSS), a General Linear Model (GLM), and correlation analysis, the research examined variations in air quality based on passenger numbers, temperature, humidity, and station depth. The PM2.5 to PM10 ratio was also analyzed to determine the contribution of fine particulates in subway environments.",
+        "key_findings": [
+            "PM10 and PM2.5 concentrations inside subway stations exhibited periodic variations, with levels influenced by station depth, passenger flow, and ventilation efficiency.",
+            "Outdoor pollution levels strongly correlated with subway air quality, contributing to PM2.5 increments inside stations.",
+            "PM2.5 concentrations in enclosed subway working areas were significantly higher than outdoor levels, with Fe (iron) identified as a dominant pollutant, likely originating from train braking systems.",
+            "Passenger density had a limited impact on PM2.5 concentration compared to outdoor pollution and train-induced air circulation effects.",
+            "PM2.5/PM10 ratios in subway environments averaged 68.7%, lower than typical urban outdoor levels (79.6%), indicating differences in particulate composition inside subway stations."
+        ],
+        "group": "Air Pollution & Health",
+        "categories": [
+            "PM2.5 Exposure",
+            "Near-Road Pollution",
+            "Traffic Flow & Air Pollution",
+            "Air Quality Monitoring"
+        ]
+    }
+]

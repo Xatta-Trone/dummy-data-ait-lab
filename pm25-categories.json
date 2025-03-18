@@ -1,0 +1,34 @@
+[
+    {
+        "Air Pollution & Health": [
+            "PM2.5 Exposure",
+            "Traffic Emissions",
+            "Health Effects",
+            "Air Quality Monitoring"
+        ]
+    },
+    {
+        "Urban & Transportation Planning": [
+            "Urbanization & Pollution",
+            "Roadside Air Quality",
+            "Traffic Flow & Air Pollution",
+            "Policy & Regulations"
+        ]
+    },
+    {
+        "Environmental Impact & Modeling": [
+            "Pollution Modeling",
+            "Population Exposure",
+            "Emission Standards",
+            "Climate Impact"
+        ]
+    },
+    {
+        "Vehicle Emissions & Public Health": [
+            "Diesel & Gasoline Impacts",
+            "Toxicity of Emissions",
+            "Vehicle Pollution Control",
+            "Near-Road Pollution"
+        ]
+    }
+]
