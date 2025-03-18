@@ -21,7 +21,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             }
         ],
         "pdf": "docs/2016_kim_innovative-method-for-remotely-fine-tuning-offsets-along-a-diverging-diamond-interchange-corridor.pdf",
@@ -59,14 +59,14 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations",
                 "link": "docs/2023_brewer_Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations.pdf"
             }
         ],
-        "pdf": "docs/2017_stephens_A driving simulator evaluation of potential speed reductions using two innovative designs for signalised urban intersections.pdf",
+        "pdf": "docs/2017_stephens_A driving simulator evaluation of potential speed reductions.pdf",
         "objective": "To assess whether the 'Cut-Through' and 'Squircle' intersection designs effectively reduce vehicle speeds compared to standard signalized intersections, improving safety under Safe System principles.",
         "method": "The study uses a driving simulator to analyze driver speed behavior when approaching and traveling through intersections. The performance of the Cut-Through and Squircle designs is compared with standard signalized intersections and roundabouts. Speed data is collected in various conditions, including straight-path and right-turn maneuvers.",
         "key_findings": [
@@ -181,7 +181,7 @@
         "related_measures": [
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
@@ -231,7 +231,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             }
         ],
         "pdf": "docs/2019_molan-introducing-the-super-ddi-as-a-promising-alternative-service-interchange.pdf",
@@ -315,7 +315,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             }
         ],
         "pdf": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf",
@@ -360,7 +360,7 @@
                 "link": "docs/2017_tarko_Performance of Alternative Diamond Interchange Forms- Volume I-research Report.pdf"
             }
         ],
-        "pdf": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf",
+        "pdf": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf",
         "objective": "To evaluate the safety and operational effects of alternative intersection designs using crash modification factors (CMFs) and safety performance functions (SPFs) developed from crash data across 27 states.",
         "method": "The study utilizes multi-year crash data from 27 states, including Florida, Texas, and Michigan, to develop SPFs and CMFs for various intersection designs. Three methods were used: before-and-after analysis with comparison groups, Empirical Bayes before-and-after analysis, and cross-sectional modeling. The performance of each design was analyzed in terms of crash severity, traffic conflicts, and capacity improvements.",
         "key_findings": [
@@ -399,7 +399,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             }
         ],
         "pdf": "docs/2020_evans_pei_stpeters_road_intersection_an_innovative_design_approach.pdf",
@@ -433,7 +433,7 @@
         "related_measures": [
             {
                 "title": "Nudging Drivers: The Influence of Innovative Green-Phase Forewarning Systems on Drivers’ Start-Up Behavior at Signalized Intersections",
-                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf"
+                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase.pdf"
             },
             {
                 "title": "Innovative Countermeasures for Red Light Running Prevention at Signalized Intersections: A Driving Simulator Study",
@@ -475,7 +475,7 @@
         "related_measures": [
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
@@ -517,7 +517,7 @@
         "related_measures": [
             {
                 "title": "Nudging Drivers: The Influence of Innovative Green-Phase Forewarning Systems on Drivers’ Start-Up Behavior at Signalized Intersections",
-                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf"
+                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase.pdf"
             },
             {
                 "title": "Evaluation of Alternative Messages and Sign Locations on Driver Response to a Dynamic Speed Feedback Sign on a Freeway Interchange Ramp",
@@ -559,7 +559,7 @@
         "related_measures": [
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
@@ -647,7 +647,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
@@ -689,7 +689,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
@@ -735,7 +735,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             }
         ],
         "pdf": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf",
@@ -773,11 +773,11 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "Nudging Drivers: The Influence of Innovative Green-Phase Forewarning Systems on Drivers’ Start-Up Behavior at Signalized Intersections",
-                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf"
+                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase.pdf"
             }
         ],
         "pdf": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf",
@@ -815,7 +815,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
@@ -941,7 +941,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
@@ -983,14 +983,14 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "Public Involvement and Education on Alternative Intersection/Interchange Designs",
                 "link": "docs/2020_rodgers_Public Involvement-Education on Alternative Intersection-Interchange Designs.pdf"
             }
         ],
-        "pdf": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf",
+        "pdf": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase.pdf",
         "objective": "To evaluate the impact of different forewarning systems on reducing start-up lost time and improving traffic flow efficiency at signalized intersections.",
         "method": "A driving simulator experiment was conducted with 61 participants using four forewarning systems: Yellow-Red Forewarning, Flashing Red Forewarning, VMS Clock-2s, and VMS Clock-5s. Reaction times, start-up lost times, and early start-up behaviors were analyzed using linear mixed models.",
         "key_findings": [
@@ -1025,7 +1025,7 @@
             },
             {
                 "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
-                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs.pdf"
             },
             {
                 "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
