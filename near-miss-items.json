@@ -58,7 +58,8 @@
         "categories": [
             "Crash Analysis",
             "Near-Miss Detection",
-            "Driver Monitoring"
+            "Driver Monitoring",
+            "Pedestrian Safety"
         ]
     },
     {
@@ -118,7 +119,8 @@
         "group": "Telematics & Behavior",
         "categories": [
             "Driver Monitoring",
-            "Urban Mobility"
+            "Urban Mobility",
+            "Responder Safety"
         ]
     },
     {
@@ -177,7 +179,8 @@
         "categories": [
             "Crash Analysis",
             "Near-Miss Detection",
-            "Driver Monitoring"
+            "Driver Monitoring",
+            "Fleet Safety"
         ]
     },
     {
@@ -235,7 +238,8 @@
         "categories": [
             "Transport Safety",
             "Fleet Telematics",
-            "Crisis Management"
+            "Crisis Management",
+            "Fatigue & Risk"
         ]
     },
 
@@ -296,7 +300,8 @@
         "categories": [
             "Crash Analysis",
             "Near-Miss Detection",
-            "Driver Monitoring"
+            "Driver Monitoring",
+            "Braking Behavior"
         ]
     },
 
@@ -356,7 +361,8 @@
         "categories": [
             "Crash Analysis",
             "Near-Miss Detection",
-            "Driver Monitoring"
+            "Driver Monitoring",
+            "Near-Crash AI"
         ]
     },
     {
@@ -416,7 +422,8 @@
         "categories": [
             "Driver Monitoring",
             "Fatigue & Risk",
-            "Fleet Safety"
+            "Fleet Safety",
+            "Driver Risk AI"
         ]
     },
     {
@@ -478,7 +485,9 @@
         "categories": [
             "Near-Miss Detection",
             "Edge Computing",
-            "Autonomous Vehicles"
+            "Autonomous Vehicles",
+            "Driver Risk AI",
+            "AV Near-Miss"
         ]
     },
     {
@@ -542,7 +551,8 @@
         "categories": [
             "Near-Miss Detection",
             "Video-Based Analysis",
-            "Traffic Safety"
+            "Traffic Safety",
+            "AV Near-Miss"
         ]
     },
 
