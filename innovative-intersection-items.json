@@ -1,0 +1,1052 @@
+[
+    {
+        "title": "Innovative Method for Remotely Fine-Tuning Offsets Along a Diverging Diamond Interchange Corridor",
+        "description": "This study introduces a method for remotely fine-tuning signal offsets in diverging diamond interchange (DDI) corridors. The proposed approach uses the Dynamic Bandwidth Analysis Tool (DBAT) to optimize signal coordination, reducing delays and improving traffic flow without requiring on-site adjustments.",
+        "images": [],
+        "references": [
+            "Chlewicki (2003). New Interchange and Intersection Designs: The Synchronized Split-Phasing Intersection and the Diverging Diamond Interchange.",
+            "Bared et al. (2005). Design and Operational Performance of Double Crossover Intersection and Diverging Diamond Interchange.",
+            "Siromaskul and Speth (2008). A Comparative Analysis of Diverging Diamond Interchange Operations.",
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report (AIIR).",
+            "Missouri DOT (2010). Missouri’s Experience with a Diverging Diamond Interchange: Lessons Learned."
+        ],
+        "related_measures": [
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            }
+        ],
+        "pdf": "docs/2016_kim_innovative-method-for-remotely-fine-tuning-offsets-along-a-diverging-diamond-interchange-corridor.pdf",
+        "objective": "To develop an efficient method for fine-tuning signal offsets along a diverging diamond interchange (DDI) corridor using remotely collected traffic data, improving corridor mobility and reducing travel delays.",
+        "method": "The study employs the Dynamic Bandwidth Analysis Tool (DBAT) to analyze real-time signal controller data and optimize offset adjustments remotely. Performance is measured using delay reduction, stop severity index, queue lengths, and vehicle trajectory analysis.",
+        "key_findings": [
+            "DBAT reduced delay by 52.8% for northbound vehicles and 46.83% for southbound vehicles.",
+            "Overall delay reduction was 13.88% in uncongested conditions and 3.50% in congested conditions.",
+            "Remote optimization eliminated the need for on-site signal retiming, reducing adjustment time from over a day to under an hour.",
+            "DBAT proved more effective than traditional bandwidth optimization tools, accounting for skipped or gapped-out movements.",
+            "The methodology improves progression strategies at DDIs, optimizing travel flow with minimal infrastructure modifications."
+        ],
+        "group": "Infrastructure & Policy",
+        "categories": [
+            "Construction Issues",
+            "Traffic Flow",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "A Driving Simulator Evaluation of Potential Speed Reductions Using Two Innovative Designs for Signalised Urban Intersections",
+        "description": "This study evaluates the effectiveness of two innovative intersection designs, 'Cut-Through' and 'Squircle,' in reducing vehicle speeds at signalized urban intersections. Using a driving simulator, the study compares vehicle speeds at these intersections against traditional signalized intersections and roundabouts, analyzing their compliance with Safe System principles.",
+        "images": [],
+        "references": [
+            "Choi (2010). Crash factors in intersection-related crashes: an on-scene perspective.",
+            "Hoareau et al. (2011). Intersection study: Problem definition of crashes in Victoria.",
+            "Candappa et al. (2015). An exploration of alternative intersection designs in the context of Safe System.",
+            "Gross et al. (2013). Safety effectiveness of converting signalized intersections to roundabouts.",
+            "Tingvall & Haworth (1999). Vision Zero – an ethical approach to safety and mobility."
+        ],
+        "related_measures": [
+            {
+                "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
+                "link": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations",
+                "link": "docs/2023_brewer_Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations.pdf"
+            }
+        ],
+        "pdf": "docs/2017_stephens_A driving simulator evaluation of potential speed reductions using two innovative designs for signalised urban intersections.pdf",
+        "objective": "To assess whether the 'Cut-Through' and 'Squircle' intersection designs effectively reduce vehicle speeds compared to standard signalized intersections, improving safety under Safe System principles.",
+        "method": "The study uses a driving simulator to analyze driver speed behavior when approaching and traveling through intersections. The performance of the Cut-Through and Squircle designs is compared with standard signalized intersections and roundabouts. Speed data is collected in various conditions, including straight-path and right-turn maneuvers.",
+        "key_findings": [
+            "Drivers reduced speeds by 30–40% when navigating both the Cut-Through and Squircle compared to standard signalized intersections.",
+            "Speed reductions align with Safe System principles, reducing potential crash severity.",
+            "The Cut-Through and Squircle were found to enforce safer travel speeds similar to roundabouts but with controlled traffic flow.",
+            "Drivers initially reported confusion with the new designs but adapted quickly after repeated exposure.",
+            "Both designs showed potential to improve urban intersection safety while maintaining efficient traffic movement."
+        ],
+        "group": "Driver Behavior & Simulation",
+        "categories": [
+            "Speed & Trajectories",
+            "Traffic Signals",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Performance of Alternative Diamond Interchange Forms: Volume I—Research Report",
+        "description": "This study evaluates the operational performance of six alternative diamond interchange forms: conventional diamond (DI), tight diamond (TDI), diverging diamond (DDI), single-point interchange (SPI), and single and double roundabout diamonds (SRI & DRI). The study provides guidelines for early-stage screening of interchange types to optimize traffic performance.",
+        "images": [],
+        "references": [
+            "Chlewicki (2003). New Interchange and Intersection Designs: The Synchronized Split-Phasing Intersection and the Diverging Diamond Interchange.",
+            "Bared et al. (2005). Design and Operational Performance of Double Crossover Intersection and Diverging Diamond Interchange.",
+            "Afshar et al. (2009). Comparative Study of Single-Point Interchange and Diverging Diamond Interchange.",
+            "Leong et al. (2015). Micro-simulation Analysis of Diverging Diamond Interchange Performance.",
+            "Missouri DOT (2011). Operational Analysis of Diverging Diamond Interchange."
+        ],
+        "related_measures": [
+            {
+                "title": "Introducing the Super DDI as a Promising Alternative Service Interchange",
+                "link": "docs/2019_molan-introducing-the-super-ddi-as-a-promising-alternative-service-interchange.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            },
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            }
+        ],
+        "pdf": "docs/2017_tarko_Performance of Alternative Diamond Interchange Forms- Volume I-research Report.pdf",
+        "objective": "To compare the traffic performance of six alternative diamond interchange forms using simulation experiments and develop guidelines for selecting the best interchange design under varying conditions.",
+        "method": "The study employs VISSIM micro-simulation to analyze 13,500 traffic scenarios for six alternative diamond interchanges. The performance measures considered include daily-average delay, level of service, number of stops, longest off-ramp queue, and longest crossing road queue.",
+        "key_findings": [
+            "Single-point interchanges (SPI) exhibited the lowest average delays among all alternatives.",
+            "Roundabouts had the highest delays but the lowest number of stops at low traffic volumes.",
+            "Diverging diamond interchanges (DDI) showed shorter queues on off-ramps compared to other alternatives.",
+            "Tight diamond interchanges (TDI) were effective in space-constrained areas but had higher delays than SPI and DDI.",
+            "The study developed a screening tool to help planners select the most efficient diamond interchange based on traffic conditions."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Traffic Flow",
+            "Roundabouts & Highways",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings",
+        "description": "This study evaluates the impact of bike boxes and two-stage turn queue boxes on bicycle travel and safety at a signalized intersection in Charlottesville, Virginia. The research examines their influence on traffic infractions, near-miss conflicts, and cyclist compliance, using a before-and-after video analysis approach.",
+        "images": [],
+        "references": [
+            "Dill et al. (2011). Evaluation of Bike Boxes at Signalized Intersections.",
+            "Hamer (1981). Go by Bike – Holland Shows the Way.",
+            "Monsere et al. (2014). Lessons from the Green Lanes: Evaluating Protected Bike Lanes in the US.",
+            "National Association of City Transportation Officials (2016). Urban Bikeway Design Guide.",
+            "Farley (2014). An Analysis of Bicycle-Vehicle Interactions at Signalized Intersections with Bicycle Boxes."
+        ],
+        "related_measures": [
+            {
+                "title": "Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings",
+                "link": "docs/2021_appiah_Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings.pdf"
+            },
+            {
+                "title": "An Innovative Design for Left Turn Bicycles at Continuous Flow Intersections",
+                "link": "docs/2019_zhao_An innovative design for left turn bicycles at continuous flow intersections.pdf"
+            },
+            {
+                "title": "Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists",
+                "link": "docs/2023_Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists.pdf"
+            }
+        ],
+        "pdf": "docs/2018_ohlms_Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings.pdf",
+        "objective": "To analyze the effectiveness of innovative intersection pavement markings, specifically bike boxes and two-stage turn queue boxes, in facilitating safer and more efficient bicycle travel.",
+        "method": "A before-and-after study was conducted using video footage from an intersection in Charlottesville, Virginia. Data were collected on bicycle volumes, traffic infractions, and near-miss conflicts. The Wilcoxon signed-rank test was applied to assess statistical significance.",
+        "key_findings": [
+            "Traffic infractions decreased in some areas but increased in others after the installation of bike boxes and turn boxes.",
+            "Bicyclists demonstrated mixed compliance, with some using the new markings correctly while others ignored or misused them.",
+            "Conflicts between bicyclists and other road users did not significantly decrease, suggesting that additional measures may be needed.",
+            "Bike boxes improved visibility for bicyclists but did not fully eliminate right-hook conflicts.",
+            "Public education and enforcement could enhance the effectiveness of these pavement markings."
+        ],
+        "group": "Bicycle & Pedestrian Safety",
+        "categories": [
+            "Bike-Friendly Design",
+            "Pedestrian Safety",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Use of Innovative Intersection Designs for Improving Mobility and Reducing Roadway Traffic Congestion",
+        "description": "This study evaluates the operational and safety impacts of three innovative intersection designs: Displaced Left Turn (DLT), Median U-Turn (MUT), and Restricted Crossing U-Turn (RCUT). Through literature review, simulation analysis, and case studies, the study examines their effectiveness in reducing congestion and improving traffic efficiency.",
+        "images": [],
+        "references": [
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "FHWA (2014). Displaced Left-Turn Intersection Informational Guide.",
+            "LaDOTD (2007). Safety and Operational Analysis of Continuous Flow Intersections.",
+            "Goldblatt et al. (1994). Simulation Analysis of Alternative Intersection Designs.",
+            "Jagannathan & Bared (2004). Evaluating Continuous Flow Intersections using Simulation Models."
+        ],
+        "related_measures": [
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            },
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            }
+        ],
+        "pdf": "docs/2018_qi-Use of Innovative Intersection Designs for Improving Mobility and Reducing Roadway Traffic Congestion.pdf",
+        "objective": "To assess the effectiveness of innovative intersection designs in improving mobility and reducing traffic congestion, with a focus on Displaced Left Turn (DLT), Median U-Turn (MUT), and Restricted Crossing U-Turn (RCUT) intersections.",
+        "method": "The study utilizes literature reviews, simulation models, and case studies. Microsimulation analysis was conducted using VISSIM to compare the traffic performance of innovative intersections against conventional designs. Performance metrics include delay, queue length, level of service (LOS), and crash reduction potential.",
+        "key_findings": [
+            "Displaced Left Turn (DLT) intersections improve mobility by reducing left-turn signal phases and reallocating green time to through movements.",
+            "Median U-Turn (MUT) intersections significantly reduce conflict points, improving safety while maintaining efficient traffic flow.",
+            "Restricted Crossing U-Turn (RCUT) designs provide substantial operational improvements for arterial roads with high-speed conditions.",
+            "Microsimulation results show that innovative intersections can reduce delay and queue lengths by up to 30% compared to conventional signalized intersections.",
+            "Public acceptance and driver familiarity play crucial roles in the success of these alternative intersection designs."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Traffic Flow",
+            "Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "Introducing the Super DDI as a Promising Alternative Service Interchange",
+        "description": "This study proposes the 'Super Diverging Diamond Interchange (Super DDI)' as an improvement to the traditional DDI design. The Super DDI addresses challenges such as accommodating high through-traffic demand and pedestrian safety while maintaining the benefits of the conventional DDI. The study employs VISSIM simulation to compare the Super DDI with other interchange designs in terms of efficiency, safety, and construction cost.",
+        "images": [],
+        "references": [
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "Diverging Diamond Interchange Informational Guide (2014). Federal Highway Administration.",
+            "Bared et al. (2005). Design and Operational Performance of Double Crossover Intersection and Diverging Diamond Interchange.",
+            "Mehrara Molan et al. (2018). Safety and Performance Analysis of the Super DDI.",
+            "Missouri DOT (2011). Operational Analysis of Diverging Diamond Interchange."
+        ],
+        "related_measures": [
+            {
+                "title": "Performance of Alternative Diamond Interchange Forms: Volume I—Research Report",
+                "link": "docs/2017_tarko_Performance of Alternative Diamond Interchange Forms- Volume I-research Report.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            }
+        ],
+        "pdf": "docs/2019_molan-introducing-the-super-ddi-as-a-promising-alternative-service-interchange.pdf",
+        "objective": "To introduce and evaluate the Super Diverging Diamond Interchange (Super DDI), analyzing its traffic performance, efficiency, and construction feasibility compared to other alternative interchange designs.",
+        "method": "The study uses VISSIM micro-simulation to test the Super DDI under different traffic demand scenarios. Performance metrics include travel time, queue lengths, and congestion reduction. Construction costs are estimated based on material requirements and comparison with existing interchange types.",
+        "key_findings": [
+            "The Super DDI design reduced average travel time by 18% compared to traditional DDIs.",
+            "Capacity improved by 49%, allowing a higher volume of completed trips under high-traffic conditions.",
+            "Pedestrian safety was improved by eliminating free-flowing conflicts at crossing points.",
+            "Construction costs were higher than a traditional DDI but lower than multi-bridge alternatives.",
+            "The design provides better traffic flow under high through-traffic conditions, making it a viable option for congested corridors."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Traffic Flow",
+            "Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "An Innovative Design for Left Turn Bicycles at Continuous Flow Intersections",
+        "description": "This study proposes an optimization design method for left-turn bicycles at continuous flow intersections (CFI) to eliminate conflicts with through vehicles. The design includes a pre-stop line for through vehicles and a crossing passage for left-turn bicycles at the pre-signal points of the CFI. A linear programming model is developed to maximize vehicular capacity while improving bicycle safety and efficiency.",
+        "images": [],
+        "references": [
+            "Jagannathan & Bared (2005). Evaluating Continuous Flow Intersections using Simulation Models.",
+            "Goldblatt et al. (1994). Continuous Flow Intersections and their Impact on Traffic Flow.",
+            "Yang & Cheng (2017). Analysis of Geometric Design and Signal Control at CFIs.",
+            "El Esawey & Sayed (2011). Evaluating Operational Efficiency of Median U-Turn Intersections.",
+            "Zhao et al. (2018). Safety Analysis of Left-Turn Movements at CFIs."
+        ],
+        "related_measures": [
+            {
+                "title": "Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings",
+                "link": "docs/2018_ohlms_Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings.pdf"
+            },
+            {
+                "title": "Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings",
+                "link": "docs/2021_appiah_Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings.pdf"
+            },
+            {
+                "title": "Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists",
+                "link": "docs/2023_Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists.pdf"
+            }
+        ],
+        "pdf": "docs/2019_zhao_An innovative design for left turn bicycles at continuous flow intersections.pdf",
+        "objective": "To enhance bicycle safety and intersection efficiency by eliminating conflicts between left-turn bicycles and through vehicles at continuous flow intersections through optimized geometric and signal control design.",
+        "method": "The study uses a combination of geometric redesign and signal control optimization. A linear programming model is developed to maximize the practical vehicular capacity while ensuring bicycle safety. The effectiveness of the design is validated through a case study and sensitivity analyses.",
+        "key_findings": [
+            "The proposed design significantly reduces conflicts between left-turn bicycles and through vehicles at CFIs.",
+            "Improvements in practical capacity increase with higher left-turn bicycle volumes and through vehicle percentages.",
+            "Longer signal cycle lengths reduce the effectiveness of the proposed design.",
+            "The proposed approach enhances bicycle travel efficiency by reducing delay in high traffic demand conditions.",
+            "The two-phase signal control method maintains traffic flow efficiency while improving bicycle safety."
+        ],
+        "group": "Bicycle & Pedestrian Safety",
+        "categories": [
+            "Bike-Friendly Design",
+            "Pedestrian Safety",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+        "description": "This study develops a framework for evaluating innovative intersection and interchange designs, focusing on operational performance, safety, accessibility, and multimodal accommodations. The research introduces an Excel-based tool to assess the efficiency of various unconventional designs, including Diverging Diamond Interchanges (DDIs) and Continuous Flow Intersections (CFIs).",
+        "images": [],
+        "references": [
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "FHWA (2014). Diverging Diamond Interchange Informational Guide.",
+            "Bared et al. (2005). Performance Analysis of Double Crossover Intersections and Diverging Diamond Interchanges.",
+            "Jagannathan & Bared (2004). Evaluating Continuous Flow Intersections using Simulation Models.",
+            "El Esawey & Sayed (2011). Safety and Operational Efficiency of Median U-Turn Intersections."
+        ],
+        "related_measures": [
+            {
+                "title": "Performance of Alternative Diamond Interchange Forms: Volume I—Research Report",
+                "link": "docs/2017_tarko_Performance of Alternative Diamond Interchange Forms- Volume I-research Report.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            }
+        ],
+        "pdf": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf",
+        "objective": "To develop standardized performance matrices for evaluating innovative intersection and interchange designs, assessing their impacts on traffic flow, safety, multimodal transportation, and accessibility.",
+        "method": "The study employs microsimulation tools and real-world data to develop performance evaluation modules for unconventional intersection and interchange designs. Performance is assessed across operational efficiency, safety, accessibility, and economic impact dimensions. The study introduces an Excel-based evaluation tool that enables planners and engineers to analyze innovative intersection designs efficiently.",
+        "key_findings": [
+            "Diverging Diamond Interchanges (DDIs) improve traffic flow efficiency but require increased driver awareness due to nontraditional lane movements.",
+            "Continuous Flow Intersections (CFIs) enhance capacity by up to 50% but require additional public education efforts to mitigate driver confusion.",
+            "Crash Modification Factors (CMFs) developed for innovative intersections show a reduction in severe crashes compared to conventional designs.",
+            "The developed performance evaluation tool provides a standardized methodology for comparing innovative and conventional intersection designs.",
+            "Multimodal analysis indicates that innovative intersections significantly impact pedestrian and bicycle accessibility, requiring additional safety accommodations."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Traffic Flow",
+            "Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+        "description": "This study assesses the safety and operational impacts of ten alternative intersection designs, including continuous green T-intersections, median U-turns, continuous flow intersections, jughandle intersections, restricted crossing U-turns, and diverging diamond interchanges. The study develops safety performance functions (SPFs) and crash modification factors (CMFs) to quantify safety improvements.",
+        "images": [],
+        "references": [
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "Schroeder et al. (2014). Safety and Operational Effects of Alternative Intersections.",
+            "Jagannathan & Bared (2004). Evaluating Continuous Flow Intersections using Simulation Models.",
+            "Inman & Haas (2012). Safety Performance of Restricted Crossing U-Turn Intersections.",
+            "Bared & Kaisar (2002). Comparative Analysis of Median U-Turn and Conventional Intersections."
+        ],
+        "related_measures": [
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            },
+            {
+                "title": "Performance of Alternative Diamond Interchange Forms: Volume I—Research Report",
+                "link": "docs/2017_tarko_Performance of Alternative Diamond Interchange Forms- Volume I-research Report.pdf"
+            }
+        ],
+        "pdf": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf",
+        "objective": "To evaluate the safety and operational effects of alternative intersection designs using crash modification factors (CMFs) and safety performance functions (SPFs) developed from crash data across 27 states.",
+        "method": "The study utilizes multi-year crash data from 27 states, including Florida, Texas, and Michigan, to develop SPFs and CMFs for various intersection designs. Three methods were used: before-and-after analysis with comparison groups, Empirical Bayes before-and-after analysis, and cross-sectional modeling. The performance of each design was analyzed in terms of crash severity, traffic conflicts, and capacity improvements.",
+        "key_findings": [
+            "Restricted Crossing U-Turn (RCUT) intersections were the most effective in reducing angle crashes, with a 55% reduction rate.",
+            "Median U-Turn (MUT) intersections significantly reduced total crashes (by 20–50%) and rear-end crashes (by 28%).",
+            "Continuous Flow Intersections (CFIs) provided the highest capacity improvements, reducing delay and increasing throughput.",
+            "Diverging Diamond Interchanges (DDIs) decreased total crashes by 26% and fatal-injury crashes by 49%.",
+            "Signalization reduced severe crash types but increased rear-end crashes by 66–195%, particularly among elderly drivers."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Safety & Performance",
+            "Traffic Flow",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "St. Peters Road Intersection: An Innovative Design Approach",
+        "description": "This study explores an innovative approach to improving the St. Peters Road intersection on the Trans-Canada Highway in Charlottetown, PEI. The project evaluated various intersection alternatives and selected a partial Displaced-Left-Turn (DLT) intersection configuration as the most effective solution. The study highlights operational benefits, safety improvements, and design considerations specific to the Canadian context.",
+        "images": [],
+        "references": [
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "FHWA (2017). Displaced Left-Turn (DLT) Intersections Informational Guide.",
+            "Jagannathan & Bared (2004). Evaluating Continuous Flow Intersections using Simulation Models.",
+            "El Esawey & Sayed (2011). Safety Performance of Median U-Turn Intersections.",
+            "Canada’s Road Safety Strategy 2025 (2019). Towards Zero Vision."
+        ],
+        "related_measures": [
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            },
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            }
+        ],
+        "pdf": "docs/2020_evans_pei_stpeters_road_intersection_an_innovative_design_approach.pdf",
+        "objective": "To evaluate the effectiveness of a partial Displaced-Left-Turn (DLT) intersection for improving traffic flow and safety at the St. Peters Road intersection, while considering its applicability within the Canadian transportation system.",
+        "method": "The study employs various traffic analysis tools, including the FHWA's Capacity Analysis for Planning of Junctions (Cap-X) tool and VISSIM microsimulation. Performance metrics analyzed include level of service, queue lengths, vehicle delay, and safety improvements. Road user behavior and geometric design adaptations were also considered to optimize the DLT configuration for local conditions.",
+        "key_findings": [
+            "The Displaced-Left-Turn (DLT) configuration significantly improved operational efficiency by reducing intersection signal phases.",
+            "Compared to a conventional intersection, the partial DLT reduced vehicle-vehicle conflict points from 32 to 30.",
+            "Pedestrian-vehicle conflicts were reduced from 24 to 20, improving pedestrian safety.",
+            "Before-and-after studies in the U.S. suggest a 24% reduction in total crashes and a 19% reduction in fatal and injury crashes following DLT installation.",
+            "Proper signage and driver education are essential for ensuring a smooth transition to this new intersection type."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Traffic Flow",
+            "Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "Evaluation of Alternative Messages and Sign Locations on Driver Response to a Dynamic Speed Feedback Sign on a Freeway Interchange Ramp",
+        "description": "This study evaluates the effectiveness of dynamic speed feedback signs (DSFS) in reducing vehicle speeds and improving braking behavior on freeway interchange ramps. The research investigates the impact of different message strategies and sign placement locations, aiming to improve safety by reducing lane departure crashes.",
+        "images": [],
+        "references": [
+            "Hallmark et al. (2015). Crash Modification Factors for Dynamic Speed Feedback Signs on Rural Curves.",
+            "Bertini et al. (2006). Field Evaluation of the Myrtle Creek Advance Curve Warning System.",
+            "Mattox et al. (2007). Development and Evaluation of a Speed-Activated Sign to Reduce Speeds in Work Zones.",
+            "Santiago-Chaparra et al. (2012). Spatial Effectiveness of Speed Feedback Signs.",
+            "City of Bellevue Transportation Department (2009). Stationary Radar Sign Program Report."
+        ],
+        "related_measures": [
+            {
+                "title": "Nudging Drivers: The Influence of Innovative Green-Phase Forewarning Systems on Drivers’ Start-Up Behavior at Signalized Intersections",
+                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf"
+            },
+            {
+                "title": "Innovative Countermeasures for Red Light Running Prevention at Signalized Intersections: A Driving Simulator Study",
+                "link": "docs/2020_hussain_Innovative Countermeasures for Red Light Running Prevention at Signalized Intersections- A Driving Simulator Study.pdf"
+            },
+            {
+                "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
+                "link": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf"
+            }
+        ],
+        "pdf": "docs/2020_gates_evaluation-of-alternative-messages-and-sign-locations-on-driver-response-to-a-dynamic-speed-feedback.pdf",
+        "objective": "To evaluate the impact of dynamic speed feedback signs (DSFS) on driver speed selection and braking characteristics at freeway ramp curves, and to identify the most effective messaging strategies and sign placement locations for improving roadway safety.",
+        "method": "A before-and-after field evaluation was conducted at a freeway interchange ramp in Michigan, using video-based speed and braking data collection. The study tested three different feedback messaging strategies and three different sign positions to analyze their influence on driver behavior. Statistical modeling techniques, including linear regression and logistic regression, were used to assess the effects of DSFS on curve entry speed, braking response, and compliance with advisory speed limits.",
+        "key_findings": [
+            "DSFS reduced vehicle speeds at the curve entry point across all test conditions, with the largest reductions observed for heavy trucks.",
+            "The most effective DSFS messaging strategy included alternating speed feedback with a 'SLOW DOWN' message.",
+            "Positioning the DSFS sign 255 feet upstream of the curve provided the most significant speed reductions and optimal braking behavior.",
+            "Adding an advisory speed panel to the DSFS did not significantly alter driver behavior compared to a DSFS without the panel.",
+            "DSFS increased the likelihood of drivers initiating braking within the optimal distance range of 200-600 feet before the curve, improving roadway safety."
+        ],
+        "group": "Driver Behavior & Simulation",
+        "categories": [
+            "Speed & Trajectories",
+            "Traffic Signals",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Public Involvement and Education on Alternative Intersection/Interchange Designs",
+        "description": "This study assesses public engagement strategies for educating the general public about innovative intersection and interchange designs. The research focuses on how the Georgia Department of Transportation (GDOT) communicates benefits, tradeoffs, and navigation guidelines for unconventional intersections such as roundabouts, reduced conflict U-turns (RCUT), median U-turns (MUT), displaced left-turns (DLT), continuous-flow intersections (CFI), and quadrant intersections.",
+        "images": [],
+        "references": [
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "FHWA (2014). Public Involvement Techniques for Transportation Decision-Making.",
+            "Savolainen, Kawa, and Gates (2012). Public Perceptions of Roundabouts.",
+            "Edara, Sun, and Breslow (2014). Evaluating Public Acceptance of Alternative Intersection Designs.",
+            "Georgia Department of Transportation (2016). Public Involvement Plan for NEPA Projects."
+        ],
+        "related_measures": [
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            }
+        ],
+        "pdf": "docs/2020_rodgers_Public Involvement-Education on Alternative Intersection-Interchange Designs.pdf",
+        "objective": "To evaluate and improve public involvement strategies used in Georgia to educate citizens on innovative intersection designs, enhancing public understanding and acceptance while informing infrastructure decision-making.",
+        "method": "The study involves literature reviews, field observations, and direct public feedback through surveys and interviews conducted at public information open houses (PIOH). Various engagement materials, including brochures, posters, and VISSIM simulation videos, were tested across nine meetings in Georgia to assess their effectiveness in educating the public about alternative intersections.",
+        "key_findings": [
+            "Public opposition to innovative intersections is often due to unfamiliarity rather than actual operational or safety concerns.",
+            "Public engagement materials need to be visually appealing, with simplified messaging to improve accessibility.",
+            "VISSIM-based simulation videos significantly improved public understanding of how to navigate new intersection types.",
+            "Interactive engagement, such as workshops and Q&A sessions, was more effective than static brochures in gaining public support.",
+            "Frequent exposure and community education are key to increasing public acceptance of alternative intersection designs."
+        ],
+        "group": "Infrastructure & Policy",
+        "categories": [
+            "Public Engagement",
+            "Construction Issues",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Innovative Countermeasures for Red Light Running Prevention at Signalized Intersections: A Driving Simulator Study",
+        "description": "This study investigates the effectiveness of various countermeasures aimed at reducing red light running (RLR) at signalized intersections. Using a driving simulator, five experimental conditions were tested, including default traffic signals, flashing green signals, red LED ground lights, countdown variable message signs (C-VMS), and red light camera warning gantries. The study evaluates their impact on driver behavior and stopping consistency.",
+        "images": [],
+        "references": [
+            "Chang et al. (2007). CICAS-v research on comprehensive costs of intersection crashes.",
+            "Huang et al. (2014). Red light running behavior at signalized intersections.",
+            "Retting et al. (2008). Effectiveness of lengthening the yellow signal interval.",
+            "McCarthy (2015). Red light running crash analysis and trends in the U.S.",
+            "Yang et al. (2014). Dilemma zone and driver decision-making at signalized intersections."
+        ],
+        "related_measures": [
+            {
+                "title": "Nudging Drivers: The Influence of Innovative Green-Phase Forewarning Systems on Drivers’ Start-Up Behavior at Signalized Intersections",
+                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf"
+            },
+            {
+                "title": "Evaluation of Alternative Messages and Sign Locations on Driver Response to a Dynamic Speed Feedback Sign on a Freeway Interchange Ramp",
+                "link": "docs/2020_gates_evaluation-of-alternative-messages-and-sign-locations-on-driver-response-to-a-dynamic-speed-feedback.pdf"
+            },
+            {
+                "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
+                "link": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf"
+            }
+        ],
+        "pdf": "docs/2020_hussain_Innovative Countermeasures for Red Light Running Prevention at Signalized Intersections- A Driving Simulator Study.pdf",
+        "objective": "To assess the impact of five innovative countermeasures on red light running behavior and safe stopping at signalized intersections, using a controlled driving simulator experiment.",
+        "method": "A driving simulator study was conducted with 67 participants exposed to five intersection conditions. Data were analyzed using logistic regression models to estimate the probability of red light running and linear mixed models to assess variations in driver stopping behavior. Performance metrics included stopping compliance, speed profiles, and acceleration patterns.",
+        "key_findings": [
+            "Red LED ground lights (R-LED) were the most effective in reducing red light running and encouraging consistent stopping behavior.",
+            "Flashing green signals led to increased indecision zones and inconsistent stopping, potentially increasing rear-end crashes.",
+            "Countdown variable message signs (C-VMS) increased red light violations by making drivers more impulsive to cross intersections.",
+            "Red light camera warning gantries encouraged early braking, reducing the risk of rear-end crashes.",
+            "Speed at the onset of the yellow interval significantly affected the likelihood of red light running."
+        ],
+        "group": "Driver Behavior & Simulation",
+        "categories": [
+            "Speed & Trajectories",
+            "Traffic Signals",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Public Involvement and Education on Alternative Intersection/Interchange Designs",
+        "description": "This study evaluates public engagement strategies for educating the public on innovative intersection and interchange designs. The research focuses on how the Georgia Department of Transportation (GDOT) communicates benefits, trade-offs, and navigation guidelines for unconventional intersections such as roundabouts, reduced conflict U-turns (RCUT), median U-turns (MUT), displaced left-turns (DLT), continuous-flow intersections (CFI), and quadrant intersections.",
+        "images": [],
+        "references": [
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "FHWA (2014). Public Involvement Techniques for Transportation Decision-Making.",
+            "Savolainen, Kawa, and Gates (2012). Public Perceptions of Roundabouts.",
+            "Edara, Sun, and Breslow (2014). Evaluating Public Acceptance of Alternative Intersection Designs.",
+            "Georgia Department of Transportation (2016). Public Involvement Plan for NEPA Projects."
+        ],
+        "related_measures": [
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            }
+        ],
+        "pdf": "docs/2020_rodgers_Public Involvement-Education on Alternative Intersection-Interchange Designs.pdf",
+        "objective": "To evaluate and improve public involvement strategies used in Georgia to educate citizens on innovative intersection designs, enhancing public understanding and acceptance while informing infrastructure decision-making.",
+        "method": "The study involves literature reviews, field observations, and direct public feedback through surveys and interviews conducted at public information open houses (PIOH). Various engagement materials, including brochures, posters, and VISSIM simulation videos, were tested across nine meetings in Georgia to assess their effectiveness in educating the public about alternative intersections.",
+        "key_findings": [
+            "Public opposition to innovative intersections is often due to unfamiliarity rather than actual operational or safety concerns.",
+            "Public engagement materials need to be visually appealing, with simplified messaging to improve accessibility.",
+            "VISSIM-based simulation videos significantly improved public understanding of how to navigate new intersection types.",
+            "Interactive engagement, such as workshops and Q&A sessions, was more effective than static brochures in gaining public support.",
+            "Frequent exposure and community education are key to increasing public acceptance of alternative intersection designs."
+        ],
+        "group": "Infrastructure & Policy",
+        "categories": [
+            "Public Engagement",
+            "Construction Issues",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings",
+        "description": "This study evaluates the effectiveness of cross-bike pavement markings installed at unsignalized intersections in Portland, Oregon. The study analyzes motorists’ yielding behavior before and after installation of the markings and assesses their impact on bicycle safety and operational efficiency.",
+        "images": [],
+        "references": [
+            "Monsere et al. (2012). Improving Bicyclist Safety at Intersections: A Review of Treatments.",
+            "Zegeer et al. (2001). Safety Effects of Marked vs. Unmarked Crosswalks.",
+            "Fitzpatrick et al. (2015). The Impact of High-Visibility Crosswalk Markings on Driver Yielding Behavior.",
+            "Schepers et al. (2011). Safety Impacts of Bicycle Infrastructure at Intersections.",
+            "NHTSA (2019). Bicycle Crash Trends and Safety Countermeasures."
+        ],
+        "related_measures": [
+            {
+                "title": "Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings",
+                "link": "docs/2018_ohlms_Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings.pdf"
+            },
+            {
+                "title": "An Innovative Design for Left Turn Bicycles at Continuous Flow Intersections",
+                "link": "docs/2019_zhao_An innovative design for left turn bicycles at continuous flow intersections.pdf"
+            },
+            {
+                "title": "Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists",
+                "link": "docs/2023_Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists.pdf"
+            }
+        ],
+        "pdf": "docs/2021_appiah_Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings.pdf",
+        "objective": "To assess the impact of cross-bike pavement markings on driver yielding behavior, bicycle wait times, and intersection safety at unsignalized crossings in Portland, Oregon.",
+        "method": "The study involved a before-and-after analysis using 48 hours of video footage collected at three unsignalized intersections. The yielding rates of motorists and the wait times of bicyclists were analyzed using statistical tests to determine the effectiveness of the pavement markings.",
+        "key_findings": [
+            "Motorists’ yielding rates increased significantly after the installation of cross-bike pavement markings, with increases from 48% to 91% at some sites.",
+            "Bicyclist wait times decreased at intersections with cross-bike markings, improving overall travel efficiency.",
+            "The presence of cross-bike markings encouraged bicyclists to position themselves more consistently while waiting to cross.",
+            "Statistical tests confirmed the significance of improved driver yielding behavior at a 95% confidence level.",
+            "The findings support the adoption of high-visibility bicycle crossing treatments to improve safety at unsignalized intersections."
+        ],
+        "group": "Bicycle & Pedestrian Safety",
+        "categories": [
+            "Bike-Friendly Design",
+            "Pedestrian Safety",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "FHWA Research and Technology Evaluation: Innovative Intersection Design",
+        "description": "This report assesses the impact of the Federal Highway Administration’s (FHWA) investment in innovative intersection research. It evaluates the availability and quality of research, the adoption of innovative intersection designs (IIDs) in the U.S., and the effects of these designs on road-user safety, traffic mobility, and construction costs.",
+        "images": [],
+        "references": [
+            "FHWA (2010). Alternative Intersections/Interchanges: Informational Report.",
+            "FHWA (2014). Diverging Diamond Interchange Informational Guide.",
+            "Edara et al. (2013). Safety Performance of Diverging Diamond Interchanges.",
+            "Bared & Jagannathan (2005). Comparative Analysis of Median U-Turn and Continuous Flow Intersections.",
+            "NCHRP (2019). Alternative Intersection Design and Selection."
+        ],
+        "related_measures": [
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            }
+        ],
+        "pdf": "docs/2021_badgley_FHWA Research and Technology Evaluation- Innovative Intersection Design.pdf",
+        "objective": "To evaluate the effectiveness of FHWA’s research investments in innovative intersection design and to determine how these efforts influenced adoption, safety, mobility, and cost savings across the U.S. transportation system.",
+        "method": "The study uses a mixed-methods approach, including literature reviews, data analysis, and structured interviews with state transportation agencies and FHWA staff. A return-on-investment (ROI) analysis was conducted to estimate the economic benefits of FHWA’s initiatives on innovative intersection design.",
+        "key_findings": [
+            "FHWA’s research and outreach efforts significantly accelerated the adoption of innovative intersection designs, including Diverging Diamond Interchanges (DDIs), Restricted Crossing U-Turns (RCUTs), and Displaced Left Turns (DLTs).",
+            "States with higher FHWA engagement exhibited earlier adoption of innovative intersection designs.",
+            "Innovative intersections led to improved safety outcomes, with reductions in crash severity and frequency compared to conventional designs.",
+            "FHWA’s involvement facilitated the development of design standards and increased public acceptance of non-traditional intersection configurations.",
+            "An ROI analysis estimated over $200 million in economic benefits due to FHWA’s intersection design research investments."
+        ],
+        "group": "Infrastructure & Policy",
+        "categories": [
+            "Public Engagement",
+            "Intersection Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "FHWA Research and Technology Evaluation TechBrief: Innovative Intersection Design",
+        "description": "This report summarizes the Federal Highway Administration’s (FHWA) research and technology evaluation of innovative intersection designs. The study examines the impact of FHWA’s investments in Diverging Diamond Interchanges (DDIs), Restricted Crossing U-Turns (RCUTs), Displaced Left Turns (DLTs), Median U-Turns (MUTs), and mini-roundabouts, focusing on their safety, mobility, and cost-effectiveness.",
+        "images": [],
+        "references": [
+            "Badgley et al. (2021). FHWA Research and Technology Evaluation: Innovative Intersection Design Final Report.",
+            "Hughes et al. (2010). Alternative Intersections/Interchanges: Informational Report (AIIR).",
+            "FHWA (2014). Diverging Diamond Interchange Informational Guide.",
+            "Federal Highway Administration (n.d.). 'Every Day Counts' Program Overview.",
+            "FHWA (n.d.). 'Proven Safety Countermeasures' Initiative."
+        ],
+        "related_measures": [
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            }
+        ],
+        "pdf": "docs/2021_Innovative Intersection Design.pdf",
+        "objective": "To evaluate the effectiveness of FHWA’s research investments in innovative intersection design and assess how these efforts influenced adoption, safety, mobility, and cost savings across the U.S. transportation system.",
+        "method": "The study includes a literature review, structured interviews with state transportation agencies and FHWA staff, and an analysis of the availability, reliability, and impact of safety and mobility data on intersection designs. The evaluation also examines deployment trends and economic benefits through a return-on-investment (ROI) analysis.",
+        "key_findings": [
+            "FHWA’s research efforts led to an increase in published material on innovative intersection designs, improving national knowledge and awareness.",
+            "States with higher FHWA engagement exhibited earlier adoption of innovative intersection designs.",
+            "Innovative intersections demonstrated reduced delays and improved crash outcomes compared to conventional intersections.",
+            "FHWA’s promotion efforts, including the 'Every Day Counts' initiative, helped accelerate adoption and standardization of innovative intersection types.",
+            "Recommendations include improving intersection mapping, standardizing terminology, and refining FHWA’s safety research approach to maximize impact."
+        ],
+        "group": "Infrastructure & Policy",
+        "categories": [
+            "Public Engagement",
+            "Intersection Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange, Displaced Left-Turn Interchange, and Diverging Diamond Interchange",
+        "description": "This study compares the operational performance of three innovative interchanges—Single Point Interchange (SPI), Diverging Diamond Interchange (DDI), and Displaced Left-Turn Interchange (DLT)—against the Traditional Diamond Interchange (TDI). The research assesses traffic flow efficiency, level of service (LOS), and delay reduction using Synchro simulation software under different traffic volume scenarios.",
+        "images": [],
+        "references": [
+            "Chlewicki (2003). Interchange and Intersection Designs: The Synchronized Split-Phasing Intersection and the Diverging Diamond Interchange.",
+            "Bared, Edara & Jagannathan (2005). Performance of Double Crossover Intersections and Diverging Diamond Interchanges.",
+            "Jagannathan (2007). Median U-Turn Intersection Treatment and Its Safety Benefits.",
+            "Autey, Sayed & Elesawey (2013). Operational Performance Comparison of Four Unconventional Intersection Designs Using Micro-Simulation.",
+            "Tarko et al. (2017). Performance of Alternative Diamond Interchange Forms: Guidelines for Selecting Alternative Diamond Interchanges."
+        ],
+        "related_measures": [
+            {
+                "title": "Performance of Alternative Diamond Interchange Forms: Volume I—Research Report",
+                "link": "docs/2017_tarko_Performance of Alternative Diamond Interchange Forms- Volume I-research Report.pdf"
+            },
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            }
+        ],
+        "pdf": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf",
+        "objective": "To compare the operational efficiency of Single Point Interchange (SPI), Diverging Diamond Interchange (DDI), and Displaced Left-Turn Interchange (DLT) with the Traditional Diamond Interchange (TDI) using traffic simulation to evaluate level of service and delay reductions.",
+        "method": "The study utilizes Synchro traffic simulation software to model four interchange designs under varying traffic volume conditions. Performance is measured using Level of Service (LOS), average delay, and intersection throughput. Three volume scenarios (base, 1.5x, and 2x traffic increase) are tested to examine the scalability of each interchange design.",
+        "key_findings": [
+            "All three innovative interchanges performed better than the Traditional Diamond Interchange (TDI) in terms of level of service and delay reduction.",
+            "Under high traffic demand, the Single Point Interchange (SPI) provided the most balanced delays across approaches, making it the most efficient design.",
+            "The Diverging Diamond Interchange (DDI) and Displaced Left-Turn Interchange (DLT) performed similarly, with both maintaining higher efficiency than TDI.",
+            "TDI operated at Level of Service (LOS) C under normal conditions but dropped to LOS F under high traffic volumes, while SPI remained at LOS B to C across all conditions.",
+            "Future research should incorporate real-world traffic data and alternative simulation tools like VISSIM or Sidra for further validation."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Traffic Flow",
+            "Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
+        "description": "This study evaluates the effectiveness of five innovative intersection designs on driver speed reduction and conflict angle modification using a driving simulator. The designs assessed include the cut-through, modified restricted squircle, unrestricted squircle, raised approach, and raised intersection. The study provides insights into speed reduction effectiveness and potential crash risk mitigation.",
+        "images": [],
+        "references": [
+            "Stephens et al. (2017). A Driving Simulator Evaluation of Potential Speed Reductions Using Two Innovative Designs for Signalized Urban Intersections.",
+            "Makwasha and Turner (2017). Safety Effects of Raised Intersections: A Before-After Analysis.",
+            "Blewden et al. (2020). Road Safety Benefits of Raised Approaches in Urban Areas.",
+            "Nambisan and Parimi (2007). Effectiveness of Roundabouts in Reducing Intersection Crashes.",
+            "Austroads (2021). Safe System Principles and Intersection Design Strategies."
+        ],
+        "related_measures": [
+            {
+                "title": "A Driving Simulator Evaluation of Potential Speed Reductions Using Two Innovative Designs for Signalized Urban Intersections",
+                "link": "docs/2017_stephens_A driving simulator evaluation of potential speed reductions using two innovative designs for signalised urban intersections.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "Nudging Drivers: The Influence of Innovative Green-Phase Forewarning Systems on Drivers’ Start-Up Behavior at Signalized Intersections",
+                "link": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf"
+            }
+        ],
+        "pdf": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf",
+        "objective": "To assess the impact of innovative intersection designs on driver speed, conflict angles, and potential crash risk reduction using a driving simulator experiment.",
+        "method": "The study used a high-fidelity driving simulator to evaluate driver speed and trajectory changes at five intersection designs. The analysis included approach speeds, speeds at conflict points, and trajectory modifications. Data were collected from participants navigating each intersection under various traffic conditions, with statistical models assessing the impact of design features on driver behavior.",
+        "key_findings": [
+            "All five innovative intersection designs resulted in significant speed reductions at critical conflict points, with reductions ranging from 7 to 19 km/h depending on the design.",
+            "The cut-through design was the most effective at reducing straight-through speeds, with reductions of up to 19 km/h at conflict points.",
+            "The squircle designs modified impact angles at conflict points, reducing crash severity by altering vehicle trajectories.",
+            "Raised intersection and raised approach designs effectively reduced entry speeds but had mixed impacts on right-turn behavior.",
+            "Younger drivers exhibited higher approach speeds, whereas older drivers showed more consistent speed reductions across all designs."
+        ],
+        "group": "Driver Behavior & Simulation",
+        "categories": [
+            "Speed & Trajectories",
+            "Traffic Signals",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations",
+        "description": "This study investigates the operational and safety benefits of modern roundabouts and selected innovative intersection designs in high-speed and rural locations. The research aims to provide updated design guidance that enhances the safety and efficiency of intersections serving high volumes of heavy vehicles.",
+        "images": [],
+        "references": [
+            "Texas A&M Transportation Institute (2023). Use of Roundabouts and Innovative Intersection Designs at High-Speed Intersections in Texas.",
+            "NCHRP Report 672 (2010). Roundabouts: An Informational Guide.",
+            "FHWA (2014). Alternative Intersection and Interchange Informational Report.",
+            "Isebrands and Hallmark (2012). Safety Performance of Rural Roundabouts on High-Speed Roadways.",
+            "Khattak et al. (2015). Crash Analysis of Rural High-Speed Roundabouts."
+        ],
+        "related_measures": [
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
+                "link": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf"
+            }
+        ],
+        "pdf": "docs/2023_brewer_Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations.pdf",
+        "objective": "To analyze the effectiveness of modern roundabouts and innovative intersection designs in reducing crashes and improving traffic flow at high-speed rural locations. The research provides recommendations for best practices in intersection design to accommodate high volumes of heavy vehicles and improve roadway safety.",
+        "method": "The study utilized field data collection, microsimulation analysis, and crash data evaluations to compare the safety and operational performance of innovative intersections at high-speed rural locations. The research also included a literature review and analysis of case studies from different states to develop updated design guidelines.",
+        "key_findings": [
+            "Modern roundabouts at high-speed rural locations significantly reduce crash severity and improve traffic efficiency.",
+            "Restricted Crossing U-Turns (RCUTs) and Median U-Turns (MUTs) are effective in reducing conflict points and redistributing turning traffic.",
+            "High-speed roundabouts require special design considerations, including larger inscribed diameters and extended splitter islands, to maintain safety and accommodate heavy vehicles.",
+            "Crash data analysis confirmed that innovative intersections reduce crash frequency by up to 60% compared to conventional at-grade intersections.",
+            "Best practices for high-speed intersection designs include advanced warning signs, speed reduction measures, and improved pedestrian and cyclist accommodations."
+        ],
+        "group": "Roundabouts & Highways",
+        "categories": [
+            "Traffic Flow",
+            "Safety & Performance",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Adaption of Drone Measurement Techniques to Roundabouts and Innovative Intersections",
+        "description": "This research explores the integration of drone technology for measuring traffic operational and safety parameters at roundabouts and innovative intersections. The study evaluates drone-based data collection, machine vision analysis, and the creation of standard operating procedures to enhance the use of drones in transportation studies.",
+        "images": [],
+        "references": [
+            "Gbologah et al. (2022). Drone-Based Traffic Data Collection and Analysis at Roundabouts.",
+            "Rodgers et al. (2021). Evaluating Illumination Effects at Roundabouts Using Drone Imagery.",
+            "NCHRP Report 600 (2010). Application of Remote Sensing Technologies for Traffic Management.",
+            "Federal Aviation Administration (2022). Guidelines for Commercial Drone Operations in Transportation.",
+            "Kim et al. (2020). Using Drones for Active Transportation Planning."
+        ],
+        "related_measures": [
+            {
+                "title": "Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations",
+                "link": "docs/2023_brewer_Research and Findings on Roundabouts and Innovative Intersections for High-Speed and Rural Locations.pdf"
+            },
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
+                "link": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Rodgers_Adaption of Drone Measurement Techniques to Roundabouts and Innovative Intersections.pdf",
+        "objective": "To develop and evaluate the use of drones for transportation data collection at roundabouts and innovative intersections, providing best practices and guidelines for state agencies to implement drone-based measurement techniques in routine traffic monitoring.",
+        "method": "The study involves a regional survey of state transportation agencies, development of standard operating procedures for drone video collection, and a case study on truck turning templates. Machine vision techniques are applied to extract vehicle trajectories and assess traffic conflicts, followed by a comparative analysis of drone-derived data versus traditional field observations.",
+        "key_findings": [
+            "Drones offer a safer and more cost-effective alternative to traditional data collection at intersections and roundabouts.",
+            "Machine vision software can successfully extract vehicle speeds, trajectories, and conflict points from drone video data.",
+            "The study identified key barriers to widespread drone adoption, including lack of standard procedures and training resources.",
+            "A case study on truck turning templates demonstrated the capability of drones to provide high-resolution movement data for geometric validation.",
+            "State transportation agencies showed significant interest in adopting drone technology but require additional guidance for effective implementation."
+        ],
+        "group": "Technology & Traffic Analysis",
+        "categories": [
+            "Drone Technology",
+            "Traffic Flow",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists",
+        "description": "This study evaluates the effectiveness of protected intersections in improving safety for pedestrians and bicyclists. The research was conducted under the Federal Highway Administration’s (FHWA) Evaluation of Low-Cost Safety Improvements Pooled Fund Study (ELCSI-PFS). The study assessed how intersection modifications, such as protected bike lanes, reduced turning speeds, and dedicated pedestrian crossings, impact vehicle-yielding behavior and reduce conflicts between road users.",
+        "images": [],
+        "references": [
+            "Fitzpatrick et al. (2023). Evaluation of Protected Intersections for Pedestrian and Bicycle Safety.",
+            "NCHRP Report 926 (2019). Guidance for Pedestrian and Bicycle Safety at Alternative Intersections and Interchanges.",
+            "Monsere et al. (2012). Safety Performance of Bicycle Infrastructure at Intersections.",
+            "Schepers et al. (2011). Bicycle Crashes at Intersections and the Role of Infrastructure.",
+            "Zegeer et al. (2001). Safety Effects of Marked vs. Unmarked Crosswalks."
+        ],
+        "related_measures": [
+            {
+                "title": "Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings",
+                "link": "docs/2021_appiah_Improving Bicycle Crossings at Unsignalized Intersections through Pavement Markings.pdf"
+            },
+            {
+                "title": "Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings",
+                "link": "docs/2018_ohlms_Facilitating Bicycle Travel Using Innovative Intersection Pavement Markings.pdf"
+            },
+            {
+                "title": "An Innovative Design for Left Turn Bicycles at Continuous Flow Intersections",
+                "link": "docs/2019_zhao_An innovative design for left turn bicycles at continuous flow intersections.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Safety Evaluations of Innovative Intersection Designs for Pedestrians and Bicyclists.pdf",
+        "objective": "To analyze the effectiveness of protected intersections in enhancing pedestrian and bicyclist safety while maintaining vehicle operational efficiency.",
+        "method": "The study collected data at 30 sites, including 6 intersections before and after treatment, 14 intersections with protected intersection designs, and 4 untreated intersections used for comparison. Observations focused on driver yielding behavior, pedestrian and cyclist travel paths, right-turn vehicle speeds, and conflict rates. Statistical analysis was performed to evaluate the changes in behavior before and after intersection modifications.",
+        "key_findings": [
+            "Protected intersections significantly increased motorist yielding rates to both bicyclists and pedestrians.",
+            "Bicyclist crossings at treated sites had a 38% yield rate compared to 34% at untreated intersections.",
+            "Pedestrian crossings at treated sites had a 23% yield rate compared to 16% at untreated intersections.",
+            "Reducing the corner radius at intersections resulted in lower right-turn vehicle speeds, improving safety for vulnerable users.",
+            "The inclusion of truck aprons allowed large vehicles to navigate intersections efficiently while encouraging smaller-radius turns for standard vehicles."
+        ],
+        "group": "Bicycle & Pedestrian Safety",
+        "categories": [
+            "Bike-Friendly Design",
+            "Pedestrian Safety",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Construction Inhibitors of Alternative Intersections and Interchanges",
+        "description": "This study investigates the primary construction inhibitors affecting Alternative Intersections and Interchanges (AII) projects, focusing on cost overruns, project delays, and worker safety. By analyzing claims and supplemental agreement data from North Carolina Department of Transportation (NCDOT) projects, the study identifies the most common inhibitors, including utility conflicts, additional work requirements, weather conditions, and construction sequencing issues.",
+        "images": [],
+        "references": [
+            "Shumaker et al. (2012). Barriers to Implementation of Unconventional Intersection Designs: A Survey of Transportation Professionals.",
+            "FHWA (2007). Growth in Highway Construction and Maintenance Costs.",
+            "Aziz & Abdel-Hakam (2016). Exploring Delay Causes of Road Construction Projects in Egypt.",
+            "Hanna et al. (2002). Quantitative Definition of Projects Impacted by Change Orders.",
+            "Parikh et al. (2019). Development of Prediction Models for Claim Cause Analyses in Highway Projects."
+        ],
+        "related_measures": [
+            {
+                "title": "Public Involvement and Education on Alternative Intersection/Interchange Designs",
+                "link": "docs/2020_rodgers_Public Involvement-Education on Alternative Intersection-Interchange Designs.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            }
+        ],
+        "pdf": "docs/2024_bonilla_Construction Inhibitors of Alternative Intersections and Interchanges.pdf",
+        "objective": "To identify and analyze the primary construction inhibitors affecting the implementation of Alternative Intersections and Interchanges (AII) projects, providing insights into improving constructability and reducing cost and time overruns.",
+        "method": "The study uses quantitative data analysis based on claims and supplemental agreement (SA) data from 46 NCDOT projects, including 42 AII designs and 4 conventional projects. Claims data and SA records were categorized and analyzed to identify recurring issues affecting project performance, with inhibitors classified based on frequency and impact on project cost and timeline.",
+        "key_findings": [
+            "The five most significant inhibitors affecting AII construction projects were utility conflicts, additional work, work delays, worker safety concerns, and weather impacts.",
+            "Diverging Diamond Interchanges (DDIs) and Quadrant Roadway (QR) designs had the highest number of construction-related claims and cost overruns.",
+            "Utility conflicts were the most frequent inhibitor, appearing in 24 cases across all AII projects.",
+            "Project delays due to supplemental agreements (SAs) were common in both AII and conventional designs, though conventional interchanges exhibited the highest total cost variations.",
+            "Findings support the need for better planning, stakeholder coordination, and adaptive construction management strategies for AII projects."
+        ],
+        "group": "Infrastructure & Policy",
+        "categories": [
+            "Construction Issues",
+            "Public Engagement",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Nudging Drivers: The Influence of Innovative Green-Phase Forewarning Systems on Drivers' Start-Up Behavior at Signalized Intersections",
+        "description": "This study investigates the effectiveness of innovative forewarning systems in reducing start-up lost time at signalized intersections. Using a driving simulator, the research evaluates four different forewarning systems to assess their impact on driver reaction times, start-up delays, and potential early start-up behavior.",
+        "images": [],
+        "references": [
+            "Islam et al. (2016). Improved driver responses at intersections with red signal countdown timers.",
+            "Chiou & Chang (2010). Driver responses to green and red vehicular signal countdown displays.",
+            "Limanond et al. (2010). Exploring impacts of countdown timers on traffic operations and driver behavior.",
+            "Biswas et al. (2017). Influence of signal countdown timer on efficiency and safety at signalized intersections.",
+            "Sheykhfard et al. (2024). Exploring the influence of signal countdown timers on driver behavior."
+        ],
+        "related_measures": [
+            {
+                "title": "Simulator Assessment of Innovative Intersection Designs on Driver Speeds and Trajectories",
+                "link": "docs/2022_kekez_Simulator assessment of innovative intersection designs on driver speeds and trajectories.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "Public Involvement and Education on Alternative Intersection/Interchange Designs",
+                "link": "docs/2020_rodgers_Public Involvement-Education on Alternative Intersection-Interchange Designs.pdf"
+            }
+        ],
+        "pdf": "docs/2025_hussain_Nudging drivers- The influence of innovative green-phase forewarning systems on drivers start-up behavior at signalized intersections.pdf",
+        "objective": "To evaluate the impact of different forewarning systems on reducing start-up lost time and improving traffic flow efficiency at signalized intersections.",
+        "method": "A driving simulator experiment was conducted with 61 participants using four forewarning systems: Yellow-Red Forewarning, Flashing Red Forewarning, VMS Clock-2s, and VMS Clock-5s. Reaction times, start-up lost times, and early start-up behaviors were analyzed using linear mixed models.",
+        "key_findings": [
+            "The VMS Clock-2s forewarning system significantly reduced start-up lost time by 21.2%, making it the most effective intervention.",
+            "The R_yellow system, where the yellow signal was displayed alongside red in the last two seconds, reduced reaction times by 62.4%.",
+            "None of the tested forewarning systems resulted in red light running violations or unsafe early start-up behaviors.",
+            "Longer waiting times (60s) led to lower reaction times compared to shorter waiting times (20s), indicating increased driver preparedness.",
+            "Males exhibited significantly lower reaction times than females, aligning with previous research on driving behavior differences."
+        ],
+        "group": "Driver Behavior & Simulation",
+        "categories": [
+            "Traffic Signals",
+            "Speed & Trajectories",
+            "Intersection Safety & Performance"
+        ]
+    },
+    {
+        "title": "Highway Capacity Manual Chapter on Alternative Intersections and Interchanges",
+        "description": "This chapter from the Highway Capacity Manual (HCM) provides guidance on alternative intersection and interchange designs, including Diverging Diamond Interchanges (DDI), Displaced Left-Turn (DLT) Intersections, Restricted Crossing U-Turn (RCUT) Intersections, and Median U-Turn (MUT) Intersections. The chapter introduces new analysis methods and compares the performance of alternative and conventional designs.",
+        "images": [],
+        "references": [
+            "Transportation Research Board (2010). Highway Capacity Manual (HCM10).",
+            "Hughes et al. (2009). Alternative Intersections/Interchanges: Informational Report (AIIR).",
+            "FHWA (2016). Saxton Transportation Operations Laboratory Research Program.",
+            "Hummer & Schroeder (2016). Performance of Alternative Intersection and Interchange Designs.",
+            "Federal Highway Administration (2014). Diverging Diamond Interchange Informational Guide."
+        ],
+        "related_measures": [
+            {
+                "title": "Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges",
+                "link": "docs/2019_zlatkovic_Development of Performance Matrices for Evaluating Innovative Intersections and Interchanges.pdf"
+            },
+            {
+                "title": "Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors",
+                "link": "docs/2020_aty-Evaluation of Innovative Alternative Intersection Designs in the Development of Safety Performance Functions and Crash Modification Factors.pdf"
+            },
+            {
+                "title": "A Comparative Analysis of Innovative Interchanges: Single Point Interchange & Displaced Left Turn",
+                "link": "docs/2022_jwel_a-comparative-analysis-of-innovative-interchanges-single-point-interchange-displaced-left-turn.pdf"
+            }
+        ],
+        "pdf": "docs/2016_hale_Highway Capacity Manual Chapter on Alternative Intersections and Interchanges.pdf",
+        "objective": "To provide operational analysis methods and qualitative guidance for alternative intersection and interchange designs, facilitating wider adoption of these innovative facilities.",
+        "method": "The chapter provides an overview of alternative intersection concepts, their operational benefits, and computational procedures for analyzing their performance. It includes a comparative framework for evaluating Level of Service (LOS), travel times, and conflict points at various intersection configurations. The study also examines real-world implementations to validate the effectiveness of alternative designs.",
+        "key_findings": [
+            "Alternative intersection designs such as DDI, DLT, RCUT, and MUT significantly reduce congestion and improve mobility compared to conventional intersections.",
+            "The elimination of left-turn phases in designs like RCUT and MUT improves safety and reduces conflict points.",
+            "DDI interchanges offer outstanding benefit-cost ratios due to improved operational efficiency and reduced construction costs.",
+            "New computational models introduced in HCM Chapter 23 provide a standardized approach for analyzing alternative intersections.",
+            "State DOTs can leverage the methodologies in this chapter to make data-driven decisions when selecting intersection and interchange treatments."
+        ],
+        "group": "Intersection & Interchange Design",
+        "categories": [
+            "Traffic Flow",
+            "Safety & Performance",
+            "Roundabouts & Highways"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "Intersection & Interchange Design": [
+            "Safety & Performance",
+            "Traffic Flow",
+            "Roundabouts & Highways"
+        ]
+    },
+    {
+        "Bicycle & Pedestrian Safety": [
+            "Bike-Friendly Design",
+            "Pedestrian Safety"
+        ]
+    },
+    {
+        "Driver Behavior & Simulation": [
+            "Speed & Trajectories",
+            "Traffic Signals"
+        ]
+    },
+    {
+        "Infrastructure & Policy": [
+            "Construction Issues",
+            "Public Engagement"
+        ]
+    }
+]
