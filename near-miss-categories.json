@@ -1,0 +1,41 @@
+[
+    {
+        "Near-Crash & Safety": [
+            "Crash Analysis",
+            "Near-Miss Detection",
+            "Pedestrian Safety",
+            "Responder Safety"
+        ]
+    },
+    {
+        "Telematics & Behavior": [
+            "Driver Monitoring",
+            "Fleet Safety",
+            "Fatigue & Risk",
+            "Braking Behavior"
+        ]
+    },
+    {
+        "AI & Risk Prediction": [
+            "Near-Crash AI",
+            "CO2 Prediction",
+            "Driver Risk AI",
+            "AV Near-Miss"
+        ]
+    },
+    {
+        "Mobility & Mapping": [
+            "Spatial Safety",
+            "Urban Mobility",
+            "Crash Surrogates"
+        ]
+    },
+    {
+        "Transport Policy": [
+            "Public Transport",
+            "Fleet Telematics",
+            "Last-Mile Safety",
+            "Telematics Review"
+        ]
+    }
+]

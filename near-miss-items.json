@@ -1,0 +1,1520 @@
+[
+    {
+        "title": "Mining Patterns of Near-Crash Events with and Without Secondary Tasks",
+        "description": "This study analyzes near-crash events in a naturalistic driving dataset, exploring how secondary tasks (e.g., phone use, eating, reaching for objects) influence driving behavior and near-crash risks. It employs association rule mining to identify patterns in driver responses, evasive maneuvers, and crash likelihood under different conditions.",
+        "notable_practices": [
+            "Applied Apriori association rule mining to near-crash events.",
+            "Analyzed the Virginia Connected Corridor naturalistic driving dataset.",
+            "Identified key environmental and behavioral factors influencing near-crash risks.",
+            "Differentiated between near-crash patterns with and without secondary tasks.",
+            "Examined evasive maneuvers used in response to potential collisions.",
+            "Proposed risk mitigation strategies based on observed behavioral trends."
+        ],
+        "advantages": [
+            "Provides insights into how secondary tasks impact near-crash risk.",
+            "Helps identify high-risk driving behaviors and potential interventions.",
+            "Supports real-time driver monitoring systems for crash prevention.",
+            "Improves understanding of evasive maneuvers in near-crash situations.",
+            "Uses naturalistic driving data, making findings highly applicable to real-world driving."
+        ],
+        "drawbacks": [
+            "Limited dataset (235 near-crash events), which may not generalize to all road conditions.",
+            "Grouped secondary tasks, reducing granularity in understanding specific distractions.",
+            "Data anonymization limits demographic analysis of driver behavior."
+        ],
+        "images": [],
+        "references": [
+            "Guo et al. (2010). Naturalistic driving studies and their applications.",
+            "Dingus et al. (2016). Impact of driver distractions on crash risks.",
+            "Wu et al. (2014). Secondary task engagement and vehicle control in near-crashes.",
+            "NHTSA (2019). Distracted driving reports and statistical analysis.",
+            "Kim et al. (2020). Association rule mining applications in traffic safety research."
+        ],
+        "related_measures": [
+            {
+                "title": "In-Depth Understanding of Near-Crash Events Through Pattern Recognition",
+                "link": "docs/2022_kong_in-depth-understanding-of-near-crash-events-through-pattern-recognition.pdf"
+            },
+            {
+                "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+                "link": "docs/2023_kondyli_Evaluation_of_Near-Miss_Crashes_Using_a_Video-Based_Tool.pdf"
+            },
+            {
+                "title": "Lightweight Edge Intelligence Empowered Near-Crash Detection Towards Real-Time Vehicle Event Logging",
+                "link": "docs/2023_ke_Lightweight_Edge_Intelligence_Empowered_Near-Crash_Detection.pdf"
+            }
+        ],
+        "pdf": "docs/2021_kong_Mining patterns of near-crash events with and without secondary tasks.pdf",
+        "objective": "This study aims to examine patterns in near-crash events with and without secondary tasks, using association rule mining to identify key risk factors and develop safety recommendations.",
+        "method": "The study applies Apriori association rule mining to 235 near-crash events from a naturalistic driving dataset. Key variables include driver behavior, reaction time, vehicle maneuvers, and environmental conditions.",
+        "key_findings": [
+            "Near-crashes with secondary tasks occur mostly in stable environments like highways.",
+            "Rear-end near-crashes are more common among distracted drivers due to delayed reactions.",
+            "Drivers engaged in secondary tasks rely more on braking-only maneuvers.",
+            "Near-crashes without secondary tasks involve quicker reactions and a mix of braking and steering maneuvers.",
+            "Distracted driving increases near-crash risk, highlighting the need for stricter monitoring and enforcement."
+        ],
+        "group": "Near-Crash & Safety",
+        "categories": [
+            "Crash Analysis",
+            "Near-Miss Detection",
+            "Driver Monitoring"
+        ]
+    },
+    {
+        "title": "Finding Manoeuvre Motifs in Vehicle Telematics",
+        "description": "This study investigates a new approach for detecting vehicle maneuvers using motif discovery in time-series telematics data. The research implements a modified version of the Extended Motif Discovery (EMD) algorithm to identify key driving patterns in the UAH-DriveSet, a publicly available naturalistic driving dataset.",
+        "notable_practices": [
+            "Implemented the Extended Motif Discovery (EMD) algorithm to detect driving maneuvers.",
+            "Applied motif detection techniques to time-series vehicle telematics data.",
+            "Analyzed the UAH-DriveSet dataset for real-world driving behavior insights.",
+            "Used clustering techniques (DBSCAN) to group similar driving maneuvers.",
+            "Explored acceleration, braking, and lane change patterns using sensor data.",
+            "Compared the effectiveness of motif detection against traditional threshold-based methods."
+        ],
+        "advantages": [
+            "Able to detect both simple (acceleration, braking) and complex (lane changes, overtaking) maneuvers.",
+            "Does not require labeled training data, making it suitable for unsupervised learning applications.",
+            "Can be applied to large-scale fleet telematics for automated driving behavior assessment.",
+            "Provides a structured approach to studying vehicle motion in real-world conditions."
+        ],
+        "drawbacks": [
+            "Computationally intensive when applied to large-scale real-time systems.",
+            "Requires high-frequency sensor data for effective detection.",
+            "May not generalize well to different vehicle models or sensor placements.",
+            "Complex maneuvers such as near-crashes require additional contextual data for accurate detection."
+        ],
+        "images": [],
+        "references": [
+            "Dingus et al. (2016) - Analysis of driver-related accident causes.",
+            "Dozza (2013) - Impact of distractions on driver response times.",
+            "Carsten et al. (2013) - Applications of vehicle telematics in safety monitoring.",
+            "Tselentis et al. (2017) - Use of telematics for insurance risk assessment.",
+            "Lin et al. (2002) - Time-series motif discovery and its applications."
+        ],
+        "related_measures": [
+            {
+                "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+                "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+            },
+            {
+                "title": "Telematics Data for Geospatial and Temporal Mapping of Urban Mobility",
+                "link": "docs/2024_Ghaffarpasand_Telematics_Geospatial_Mapping.pdf"
+            },
+            {
+                "title": "Spatial Analysis of Telematics-Based Surrogate Safety Measures",
+                "link": "docs/2025_Nikolaou_Spatial_Telematics_Safety.pdf"
+            }
+        ],
+        "pdf": "docs/2020_silva_Finding Manoeuvre Motifs in Vehicle Telematics.pdf",
+        "objective": "To develop a robust time-series motif detection framework for identifying vehicle maneuvers using telematics data, improving driving behavior analysis and road safety assessments.",
+        "method": "Applied the Extended Motif Discovery (EMD) algorithm to vehicle sensor data from the UAH-DriveSet dataset. Used motif clustering (DBSCAN) to identify recurring maneuver patterns, including acceleration, braking, lane changes, and overtaking.",
+        "key_findings": [
+            "The EMD algorithm successfully detected both simple (braking, acceleration) and complex (lane changes, overtaking) maneuvers.",
+            "Motif detection provided a structured, data-driven approach to vehicle telematics analysis.",
+            "The study validated motif discovery as a viable method for future driving behavior research.",
+            "Clustered motifs highlighted key patterns in driving styles, such as tailgating and distracted driving tendencies."
+        ],
+        "group": "Telematics & Behavior",
+        "categories": [
+            "Driver Monitoring",
+            "Urban Mobility"
+        ]
+    },
+    {
+        "title": "Patterns of Near-Crash Events in a Naturalistic Driving Dataset",
+        "description": "This study investigates the associations between near-crash events, roadway geometry, and trip characteristics using a naturalistic driving dataset and roadway inventory data. The Apriori algorithm is applied to discover association rules, classifying near-crash events into trivial and non-trivial categories based on deceleration thresholds.",
+        "notable_practices": [
+            "Applied the Apriori association rule mining algorithm to analyze near-crash events.",
+            "Classified near-crash events into trivial and non-trivial categories based on deceleration rates.",
+            "Integrated data from the Safety Pilot Model Deployment (SPMD) dataset and Highway Performance Monitoring System (HPMS).",
+            "Utilized spatial data conflation techniques to join near-crash event data with roadway attributes.",
+            "Identified key roadway features (e.g., access control, speed limits, lane width) influencing near-crash events.",
+            "Compared the impact of trip duration on trivial vs. non-trivial near-crash events."
+        ],
+        "advantages": [
+            "Provides a data-driven understanding of near-crash risk factors.",
+            "Utilizes naturalistic driving data for real-world safety assessment.",
+            "Supports proactive safety measures by identifying roadway features linked to near-crash events.",
+            "Employs an association rule mining approach to uncover hidden patterns in crash data."
+        ],
+        "drawbacks": [
+            "Limited dataset (92 vehicles, 957 near-crash events) may not generalize to all driving conditions.",
+            "Spatial data conflation errors may introduce minor inaccuracies.",
+            "Focuses on roadway features but does not account for driver-specific factors such as age or experience."
+        ],
+        "images": [],
+        "references": [
+            "Dingus et al. (2016) - Naturalistic driving study methodologies.",
+            "Hankey et al. (2016) - Use of surrogate safety measures in traffic safety.",
+            "Minderhoud & Bovy (2001) - Extended time-to-collision as a crash risk indicator.",
+            "AASHTO Highway Safety Manual (2010) - Roadway design safety assessment."
+        ],
+        "related_measures": [
+            {
+                "title": "In-Depth Understanding of Near-Crash Events Through Pattern Recognition",
+                "link": "docs/2022_Kong_In-Depth_Understanding_of_Near-Crash_Events.pdf"
+            },
+            {
+                "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+                "link": "docs/2023_Kondyli_Evaluation_of_Near-Miss_Crashes.pdf"
+            },
+            {
+                "title": "Mining Patterns of Near-Crash Events with and Without Secondary Tasks",
+                "link": "docs/2021_Kong_Mining_Patterns_of_Near-Crash_Events.pdf"
+            }
+        ],
+        "pdf": "docs/2021_Kong_Patterns_of_Near-Crash_Events.pdf",
+        "objective": "To examine how roadway geometry and trip characteristics influence near-crash events, using association rule mining to identify key risk factors and trends.",
+        "method": "Applied the Apriori algorithm to near-crash event data, classifying incidents based on deceleration thresholds and analyzing their correlation with roadway attributes and trip features.",
+        "key_findings": [
+            "Trivial near-crash events are more common on minor arterial roads without a median or shoulder.",
+            "Non-trivial near-crash events are associated with long trips (over 2 hours) and occur on roadways with wide medians and shoulders.",
+            "Near-crash events frequently occur on roads without access control and with speed limits between 30-60 mph.",
+            "High-traffic-volume minor arterial roads also show increased rates of non-trivial near-crash events."
+        ],
+        "group": "Near-Crash & Safety",
+        "categories": [
+            "Crash Analysis",
+            "Near-Miss Detection",
+            "Driver Monitoring"
+        ]
+    },
+    {
+        "title": "Strategy Management of Telematics Systems in the Transport Sector with Regard to Safety",
+        "description": "This study explores the role of telematics systems in improving road transport safety by reducing crisis occurrences and enhancing traffic management. It highlights how telematics technologies contribute to accident prevention, emergency response, and intelligent traffic flow control.",
+        "notable_practices": [
+            "Implemented telematics systems to manage crisis events in road transport.",
+            "Examined the role of real-time traffic information in preventing accidents.",
+            "Analyzed European road transport data to assess the effectiveness of telematics tools.",
+            "Identified key factors influencing telematics adoption and implementation in the transport sector.",
+            "Proposed strategic recommendations for improving telematics-driven safety interventions."
+        ],
+        "advantages": [
+            "Enhances traffic safety by reducing crisis occurrences.",
+            "Improves response time to accidents through real-time monitoring.",
+            "Supports intelligent traffic flow management, reducing congestion.",
+            "Encourages efficient data-driven decision-making for transport authorities."
+        ],
+        "drawbacks": [
+            "High implementation and maintenance costs.",
+            "Limited adoption due to regulatory and policy constraints.",
+            "Potential privacy concerns related to vehicle and driver tracking."
+        ],
+        "images": [],
+        "references": [
+            "Majerčák (2014) - Intelligent transport systems in Slovakia.",
+            "Ristvej et al. (2017) - Implementation of information systems for crisis management.",
+            "Ministry of the Interior of the Slovak Republic - Traffic accident statistics.",
+            "Dado & Pirník (2014) - Road telematics and safety in the European Union."
+        ],
+        "related_measures": [
+            {
+                "title": "Telematics Data for Geospatial and Temporal Mapping of Urban Mobility",
+                "link": "docs/2024_Ghaffarpasand_Telematics_Geospatial_Mapping.pdf"
+            },
+            {
+                "title": "Managing the Road Safety Risks of Last Mile Deliveries with Telematics",
+                "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+            },
+            {
+                "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+                "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+            }
+        ],
+        "pdf": "docs/2021_Kubas_Strategy_Management_of_Telematics_Systems.pdf",
+        "objective": "To evaluate the effectiveness of telematics systems in transport safety management, examining their role in crisis prevention, real-time monitoring, and intelligent traffic control.",
+        "method": "The study analyzes European transport policies and accident statistics, combining telematics system evaluations with case studies of their implementation in Slovakia and neighboring countries.",
+        "key_findings": [
+            "Telematics systems significantly reduce traffic accidents through real-time monitoring and predictive analytics.",
+            "The integration of telematics into emergency response systems enhances crisis management and road safety.",
+            "Adoption barriers include high costs, privacy concerns, and inconsistent regulatory frameworks.",
+            "Countries with robust telematics policies experience greater improvements in transport safety and efficiency."
+        ],
+        "group": "Telematics & Safety",
+        "categories": [
+            "Transport Safety",
+            "Fleet Telematics",
+            "Crisis Management"
+        ]
+    },
+
+    {
+        "title": "In-Depth Understanding of Near-Crash Events Through Pattern Recognition",
+        "description": "This study analyzes near-crash events using naturalistic driving data and applies Cluster Correspondence Analysis (Cluster CA) to identify dominant near-crash patterns. The study categorizes near-crashes into four types: incidents with adjacent vehicles, following/leading vehicles, turning vehicles, and objects on the roadway. It highlights the influence of secondary tasks, reaction times, and evasive maneuvers on near-crash risks.",
+        "notable_practices": [
+            "Applied Cluster Correspondence Analysis (Cluster CA) for near-crash pattern recognition.",
+            "Utilized naturalistic driving data from the Virginia Connected Corridor 50 Elite Vehicle Study.",
+            "Identified key near-crash factors, including vehicle maneuvers, driver distractions, and road conditions.",
+            "Examined the role of evasive actions, such as braking and steering, in near-crash scenarios.",
+            "Analyzed driver behavior variations with and without secondary task engagement.",
+            "Developed six clusters representing different near-crash incident types."
+        ],
+        "advantages": [
+            "Enhances understanding of near-crash events as precursors to actual crashes.",
+            "Provides actionable insights for improving vehicle safety and driver assistance systems.",
+            "Uses naturalistic driving data, making the findings applicable to real-world traffic safety measures.",
+            "Applies advanced pattern recognition techniques to uncover hidden associations in crash data."
+        ],
+        "drawbacks": [
+            "Limited dataset (235 near-crash events) may not generalize across different driving environments.",
+            "Clustering approach depends on parameter selection, which may influence results.",
+            "Naturalistic driving data may lack certain critical pre-crash indicators."
+        ],
+        "images": [],
+        "references": [
+            "Guo et al. (2010) - Evaluating near-crashes as a surrogate for crash risk.",
+            "Kim et al. (2020) - Virginia Connected Corridor 50 Elite Vehicle Naturalistic Driving Study.",
+            "Dingus et al. (2016) - Impact of driver distractions on near-crash and crash risks.",
+            "Wu et al. (2014) - Exploring safety-critical events through naturalistic driving studies."
+        ],
+        "related_measures": [
+            {
+                "title": "Mining Patterns of Near-Crash Events with and Without Secondary Tasks",
+                "link": "docs/2021_Kong_Mining_Patterns_of_Near-Crash_Events.pdf"
+            },
+            {
+                "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+                "link": "docs/2023_Kondyli_Evaluation_of_Near-Miss_Crashes.pdf"
+            },
+            {
+                "title": "Lightweight Edge Intelligence Empowered Near-Crash Detection Towards Real-Time Vehicle Event Logging",
+                "link": "docs/2023_Ke_Lightweight_Edge_Intelligence_Empowered_Near-Crash_Detection.pdf"
+            }
+        ],
+        "pdf": "docs/2022_Kong_in-depth-understanding-of-near-crash-events-through-pattern-recognition.pdf",
+        "objective": "To explore near-crash patterns and associated risk factors using Cluster Correspondence Analysis, providing a deeper understanding of pre-crash scenarios and driver responses.",
+        "method": "The study employs Cluster CA to categorize near-crash incidents using naturalistic driving data. It examines driver behavior, road conditions, evasive maneuvers, and environmental factors to classify crash risk scenarios.",
+        "key_findings": [
+            "Near-crash incidents with adjacent vehicles often involve lane-change conflicts and are more frequent when drivers are not engaged in secondary tasks.",
+            "Rear-end near-crashes with following or leading vehicles are strongly associated with sudden stops and distracted driving.",
+            "Turning-related near-crashes commonly occur in business and residential areas, often due to misjudged gap acceptance.",
+            "Near-crash incidents involving objects on the roadway are rare but mostly occur in residential settings, with braking being the primary evasive action.",
+            "Drivers engaged in secondary tasks exhibit longer reaction times and are more likely to be involved in severe near-crash incidents."
+        ],
+        "group": "Near-Crash & Safety",
+        "categories": [
+            "Crash Analysis",
+            "Near-Miss Detection",
+            "Driver Monitoring"
+        ]
+    },
+
+    {
+        "title": "Crash/Near‐Crash Analysis of Naturalistic Driving Data Using Association Rule Mining",
+        "description": "This study applies association rule mining (ARM) to identify factors contributing to crash and near-crash (C/NC) events using the Naturalistic Engagement in Secondary Tasks (NEST) dataset. It examines the influence of roadway conditions, driver behavior, and environmental factors on crash severity and frequency, employing a three-step analysis to extract patterns and correlations.",
+        "notable_practices": [
+            "Utilized the NEST dataset, which contains 50 million miles of naturalistic driving data from SHRP2.",
+            "Applied association rule mining (ARM) to uncover relationships between crash risk factors.",
+            "Filtered association rules using support, confidence, lift, and conviction metrics.",
+            "Categorized crashes into four severity levels, from minor to most severe.",
+            "Analyzed the impact of secondary tasks, road alignment, and traffic density on near-crash risk."
+        ],
+        "advantages": [
+            "Reveals hidden correlations between driver behavior and crash risk.",
+            "Leverages a large-scale dataset for robust statistical analysis.",
+            "Supports data-driven interventions for improving road safety.",
+            "Provides insights into crash patterns based on real-world driving conditions."
+        ],
+        "drawbacks": [
+            "Association rule mining does not establish causal relationships.",
+            "Limited to categorical variables, reducing granularity of analysis.",
+            "Computationally intensive when processing large datasets."
+        ],
+        "images": [],
+        "references": [
+            "Guo et al. (2010) - Evaluating near-crashes as a surrogate for crash risk.",
+            "Dingus et al. (2016) - Impact of driver distractions on near-crash and crash risks.",
+            "SHRP2 Naturalistic Driving Study Dataset.",
+            "National Highway Traffic Safety Administration (NHTSA) Traffic Crash Reports (2020)."
+        ],
+        "related_measures": [
+            {
+                "title": "Mining Patterns of Near-Crash Events with and Without Secondary Tasks",
+                "link": "docs/2021_Kong_Mining_Patterns_of_Near-Crash_Events.pdf"
+            },
+            {
+                "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+                "link": "docs/2023_Kondyli_Evaluation_of_Near-Miss_Crashes.pdf"
+            },
+            {
+                "title": "Lightweight Edge Intelligence Empowered Near-Crash Detection Towards Real-Time Vehicle Event Logging",
+                "link": "docs/2023_Ke_Lightweight_Edge_Intelligence_Empowered_Near-Crash_Detection.pdf"
+            }
+        ],
+        "pdf": "docs/2022_Qu_Crash_Near-Crash_Analysis_of_Naturalistic_Driving_Data_Using_Association.pdf",
+        "objective": "To uncover key contributing factors to crash and near-crash events using association rule mining techniques, identifying relationships between road conditions, driver behavior, and crash risk.",
+        "method": "The study uses the FP-Growth algorithm for pattern discovery in the NEST dataset. It categorizes crashes into four severity levels and applies association rule mining with filtering metrics (support, confidence, lift, conviction) to extract significant patterns.",
+        "key_findings": [
+            "Crash and near-crash events occur most frequently on straight and level roads with no traffic control devices.",
+            "Secondary tasks are a major contributing factor, particularly in severe crashes.",
+            "Near-crash events are more frequent in high-traffic-density environments.",
+            "A median strip or barrier significantly reduces the likelihood and severity of crash events.",
+            "Younger drivers and those with crash histories are at higher risk of involvement in severe crashes."
+        ],
+        "group": "Near-Crash & Safety",
+        "categories": [
+            "Crash Analysis",
+            "Near-Miss Detection",
+            "Driver Monitoring"
+        ]
+    },
+    {
+        "title": "Near-Miss Incidents Owing to Fatigue and Irregular Lifestyles in Ambulance Personnel",
+        "description": "This study examines the relationship between fatigue, irregular lifestyles, and near-miss incidents among ambulance personnel. Using a cross-sectional survey and ambulance dispatch records, the study identifies key risk factors contributing to fatigue-related near-miss incidents in emergency medical services (EMS).",
+        "notable_practices": [
+            "Utilized a self-administered questionnaire and ambulance dispatch records for data collection.",
+            "Applied multiple logistic regression analysis to assess associations between fatigue and near-miss incidents.",
+            "Categorized ambulance personnel based on fatigue levels and analyzed contributing factors.",
+            "Identified irregular mealtimes, napping patterns, and workload as significant predictors of fatigue.",
+            "Highlighted the underreporting of near-miss incidents in EMS."
+        ],
+        "advantages": [
+            "Provides empirical evidence linking fatigue to near-miss incidents in EMS.",
+            "Offers insights into the impact of irregular lifestyles on occupational safety.",
+            "Supports policy recommendations for improved work schedules and fatigue management.",
+            "Demonstrates statistical significance in the association between workload and fatigue."
+        ],
+        "drawbacks": [
+            "Cross-sectional study design limits causal inference.",
+            "Relies on self-reported data, which may introduce recall bias.",
+            "Excludes female participants due to small sample size, limiting generalizability."
+        ],
+        "images": [],
+        "references": [
+            "Maguire et al. (2005) - Occupational injuries in EMS personnel.",
+            "Hegg-Deloye et al. (2014) - Stress and health risks in paramedics.",
+            "West et al. (2012) - Fatigue and occupational safety among emergency personnel.",
+            "Cushman et al. (2010) - Perceptions of near-miss incidents in ambulance services.",
+            "Lowden et al. (2010) - Effects of shift work on fatigue and health."
+        ],
+        "related_measures": [
+            {
+                "title": "Managing the Road Safety Risks of Last-Mile Deliveries with Telematics",
+                "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+            },
+            {
+                "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+                "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+            },
+            {
+                "title": "Telematics Data for Geospatial and Temporal Mapping of Urban Mobility",
+                "link": "docs/2024_Ghaffarpasand_Telematics_Geospatial_Mapping.pdf"
+            }
+        ],
+        "pdf": "docs/2022_Toyokuni_Near-Miss_Incidents_Fatigue_Ambulance_Personnel.pdf",
+        "objective": "To investigate the association between fatigue and near-miss incidents among ambulance personnel and explore the role of irregular lifestyles in contributing to fatigue.",
+        "method": "A cross-sectional study involving 254 ambulance personnel, using survey data and dispatch records. Multiple logistic regression was employed to analyze associations between fatigue, workload, and near-miss incidents.",
+        "key_findings": [
+            "Ambulance personnel with high fatigue levels had 3.19 times higher odds of experiencing near-miss incidents compared to those with normal fatigue levels.",
+            "Irregular mealtimes, long office hours, and frequent dispatches significantly contributed to fatigue.",
+            "Fatigue-related near-miss incidents were underreported in EMS.",
+            "Proper sleep during night shifts reduced fatigue, whereas excessive daytime napping increased fatigue.",
+            "Workload management and lifestyle adjustments are necessary to mitigate fatigue-related safety risks."
+        ],
+        "group": "Telematics & Behavior",
+        "categories": [
+            "Driver Monitoring",
+            "Fatigue & Risk",
+            "Fleet Safety"
+        ]
+    },
+    {
+        "title": "Lightweight Edge Intelligence Empowered Near-Crash Detection Towards Real-Time Vehicle Event Logging",
+        "description": "This study presents a lightweight edge intelligence framework for near-crash detection and event logging in autonomous vehicles. The system leverages vehicular edge computing to process event data in real time, reducing computational and storage costs while ensuring high detection accuracy for vehicle-vehicle and vehicle-pedestrian near-crash events.",
+        "notable_practices": [
+            "Developed a lightweight near-crash detection algorithm using bounding box modeling.",
+            "Implemented a real-time event-based data logging mechanism for autonomous vehicles.",
+            "Integrated multi-source information using the Controller Area Network (CAN) trigger system.",
+            "Tested the framework on four transit vehicles in open-road environments.",
+            "Demonstrated the feasibility of deploying AI-based near-crash detection on edge computing devices."
+        ],
+        "advantages": [
+            "Enables real-time onboard processing of near-crash events.",
+            "Reduces redundant data storage and transmission costs.",
+            "Enhances vehicle safety through intelligent event detection.",
+            "Supports scalable deployment across different vehicle platforms.",
+            "Operates efficiently on resource-constrained edge computing devices."
+        ],
+        "drawbacks": [
+            "Limited by the accuracy of object detection algorithms in challenging environments.",
+            "Potential latency issues in real-world deployment scenarios.",
+            "Requires integration with existing onboard vehicle sensors and communication networks."
+        ],
+        "images": [
+            "fig1-system-architecture.png",
+            "fig2-near-crash-detection-methodology.png"
+        ],
+        "references": [
+            "Dingus et al. (2016) - Naturalistic driving study methodologies.",
+            "Hu et al. (2023) - Driver anomaly quantification in intelligent vehicles.",
+            "Taccari et al. (2018) - Classification of crash and near-crash events using telematics data.",
+            "Rahman et al. (2020) - Real-time wrong-way vehicle detection based on YOLO and centroid tracking."
+        ],
+        "related_measures": [
+            {
+                "title": "In-Depth Understanding of Near-Crash Events Through Pattern Recognition",
+                "link": "docs/2022_Kong_In-Depth_Understanding_of_Near-Crash_Events.pdf"
+            },
+            {
+                "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+                "link": "docs/2023_Kondyli_Evaluation_of_Near-Miss_Crashes.pdf"
+            },
+            {
+                "title": "Crash/Near-Crash Analysis of Naturalistic Driving Data Using Association",
+                "link": "docs/2022_Qu_Crash_Near-Crash_Analysis.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Ke_Lightweight_Edge_Intelligence_Empowered_Near-Crash_Detection.pdf",
+        "objective": "To develop and test a lightweight, edge-intelligence-powered near-crash detection system for real-time vehicle event logging, improving the efficiency and scalability of onboard autonomous safety technologies.",
+        "method": "The study employs a parallel edge computing architecture to detect and log near-crash events using bounding box modeling. It integrates a multi-threaded processing framework, leveraging real-time video streaming and CAN-based event triggering for enhanced data collection.",
+        "key_findings": [
+            "The lightweight near-crash detection system achieves high accuracy while operating efficiently on edge computing devices.",
+            "Bounding box modeling provides a reliable method for real-time near-crash event detection.",
+            "Multi-source data integration using the CAN system improves the robustness of event logging.",
+            "Extensive real-world testing on transit buses demonstrates the feasibility of deploying the system in urban traffic environments."
+        ],
+        "group": "AI & Risk Prediction",
+        "categories": [
+            "Near-Miss Detection",
+            "Edge Computing",
+            "Autonomous Vehicles"
+        ]
+    },
+    {
+        "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+        "description": "This study evaluates the accuracy of a video-based tool developed by Transoft Solutions for predicting near-miss crashes at signalized intersections. Two intersections in Overland Park, Kansas, were analyzed using traffic video data collected over two weeks. The study validates the tool’s predictions using manual trajectory analysis and statistical comparisons of post-encroachment time (PET) and time-to-collision (TTC) data under different weather and traffic conditions.",
+        "notable_practices": [
+            "Collected video data from two signalized intersections over two weeks.",
+            "Utilized Transoft Solutions' vision-based tool for near-miss crash analysis.",
+            "Manually validated PET and TTC values using frame-by-frame analysis.",
+            "Classified conflicts into critical (0-2 sec), minor (2-3 sec), and potential (3-5 sec) categories.",
+            "Performed statistical comparisons (MAD, RMSE, MAPE, RMSLE) to evaluate prediction accuracy.",
+            "Assessed the impact of weather conditions on prediction accuracy.",
+            "Compared predicted and observed PET and TTC values across different traffic conditions."
+        ],
+        "advantages": [
+            "Provides a systematic evaluation of an emerging vision-based near-miss detection tool.",
+            "Offers insights into the reliability of PET and TTC as surrogate safety measures.",
+            "Demonstrates statistical approaches to validate near-miss detection accuracy.",
+            "Supports transportation agencies in decision-making regarding near-miss detection technology."
+        ],
+        "drawbacks": [
+            "Limited dataset (two intersections) may not generalize to other locations.",
+            "Prediction accuracy varies with weather conditions, affecting tool reliability.",
+            "Manual validation is time-consuming and may introduce human errors."
+        ],
+        "images": [
+            "fig1-pet-validation-methodology.png",
+            "fig2-ttc-measurement-technique.png"
+        ],
+        "references": [
+            "Samara et al. (2020) - Evaluation of Transoft Solutions’ video-based safety tool.",
+            "Guo et al. (2010) - Use of near-crashes as surrogate safety measures.",
+            "Dingus et al. (2016) - Driver distractions and near-crash risks.",
+            "FHWA Surrogate Safety Measures Report (2015)."
+        ],
+        "related_measures": [
+            {
+                "title": "Crash/Near-Crash Analysis of Naturalistic Driving Data Using Association",
+                "link": "docs/2022_Qu_Crash_Near-Crash_Analysis.pdf"
+            },
+            {
+                "title": "Lightweight Edge Intelligence Empowered Near-Crash Detection Towards Real-Time Vehicle Event Logging",
+                "link": "docs/2023_Ke_Lightweight_Edge_Intelligence_Empowered_Near-Crash_Detection.pdf"
+            },
+            {
+                "title": "In-Depth Understanding of Near-Crash Events Through Pattern Recognition",
+                "link": "docs/2022_Kong_In-Depth_Understanding_of_Near-Crash_Events.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Kondyli_Evaluation_of_Near-Miss_Crashes_Using_Video-Based_Tool.pdf",
+        "objective": "To assess the prediction accuracy of Transoft Solutions’ video-based tool for near-miss detection and evaluate its reliability under different environmental and traffic conditions.",
+        "method": "Video data from two signalized intersections were processed using Transoft Solutions' near-miss detection tool. Predictions of PET and TTC values were compared against manually validated ground-truth data. Statistical measures such as MAD, RMSE, MAPE, and RMSLE were used to assess prediction accuracy.",
+        "key_findings": [
+            "Sunny weather conditions improved the tool’s accuracy, while rainy conditions led to overestimated PET and TTC values.",
+            "Critical conflicts (0-2 sec PET) were less accurately predicted than minor and potential conflicts.",
+            "The tool overestimated near-crash severity in both PET and TTC measures.",
+            "Prediction errors were more significant for shorter PET values, indicating challenges in detecting immediate crash risks.",
+            "The video-based tool demonstrated moderate reliability in identifying near-miss events at signalized intersections."
+        ],
+        "group": "Near-Crash & Safety",
+        "categories": [
+            "Near-Miss Detection",
+            "Video-Based Analysis",
+            "Traffic Safety"
+        ]
+    },
+
+    {
+        "title": "Personalized Driving Safety: Using Telematics to Reduce Risky Driving Behavior Among Young Drivers",
+        "description": "This study examines the effectiveness of telematics-based personalized feedback in reducing risky driving behaviors among young drivers. A naturalistic driving study was conducted over 11 weeks, with participants receiving feedback via a smartphone app to assess changes in speeding, harsh braking, and acceleration.",
+        "notable_practices": [
+            "Conducted an 11-week naturalistic driving study with young provisional drivers.",
+            "Used a smartphone app to collect telematics data on driving behaviors.",
+            "Randomized participants into intervention and control groups.",
+            "Provided weekly personalized feedback to the intervention group on driving scores.",
+            "Analyzed changes in speeding, harsh braking, and acceleration using Generalized Estimating Equations (GEE).",
+            "Assessed the influence of gender and regional vs. metropolitan driving environments on risky behavior."
+        ],
+        "advantages": [
+            "Provides real-time telematics-based insights into young driver behavior.",
+            "Supports personalized interventions to improve road safety.",
+            "Demonstrates feasibility of smartphone-based telematics for large-scale deployment.",
+            "Findings inform policy recommendations for driver education programs."
+        ],
+        "drawbacks": [
+            "Did not find statistically significant reductions in risky driving behaviors.",
+            "Limited sample size (57 participants) may have reduced statistical power.",
+            "External factors (COVID-19) affected recruitment and study timeline.",
+            "Effectiveness of feedback may depend on additional incentives or parental involvement."
+        ],
+        "images": [
+            "fig1-smartphone-feedback-interface.png",
+            "fig2-telematics-data-analysis.png"
+        ],
+        "references": [
+            "Farah et al. (2014) - The impact of telematics feedback on young driver behavior.",
+            "Stevenson et al. (2021) - The role of financial incentives in improving telematics-driven safety.",
+            "Dingus et al. (2016) - Naturalistic driving studies and crash risk assessment.",
+            "Simons-Morton et al. (2013) - The effectiveness of telematics monitoring in teenage driving."
+        ],
+        "related_measures": [
+            {
+                "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+                "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+            },
+            {
+                "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+                "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+            },
+            {
+                "title": "Managing the Road Safety Risks of Last-Mile Deliveries with Telematics",
+                "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Meuleners_Personalized_Driving_Safety.pdf",
+        "objective": "To evaluate whether telematics-based personalized feedback reduces risky driving behaviors among young drivers and to explore the effects of geographic and demographic factors on driving performance.",
+        "method": "A randomized controlled study was conducted, collecting telematics data via a smartphone app. The intervention group received weekly feedback on their driving scores, while the control group did not. Driving performance was analyzed using GEE regression models, adjusting for confounders such as gender, driving exposure, and location (urban vs. regional).",
+        "key_findings": [
+            "No statistically significant improvement in overall driving scores between intervention and control groups.",
+            "Young drivers in regional areas improved their speed control more than metropolitan drivers.",
+            "Female participants exhibited better harsh acceleration scores compared to males.",
+            "Speed scores worsened as driving distance increased, indicating fatigue-related risks.",
+            "Participants reported increased awareness of driving behavior due to telematics feedback."
+        ],
+        "group": "Telematics & Behavior",
+        "categories": [
+            "Driver Monitoring",
+            "Young Driver Safety",
+            "Telematics Feedback"
+        ]
+    }
+    ,
+
+    {
+        "title": "Context-Aware Driver Risk Prediction with Telematics Data",
+        "description": "This study introduces a context-aware driving risk prediction framework using telematics data and contextual information, such as road type, traffic conditions, and weather. It enhances traditional risk assessment models by clustering drivers into risk cohorts and refining risk labels using real-world accident data. The proposed framework is validated with telematics data from major U.S. cities.",
+        "notable_practices": [
+            "Developed a context-aware telematics-based risk prediction model.",
+            "Used clustering to form risk cohorts based on driver behavior.",
+            "Integrated environmental factors such as road type, traffic conditions, and weather.",
+            "Validated the framework using real-world telematics data from five U.S. cities.",
+            "Implemented a deep learning-based risk classification model."
+        ],
+        "advantages": [
+            "Improves accuracy of driving risk assessment by incorporating contextual information.",
+            "Provides scalable risk prediction for insurance and fleet management applications.",
+            "Refines weak risk labels to improve model reliability.",
+            "Facilitates personalized driver coaching and risk mitigation strategies."
+        ],
+        "drawbacks": [
+            "Requires high-quality telematics data for optimal performance.",
+            "Sensitive to missing or incomplete contextual information.",
+            "Potential privacy concerns due to telematics data collection."
+        ],
+        "images": [
+            "fig1-risk-prediction-framework.png",
+            "fig2-driver-risk-cohort-clustering.png"
+        ],
+        "references": [
+            "Guo and Fang (2013) - Risk assessment using naturalistic driving data.",
+            "Dingus et al. (2016) - Driver distraction and crash risk.",
+            "Zhang et al. (2017) - Telematics-based abnormal driving behavior detection.",
+            "Wang et al. (2018) - Deep learning for risk prediction in connected vehicles."
+        ],
+        "related_measures": [
+            {
+                "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+                "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+            },
+            {
+                "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+                "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+            },
+            {
+                "title": "Managing the Road Safety Risks of Last-Mile Deliveries with Telematics",
+                "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Moosavi_Context-Aware_Driver_Risk_Prediction_Telematics.pdf",
+        "objective": "To improve driver risk prediction by integrating telematics data with contextual factors and refining risk classification using clustering-based label augmentation.",
+        "method": "The study employs telematics-based feature representation and clustering to identify driver risk cohorts. A convolutional neural network (CNN) is trained to classify drivers into risk categories based on refined risk labels. The framework is tested on a dataset of over 10.7 million kilometers of driving data collected from multiple cities.",
+        "key_findings": [
+            "Telematics data alone is insufficient for accurate risk prediction; integrating contextual information significantly enhances accuracy.",
+            "Drivers exhibit distinct risk patterns based on environmental conditions, such as road type and time of day.",
+            "Deep learning-based models outperform traditional classifiers in risk prediction tasks.",
+            "Refining weak risk labels improves prediction reliability and cohort classification accuracy.",
+            "The proposed method is scalable for large-scale insurance and fleet management applications."
+        ],
+        "group": "AI & Risk Prediction",
+        "categories": [
+            "Driver Monitoring",
+            "Risk Prediction",
+            "Telematics Data"
+        ]
+    },
+
+    {
+        "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+        "description": "This study explores how telematics-based driver behavior indices, such as speed, acceleration, and braking, can serve as surrogate safety measures for assessing road safety. Using data from 4000 vehicles across New York City, the study evaluates the correlation between these indices and crash occurrences, identifying patterns in driver behavior and road safety conditions.",
+        "notable_practices": [
+            "Collected telematics data from 4000 vehicles across NYC’s five boroughs.",
+            "Examined driver behavior indices, including speed, hard braking, and hard acceleration.",
+            "Mapped driver behavior data onto NYC’s road network using a map-matching algorithm.",
+            "Normalized crash data using annual average daily traffic (AADT) models.",
+            "Proposed two safety metrics: speed corridor maps and braking/acceleration hotspots.",
+            "Compared surrogate safety measures with historical crash data to determine correlation strength.",
+            "Validated findings using statistical correlation analyses between behavior indices and crash rates."
+        ],
+        "advantages": [
+            "Provides a high-resolution assessment of road network safety.",
+            "Enables real-time identification of hazardous road locations.",
+            "Reduces reliance on underreported crash data for safety assessments.",
+            "Supports proactive intervention in high-risk areas before crashes occur.",
+            "Improves transportation planning through data-driven decision-making."
+        ],
+        "drawbacks": [
+            "Dependent on high-quality telematics data coverage.",
+            "Limited to vehicle-centric safety measures, excluding pedestrian or cyclist interactions.",
+            "Challenges in generalizing results beyond NYC due to localized driving patterns.",
+            "Data collection relies on fleets rather than general population driving behavior."
+        ],
+        "images": [
+            "fig1-safety-metrics-flowchart.png",
+            "fig2-hard-braking-hotspots.png"
+        ],
+        "references": [
+            "Guo et al. (2010) - Safety surrogate measures for crash prediction.",
+            "Dingus et al. (2016) - Naturalistic driving data and crash risk assessment.",
+            "Moosavi et al. (2019) - Deep learning for crash prediction with telematics data.",
+            "Farah et al. (2009) - Risk assessment using driving behavior data."
+        ],
+        "related_measures": [
+            {
+                "title": "Context-Aware Driver Risk Prediction with Telematics Data",
+                "link": "docs/2023_Moosavi_Context-Aware_Driver_Risk_Prediction_Telematics.pdf"
+            },
+            {
+                "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+                "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+            },
+            {
+                "title": "Managing the Road Safety Risks of Last Mile Deliveries with Telematics",
+                "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf",
+        "objective": "To assess the effectiveness of driver behavior indices derived from telematics data as surrogate safety measures for road network safety assessment and proactive crash prevention.",
+        "method": "Telematics data from 4000 fleet vehicles in NYC were analyzed to derive driver behavior indices, which were then mapped onto the city’s road network. Correlation analysis was conducted to compare these indices with crash data, normalized using AADT models. The study developed safety metrics to visualize hazardous locations.",
+        "key_findings": [
+            "Strong correlation between hard braking and crash frequency on highways.",
+            "Hard acceleration is a better safety indicator in urban roads than on highways.",
+            "Speed variations in urban environments correlate more with crashes than absolute speed.",
+            "High-risk crash zones align with areas of frequent hard braking and acceleration events.",
+            "Telematics-based surrogate safety measures provide a viable alternative to traditional crash data."
+        ],
+        "group": "Telematics & Behavior",
+        "categories": [
+            "Driver Monitoring",
+            "Risk Prediction",
+            "Telematics Data"
+        ]
+    },
+
+    {
+        "title": "Deep Learning Model-Based CO2 Emissions Prediction Using Vehicle Telematics Sensors Data",
+        "description": "This study presents a deep learning approach to predict vehicle CO2 emissions using real-time telematics data from On-Board Diagnostics (OBD-II) sensors. The proposed model leverages a Long Short-Term Memory (LSTM) recurrent neural network (RNN) architecture to estimate emissions based on sensor readings, providing a scalable solution for real-time emission monitoring.",
+        "notable_practices": [
+            "Developed an LSTM-based deep learning model for CO2 emission prediction.",
+            "Collected vehicle telematics data from OBD-II sensors.",
+            "Utilized a cloud-based architecture for real-time emission estimation.",
+            "Applied a feature selection process using PCA to improve model performance.",
+            "Validated the model using open-source OBD-II datasets.",
+            "Compared the proposed model with alternative machine learning methods, including CNNs and DNNs.",
+            "Tested model robustness against noisy sensor data."
+        ],
+        "advantages": [
+            "Scalable and cost-effective solution for real-time CO2 monitoring.",
+            "Higher prediction accuracy compared to traditional regression models.",
+            "Reduces reliance on costly emission sensors or periodic vehicle inspections.",
+            "Can be integrated into fleet management and environmental monitoring systems.",
+            "Demonstrates strong robustness against sensor noise."
+        ],
+        "drawbacks": [
+            "Requires a large dataset for optimal performance.",
+            "Dependent on the availability and accuracy of OBD-II sensor data.",
+            "Limited validation across different vehicle types and environmental conditions.",
+            "Potential privacy concerns related to telematics data collection."
+        ],
+        "images": [
+            "fig1-obd-data-flow.png",
+            "fig2-lstm-architecture.png"
+        ],
+        "references": [
+            "Zeng et al. (2016) - CO2 emission prediction using ANN and vehicle telematics.",
+            "Grote et al. (2018) - Inductive loop detector-based CO2 emission modeling.",
+            "Dingus et al. (2016) - Naturalistic driving studies and risk assessment.",
+            "Oduro et al. (2013) - Statistical analysis of CO2 emissions with speed and acceleration."
+        ],
+        "related_measures": [
+            {
+                "title": "Context-Aware Driver Risk Prediction with Telematics Data",
+                "link": "docs/2023_Moosavi_Context-Aware_Driver_Risk_Prediction_Telematics.pdf"
+            },
+            {
+                "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+                "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+            },
+            {
+                "title": "Telematics Data for Geospatial and Temporal Mapping of Urban Mobility",
+                "link": "docs/2024_Ghaffarpasand_Telematics_Data_Urban_Mobility.pdf"
+            }
+        ],
+        "pdf": "docs/2023_Singh_Deep_Learning_CO2_Emissions_Prediction_Telematics.pdf",
+        "objective": "To develop an LSTM-based model for predicting CO2 emissions from vehicle telematics data and demonstrate its feasibility for real-time monitoring using OBD-II sensor data.",
+        "method": "The study employs a deep learning approach using an LSTM recurrent neural network trained on OBD-II sensor data. The dataset includes speed, acceleration, RPM, throttle position, fuel consumption, and other telematics readings. Feature selection using PCA was applied, and the model was validated against a publicly available OBD-II dataset.",
+        "key_findings": [
+            "LSTM-based models outperform traditional regression-based CO2 estimation techniques.",
+            "Speed and acceleration alone are insufficient for accurate CO2 prediction; additional telematics data improves results.",
+            "The proposed model demonstrated high accuracy even when tested on unseen vehicle data.",
+            "The model remains robust under realistic sensor noise conditions.",
+            "Real-time telematics-based CO2 monitoring is feasible and scalable."
+        ],
+        "group": "AI & Risk Prediction",
+        "categories": [
+            "CO2 Prediction",
+            "Telematics Data",
+            "Deep Learning"
+        ]
+    }
+    ,
+    {
+        "title": "Vehicle-Pedestrian Near Miss Analysis at Signalized Mid-Block Crossings",
+        "description": "This study examines pedestrian safety at signalized mid-block crossings by analyzing near-miss events using Post Encroachment Time (PET) and Relative Time to Collision (RTTC) metrics. It utilizes computer vision techniques to extract pedestrian and vehicle trajectories and identifies factors influencing near-miss incidents. The study assesses the effectiveness of Pedestrian Hybrid Beacons (PHBs) and Rectangular Rapid Flashing Beacons (RRFBs) in mitigating pedestrian risk.",
+        "notable_practices": [
+            "Collected and analyzed 112 hours of video data from multiple PHB and RRFB sites.",
+            "Employed computer vision-based trajectory extraction to analyze pedestrian-vehicle interactions.",
+            "Used bivariate regression modeling to examine PET and RTTC variations.",
+            "Identified key pedestrian factors such as distraction, clothing color, waiting time, and eye contact with drivers.",
+            "Examined roadway factors including median presence, traffic flow, and land-use diversity.",
+            "Compared the safety effectiveness of PHBs and RRFBs in controlling pedestrian crossings.",
+            "Validated findings using drone footage for improved trajectory accuracy."
+        ],
+        "advantages": [
+            "Provides a data-driven approach for pedestrian safety assessment.",
+            "Enhances understanding of pedestrian behavior at mid-block crossings.",
+            "Supports traffic agencies in improving safety strategies for pedestrian crossings.",
+            "Demonstrates the effectiveness of AI-driven analysis in transportation research.",
+            "Improves modeling techniques for pedestrian near-miss analysis."
+        ],
+        "drawbacks": [
+            "Limited to specific locations in Florida, reducing generalizability.",
+            "Dependent on high-quality video footage and accurate trajectory extraction.",
+            "Did not account for nighttime pedestrian behavior variations.",
+            "Variability in pedestrian compliance with traffic signals."
+        ],
+        "images": [
+            "fig1-pedestrian-crossing-detection.png",
+            "fig2-PET-and-RTTC-calculation.png"
+        ],
+        "references": [
+            "Wu et al. (2018) - Pedestrian-vehicle conflicts and surrogate safety measures.",
+            "Anwari et al. (2023) - Factors influencing near-miss incidents at pedestrian crossings.",
+            "Olszewski et al. (2020) - Evaluating road safety using Post Encroachment Time (PET).",
+            "Lee et al. (2019) - Impact of pedestrian compliance on intersection safety."
+        ],
+        "related_measures": [
+            {
+                "title": "Artificial Intelligence for Pedestrian and Bicyclist Safety Using AI to Detect Near-Miss Collisions",
+                "link": "docs/2024_Pourhom_Artificial_Intelligence_Pedestrian_Bicyclist_Safety.pdf"
+            },
+            {
+                "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+                "link": "docs/2023_Kondyli_Evaluation_Near-Miss_Crashes_Video-Based.pdf"
+            },
+            {
+                "title": "Developing a Near-Miss Reporting System for Roadside Responders",
+                "link": "docs/2024_Liu_Near-Miss_Reporting_Roadside_Responders.pdf"
+            }
+        ],
+        "pdf": "docs/2024_Ahsan_Vehicle-Pedestrian_Near_Miss_Analysis_Signalized_Mid-Block_Crossings.pdf",
+        "objective": "To identify the pedestrian and roadway factors affecting near-miss events at signalized mid-block crossings and evaluate the effectiveness of traffic control devices such as PHBs and RRFBs in enhancing pedestrian safety.",
+        "method": "A total of 112 hours of video footage from multiple mid-block crossings was analyzed using computer vision-based trajectory extraction. Near-miss incidents were identified using PET and RTTC metrics. A bivariate regression model was employed to determine the influence of pedestrian and roadway characteristics on near-miss frequency.",
+        "key_findings": [
+            "Pedestrian distraction, clothing color, waiting time, and crossing speed significantly impact PET and RTTC values.",
+            "The presence of a median reduces PET but increases RTTC.",
+            "PHBs increase RTTC compared to RRFBs, suggesting better effectiveness in delaying vehicle encroachment.",
+            "Land-use diversity influences pedestrian and vehicle interactions, affecting near-miss occurrences.",
+            "Higher pedestrian signal compliance correlates with increased PET, indicating improved safety outcomes."
+        ],
+        "group": "Near-Crash & Safety",
+        "categories": [
+            "Pedestrian Safety",
+            "Near-Miss Detection",
+            "Crash Analysis"
+        ]
+    },
+
+    {
+        "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+        "description": "This systematic review examines how in-vehicle telematics has been used to monitor driving behaviors, focusing on statistical modeling approaches, behavioral implications, and insurance applications. The review assesses studies using telematics data for driver classification, risk prediction, and behavioral intervention, highlighting gaps in data quality, analysis methods, and study designs.",
+        "notable_practices": [
+            "Conducted a systematic review of 45 studies on in-vehicle telematics.",
+            "Categorized studies into insurance-focused applications and behavioral monitoring.",
+            "Analyzed common telematics variables such as speed, braking, and acceleration.",
+            "Identified statistical modeling techniques used for risk prediction and driver classification.",
+            "Evaluated the effectiveness of telematics-based feedback on driving behavior.",
+            "Examined insurance industry applications, including premium adjustments based on driving data.",
+            "Highlighted data handling challenges such as missing values and hierarchical modeling."
+        ],
+        "advantages": [
+            "Provides a comprehensive analysis of how telematics data is used for safety and insurance applications.",
+            "Identifies key telematics variables relevant to crash risk and driving behavior.",
+            "Highlights the effectiveness of machine learning models for driver classification and risk assessment.",
+            "Supports policy recommendations for telematics-based driver monitoring.",
+            "Encourages future studies to improve demographic representation and data quality."
+        ],
+        "drawbacks": [
+            "Limited generalizability due to inconsistent study designs across reviewed papers.",
+            "Many studies lacked proper demographic information on participants.",
+            "Challenges in interpreting telematics data due to variations in data collection methods.",
+            "Uncertainty in the long-term effectiveness of telematics feedback on driving behavior."
+        ],
+        "images": [
+            "fig1-road-fatalities-per-100k.png",
+            "fig2-PRISMA-diagram.png"
+        ],
+        "references": [
+            "Dingus et al. (2016) - Naturalistic driving studies and risk assessment.",
+            "Guillen et al. (2018) - Insurance pricing models using telematics data.",
+            "Sullman et al. (2019) - The impact of telematics feedback on risky driving behavior.",
+            "Mao et al. (2021) - Identifying high-risk driving events with telematics data.",
+            "Henckaerts & Antonio (2022) - Telematics-based insurance pricing models."
+        ],
+        "related_measures": [
+            {
+                "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+                "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+            },
+            {
+                "title": "Managing the Road Safety Risks of Last Mile Deliveries with Telematics",
+                "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+            },
+            {
+                "title": "Context-Aware Driver Risk Prediction with Telematics Data",
+                "link": "docs/2023_Moosavi_Context-Aware_Driver_Risk_Prediction_Telematics.pdf"
+            }
+        ],
+        "pdf": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf",
+        "objective": "To review and analyze how in-vehicle telematics has been used for driver monitoring, insurance applications, and behavioral interventions, identifying trends and gaps in the literature.",
+        "method": "A systematic review was conducted using Scopus and Web of Science, filtering studies published from 2010 onwards with at least 10 participants and multiple days of data collection. Studies were classified based on their focus (insurance, driver behavior, intervention effectiveness). Statistical modeling techniques and key telematics variables were examined.",
+        "key_findings": [
+            "Telematics-based driver classification is widely used in insurance for premium adjustments.",
+            "Speeding, harsh braking, and acceleration are the most commonly analyzed telematics variables.",
+            "Machine learning models, especially neural networks, outperform traditional regression methods in crash risk prediction.",
+            "Feedback-based telematics interventions show mixed effectiveness in reducing risky driving behavior.",
+            "Most studies fail to account for demographic and vehicle-specific factors in risk assessment."
+        ],
+        "group": "Telematics & Behavior",
+        "categories": [
+            "Driver Monitoring",
+            "Telematics Review",
+            "Risk Prediction"
+        ]
+    },
+    {
+        "title": "Telematics Data for Geospatial and Temporal Mapping of Urban Mobility",
+        "description": "This study presents a geospatial and temporal (GeoST) mapping framework that translates vehicle telematics data into urban travel characteristics. By integrating GPS-based speed and acceleration data, the study provides high-resolution mapping of road traffic patterns and vehicle-specific power (VSP), offering new insights into urban mobility trends and environmental impacts.",
+        "notable_practices": [
+            "Developed a GeoST mapping approach for analyzing vehicle movement patterns.",
+            "Processed telematics data from GPS-connected vehicles in the UK's West Midlands region.",
+            "Generated speed-acceleration profiles to estimate vehicle-specific power (VSP).",
+            "Incorporated road slope data to improve VSP estimations for emission analysis.",
+            "Compared telematics-derived traffic speeds with conventional traffic models.",
+            "Identified temporal variations in speed trends across different road types and time slots.",
+            "Highlighted safety concerns linked to excessive speed variations on weekends."
+        ],
+        "advantages": [
+            "Provides high-resolution geospatial analysis of vehicle movements.",
+            "Enables real-time assessment of road network performance.",
+            "Improves traffic management strategies through data-driven insights.",
+            "Enhances emission modeling by incorporating speed-acceleration variations.",
+            "Supports urban planning and infrastructure development with accurate mobility data."
+        ],
+        "drawbacks": [
+            "Relies on GPS data from a subset of vehicles, which may not fully represent overall traffic conditions.",
+            "Privacy concerns associated with telematics data collection.",
+            "Accuracy of road slope estimations can vary depending on available elevation data.",
+            "Telematics data may be biased due to selective participation (e.g., insurance-driven data collection)."
+        ],
+        "images": [
+            "fig1-geost-mapping-framework.png",
+            "fig2-speed-acceleration-profile.png"
+        ],
+        "references": [
+            "Ghaffarpasand & Pope (2024) - GeoST Mapping for Urban Mobility.",
+            "Dey et al. (2019) - Vehicle Emissions Modeling Using Speed-Acceleration Data.",
+            "Elvik (2005) - Speed and Road Safety Studies.",
+            "Milne & Watling (2019) - Big Data in Transport Planning."
+        ],
+        "related_measures": [
+            {
+                "title": "Analyzing the Suitability of Vehicle Telematics Data as a Surrogate Safety Measure for Short-Term Crash Prediction",
+                "link": "docs/2024_Joshi_Vehicle_Telematics_Surrogate_Safety.pdf"
+            },
+            {
+                "title": "Spatial Analysis of Telematics-Based Surrogate Safety Measures",
+                "link": "docs/2025_Nikolaou_Spatial_Telematics_Safety.pdf"
+            },
+            {
+                "title": "Deep Learning Model-Based CO2 Emissions Prediction Using Vehicle Telematics Sensors Data",
+                "link": "docs/2023_Singh_Deep_Learning_CO2_Emissions_Telematics.pdf"
+            }
+        ],
+        "pdf": "docs/2024_Ghaffarpasand_Telematics_Data_Urban_Mobility.pdf",
+        "objective": "To develop a geospatial and temporal mapping framework for urban mobility analysis using telematics data, with applications in traffic flow monitoring, vehicle emissions estimation, and road safety assessment.",
+        "method": "The study utilizes GPS-based telematics data from vehicles operating in the West Midlands region, aggregating speed and acceleration data over time and space. Road segments are analyzed based on speed-acceleration profiles, and vehicle-specific power (VSP) calculations are performed. Comparisons with conventional traffic models validate the methodology.",
+        "key_findings": [
+            "GeoST mapping provides detailed insights into urban mobility dynamics.",
+            "Speed variations on weekends indicate higher safety risks due to reduced adherence to speed limits.",
+            "Road slope significantly impacts VSP calculations, affecting emission estimations.",
+            "Vehicle speeds were 3% higher in 2016 than in 2018, suggesting evolving traffic conditions.",
+            "Traffic models based on conventional surveys underestimate speed variations compared to telematics-derived data."
+        ],
+        "group": "Mobility & Mapping",
+        "categories": [
+            "Urban Mobility",
+            "Spatial Safety",
+            "Crash Surrogates"
+        ]
+    },
+
+    {
+        "title": "Analyzing the Suitability of Vehicle Telematics Data as a Surrogate Safety Measure for Short-Term Crashes",
+        "description": "This study investigates the use of vehicle telematics data, specifically hard-braking events, as a surrogate safety measure for short-term crash analysis. The research explores the correlation between hard braking and crash frequencies across different road facility types and time periods, using statistical modeling approaches such as negative binomial regression and ANOVA.",
+        "notable_practices": [
+            "Analyzed vehicle telematics data from Wejo and crash records from the Connecticut Crash Data Repository.",
+            "Investigated the correlation between hard-braking events and crash frequency.",
+            "Developed separate models for different time periods: morning peak, evening peak, off-peak, and nighttime.",
+            "Compared crash risk between freeway and non-freeway road segments.",
+            "Assessed the effectiveness of surrogate safety measures for short-term crash predictions.",
+            "Validated the methodology using statistical modeling approaches such as ANOVA and negative binomial regression.",
+            "Provided insights into the feasibility of real-time crash prediction using telematics data."
+        ],
+        "advantages": [
+            "Allows for real-time monitoring of crash risks using telematics data.",
+            "Can serve as a proactive measure for traffic safety management.",
+            "Improves crash prediction accuracy without relying solely on historical crash data.",
+            "Demonstrates strong correlation between hard-braking events and crash occurrences.",
+            "Supports transportation agencies in developing data-driven safety interventions."
+        ],
+        "drawbacks": [
+            "Data is limited to a single urban region (Hartford, Connecticut), limiting generalizability.",
+            "Telematics data is only available for a four-month period, restricting seasonal analysis.",
+            "Privacy concerns associated with collecting and analyzing telematics data.",
+            "Potential biases due to selective participation in telematics data collection."
+        ],
+        "images": [
+            "fig1-hard-braking-density.png",
+            "fig2-crash-event-density.png"
+        ],
+        "references": [
+            "Guo et al. (2010) - Near Crashes as Crash Surrogate for Naturalistic Driving Studies.",
+            "Ozbay et al. (2008) - Surrogate Safety Measures from Traffic Simulation Models.",
+            "Gettman & Head (2003) - Traffic Conflict Analysis and Safety Surrogate Measures.",
+            "Songchitruksa & Tarko (2006) - Extreme Value Theory Approach to Safety Estimation.",
+            "Dingus et al. (2016) - Naturalistic Driving Studies and Crash Risk Evaluation."
+        ],
+        "related_measures": [
+            {
+                "title": "Spatial Analysis of Telematics-Based Surrogate Safety Measures",
+                "link": "docs/2025_Nikolaou_Spatial_Telematics_Safety.pdf"
+            },
+            {
+                "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+                "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+            },
+            {
+                "title": "Telematics Data for Geospatial and Temporal Mapping of Urban Mobility",
+                "link": "docs/2024_Ghaffarpasand_Telematics_Data_Urban_Mobility.pdf"
+            }
+        ],
+        "pdf": "docs/2024_Joshi_Vehicle_Telematics_Surrogate_Safety.pdf",
+        "objective": "To evaluate the viability of hard-braking events as a surrogate safety measure for short-term crash frequency, and to compare their predictive capability across various roadway types and time periods.",
+        "method": "The study uses vehicle telematics data from Wejo, covering March to June 2022, alongside crash data from the Connecticut Crash Data Repository. Statistical modeling techniques, including ANOVA and negative binomial regression, are applied to analyze the correlation between hard-braking events and crash occurrences across different facility types and time periods.",
+        "key_findings": [
+            "Hard-braking events exhibit a strong correlation with crash frequency across multiple time periods.",
+            "The relationship between hard-braking events and crashes is stronger on freeways compared to non-freeways.",
+            "Hard-braking events are more predictive of crash occurrences during peak periods than in total crash counts.",
+            "Using hard-braking events as a surrogate safety measure improves crash prediction models.",
+            "Telematics-based surrogate safety measures can serve as a real-time tool for proactive traffic safety management."
+        ],
+        "group": "Mobility & Mapping",
+        "categories": [
+            "Crash Surrogates",
+            "Telematics Data",
+            "Risk Prediction"
+        ]
+    },
+
+
+    {
+        "title": "Developing a Near-Miss Reporting System for Roadside Responders",
+        "description": "This study investigates the design and implementation of a near-miss reporting system tailored for roadside responders, including towing and service technicians, law enforcement, fire personnel, and EMS workers. The study identifies key challenges in reporting, analyzes existing systems, and proposes recommendations for an effective reporting framework.",
+        "notable_practices": [
+            "Reviewed 13 existing near-miss reporting systems, including web-based and app-based platforms.",
+            "Conducted interviews with stakeholders, including reporting system managers and emergency response agencies.",
+            "Organized focus groups with 28 roadside responders from various agencies across 19 states.",
+            "Performed a national survey with over 1,300 respondents to assess near-miss incident reporting practices.",
+            "Identified barriers to reporting, including lack of awareness, stigma, and concerns over legal consequences.",
+            "Explored the potential of automated detection technologies, such as camera-based and LiDAR systems, for near-miss reporting.",
+            "Developed recommendations for a user-friendly reporting system with mobile accessibility and anonymous reporting options."
+        ],
+        "advantages": [
+            "Enhances safety of roadside responders by identifying risk factors through near-miss reporting.",
+            "Provides data-driven insights to inform policy decisions and improve enforcement of Move-Over laws.",
+            "Encourages a culture of safety and proactive hazard identification among roadside workers.",
+            "Supports the integration of advanced technologies for real-time near-miss detection.",
+            "Facilitates inter-agency collaboration for standardized near-miss data collection."
+        ],
+        "drawbacks": [
+            "Challenges in obtaining voluntary reports due to fear of legal or insurance consequences.",
+            "Low awareness and adoption of existing near-miss reporting systems.",
+            "Variability in risk perception among responders, leading to inconsistent reporting.",
+            "Lack of sustained funding for long-term operation and data analysis.",
+            "Potential resistance from responders due to added reporting burden."
+        ],
+        "images": [
+            "fig1-near-miss-reporting-framework.png",
+            "fig2-survey-response-breakdown.png"
+        ],
+        "references": [
+            "AAA Foundation for Traffic Safety (2024) - Developing a Near-Miss Reporting System for Roadside Responders.",
+            "Liu et al. (2024) - Risk Perception and Near-Miss Reporting Among Emergency Responders.",
+            "Yang et al. (2023) - Challenges in Implementing Near-Miss Data Collection for Traffic Safety.",
+            "FHWA (2022) - Move Over Law Compliance and Roadside Worker Safety."
+        ],
+        "related_measures": [
+            {
+                "title": "Artificial Intelligence for Pedestrian and Bicyclist Safety Using AI to Detect Near-Miss Collisions",
+                "link": "docs/2024_Pourhom_AI_Near_Miss_Collisions.pdf"
+            },
+            {
+                "title": "Evaluation of Near-Miss Crashes Using a Video-Based Tool",
+                "link": "docs/2023_Kondyli_Video-Based_Near_Miss_Evaluation.pdf"
+            },
+            {
+                "title": "Crash Near‐Crash Analysis of Naturalistic Driving Data Using Association",
+                "link": "docs/2022_Qu_Crash_Near-Crash_Analysis.pdf"
+            }
+        ],
+        "pdf": "docs/2024_Liu_Near_Miss_Reporting_Roadside_Responders.pdf",
+        "objective": "To develop a comprehensive near-miss reporting system that enhances data collection, improves safety interventions, and facilitates inter-agency collaboration to protect roadside responders.",
+        "method": "The study employs a mixed-methods approach, including a systematic review of existing reporting systems, stakeholder interviews, focus groups with frontline responders, and a large-scale national survey. Statistical analysis and qualitative assessments are used to identify reporting barriers and propose solutions.",
+        "key_findings": [
+            "Only 21% of responders report near-miss incidents regularly, while 20% experience near misses weekly.",
+            "Towing industry workers face the highest rate of near misses, with 30% reporting incidents daily.",
+            "Lack of Move-Over law enforcement contributes to increased roadside responder risk.",
+            "Concerns over legal liability and insurance consequences deter near-miss reporting.",
+            "Mobile-friendly, anonymous reporting systems are crucial for increasing participation.",
+            "Automated detection technologies, such as AI and LiDAR, can supplement manual reporting for improved accuracy."
+        ],
+        "group": "Near-Crash & Safety",
+        "categories": [
+            "Responder Safety",
+            "Near-Miss Detection",
+            "Crash Analysis"
+        ]
+    },
+    {
+        "title": "Measuring Safety in Kenya’s Public Sector Vehicles Using Telematics and Passenger Feedback",
+        "description": "This study evaluates the safety of Kenya’s public sector vehicles by integrating telematics data and crowdsourced passenger feedback. It examines the relationship between telematics indicators (speeding, harsh driving) and perceived safety reported by passengers in matatus (minibuses). The study also assesses the effectiveness of telematics and passenger feedback as complementary road safety measures.",
+        "notable_practices": [
+            "Implemented a pilot study with 202 long-range matatus, installing telematics devices on 150 vehicles and feedback stickers on 77 vehicles.",
+            "Collected passenger feedback via SMS shortcodes and QR codes to assess perceived driving safety.",
+            "Analyzed telematics data on vehicle speed, harsh braking, and acceleration to identify safety risks.",
+            "Explored correlations between passenger safety perceptions and objective telematics indicators.",
+            "Identified systematic differences in driving behavior based on vehicle size, route, and driver ownership.",
+            "Developed a model to detect high-risk vehicles based on combined telematics and passenger feedback.",
+            "Tested machine learning approaches to analyze passenger comments and classify safety-related sentiments."
+        ],
+        "advantages": [
+            "Combines objective telematics data with subjective passenger feedback for a comprehensive safety assessment.",
+            "Provides actionable insights for public transportation operators to identify and address safety concerns.",
+            "Supports policy interventions aimed at improving public transit safety.",
+            "Demonstrates the feasibility of crowdsourced safety monitoring in developing countries.",
+            "Highlights the potential of integrating AI for sentiment analysis of safety-related feedback."
+        ],
+        "drawbacks": [
+            "Passenger feedback is subjective and may not always correlate with objective safety risks.",
+            "Telematics data alone does not fully capture the context behind driving behaviors.",
+            "Data collection challenges due to voluntary participation and potential response biases.",
+            "Privacy concerns related to telematics tracking and passenger feedback collection.",
+            "Limited generalizability outside of Kenya due to regional differences in driving behavior and infrastructure."
+        ],
+        "images": [
+            "fig1-matatu-telematics-speeding-map.png",
+            "fig2-passenger-feedback-word-cloud.png"
+        ],
+        "references": [
+            "World Bank (2024) - Measuring Safety in Public Transport with Telematics.",
+            "Habyarimana & Jack (2015) - Impact of Passenger Safety Awareness on Minibus Driving Behavior.",
+            "Moosavi & Ramnath (2023) - Context-Aware Driver Risk Prediction with Telematics Data.",
+            "Botzer et al. (2019) - Hard-Braking Events as Indicators of Unsafe Driving.",
+            "Rahman et al. (2019) - Crowdsourced Data for Road Safety Monitoring."
+        ],
+        "related_measures": [
+            {
+                "title": "Managing the Road Safety Risks of Last Mile Deliveries with Telematics",
+                "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+            },
+            {
+                "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+                "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+            },
+            {
+                "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+                "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+            }
+        ],
+        "pdf": "docs/2024_World_Bank_Measuring_Safety_Kenya_Telematics.pdf",
+        "objective": "To assess the effectiveness of combining telematics data and crowdsourced passenger feedback in evaluating public sector vehicle safety and identifying high-risk driving behaviors.",
+        "method": "A mixed-methods approach was used, integrating telematics data (speeding, acceleration, braking) with passenger safety feedback collected via SMS and QR code surveys. Statistical analysis was performed to examine correlations between objective and subjective safety indicators. A machine learning model was tested to classify passenger comments and identify risk-related sentiment.",
+        "key_findings": [
+            "High-speed driving is common in matatus, with some vehicles exceeding 100 km/h over 30% of the time.",
+            "Passenger safety ratings are weakly correlated with objective speeding indicators, highlighting perception gaps.",
+            "Drivers who own their matatu tend to drive less harshly compared to non-owner drivers.",
+            "Larger vehicles (50+ seaters) exhibit lower speeds but similar harsh driving rates compared to smaller matatus.",
+            "Passenger comments reveal concerns about fatigue, alcohol use, and driver professionalism, which are not captured by telematics data.",
+            "Machine learning models improve sentiment classification accuracy for passenger feedback compared to traditional sentiment analysis algorithms."
+        ],
+        "group": "Transport Policy",
+        "categories": [
+            "Public Transport",
+            "Fleet Telematics",
+            "Driver Monitoring"
+        ]
+    }
+,
+
+{
+    "title": "Dynamically Expanding Capacity of Autonomous Driving with Near-Miss Focused Training Framework",
+    "description": "This study proposes a reinforcement learning framework to enhance autonomous vehicle (AV) capabilities through near-miss scenario generation. By leveraging robust adversarial reinforcement learning (RARL), the method trains background vehicles (BVs) to create near-miss situations, enabling AVs to progressively improve their ability to navigate critical traffic scenarios.",
+    "notable_practices": [
+        "Developed a novel near-miss scenario generation framework using reinforcement learning.",
+        "Utilized the CARLA simulator to train AVs and BVs in controlled highway environments.",
+        "Applied reward functions to ensure near-miss scenarios vary in intensity without leading to collisions.",
+        "Employed a dynamic training approach where AV and BV capabilities evolve simultaneously.",
+        "Incorporated educational psychology principles (Zone of Proximal Development) to guide AV learning.",
+        "Defined new evaluation metrics such as Maximum Impulse (collision severity) and Obstacle Frames (BV blocking AV).",
+        "Validated the framework through three testing strategies comparing different AV-BV training methods."
+    ],
+    "advantages": [
+        "Enhances AV robustness by exposing it to progressively difficult near-miss scenarios.",
+        "Facilitates more efficient AV training compared to standard collision-based approaches.",
+        "Reduces reliance on real-world crash data by simulating diverse safety-critical situations.",
+        "Improves AV adaptability by training against dynamically evolving BV strategies.",
+        "Demonstrates potential for reducing long-tail risk scenarios in autonomous driving training."
+    ],
+    "drawbacks": [
+        "Depends on the accuracy of simulated environments, limiting real-world generalizability.",
+        "Requires computationally intensive reinforcement learning models for scenario generation.",
+        "May struggle to replicate real-world human driver unpredictability in near-miss events.",
+        "Needs further validation across diverse road environments beyond highway settings.",
+        "Does not account for multi-agent interactions beyond AV and BV configurations."
+    ],
+    "images": [
+        "fig1-near-miss-training-framework.png",
+        "fig2-reward-function-structure.png"
+    ],
+    "references": [
+        "Feng et al. (2023) - Long-tail distribution challenges in AV training.",
+        "Pinto et al. (2017) - Robust adversarial reinforcement learning (RARL) framework.",
+        "Dosovitskiy et al. (2017) - CARLA: Open-source driving simulator for AV training.",
+        "Tuncali et al. (2019) - Rapid scenario generation for AV safety testing.",
+        "Sun et al. (2021) - Adversarial reinforcement learning for AV training."
+    ],
+    "related_measures": [
+        {
+            "title": "Lightweight Edge Intelligence Empowered Near-Crash Detection Towards Real-Time Vehicle Event Logging",
+            "link": "docs/2023_Ke_Lightweight_Edge_Intelligence_Near-Crash_Detection.pdf"
+        },
+        {
+            "title": "In-Depth Understanding of Near-Crash Events Through Pattern Recognition",
+            "link": "docs/2022_Kong_Near-Crash_Pattern_Recognition.pdf"
+        },
+        {
+            "title": "Artificial Intelligence for Pedestrian and Bicyclist Safety Using AI to Detect Near-Miss Collisions",
+            "link": "docs/2024_Pourhom_AI_Pedestrian_Bicyclist_Safety.pdf"
+        }
+    ],
+    "pdf": "docs/2024_Yang_Near-Miss_Focused_Autonomous_Driving_Training.pdf",
+    "objective": "To develop an autonomous driving training framework that enhances AV capabilities by generating and adapting to near-miss scenarios, improving safety without requiring real-world crashes.",
+    "method": "The study employs reinforcement learning within the CARLA simulator, where AVs and BVs are trained dynamically. Reward functions regulate scenario difficulty to ensure training progression without excessive collisions. Evaluation metrics such as Maximum Impulse and Obstacle Frames measure AV performance across different adversarial settings.",
+    "key_findings": [
+        "Near-miss scenario training improves AV response to safety-critical situations compared to collision-based methods.",
+        "The proposed framework generates more realistic and varied near-miss scenarios than traditional adversarial training.",
+        "AVs trained under this framework demonstrate improved navigation in complex highway interactions.",
+        "Dynamic AV-BV training increases AV robustness while maintaining stable scenario difficulty.",
+        "Future research should explore integrating additional traffic participants for broader generalization."
+    ],
+    "group": "AI & Risk Prediction",
+    "categories": [
+        "AV Near-Miss",
+        "Near-Crash AI",
+        "Risk Prediction"
+    ]
+},
+
+{
+    "title": "The Influence of Vehicle Characteristics on the Braking Behaviour of Young People as Measured Using Telematics",
+    "description": "This study investigates how vehicle characteristics, such as engine power, weight, safety rating, and model year, influence the braking behavior of young drivers. Using in-vehicle telematics, the study examines relationships between harsh braking events and vehicle attributes while controlling for demographic factors.",
+    "notable_practices": [
+        "Utilized in-vehicle telematics to monitor driving behavior of 35 young drivers over one month.",
+        "Recorded 2,774 trips, covering 37,010 kilometers and 42,954 harsh braking events.",
+        "Compared vehicle characteristics such as weight, engine power, and safety ratings across demographic variables.",
+        "Applied Linear Mixed Models (LMM) and Generalized Linear Mixed Models (GLMM) to analyze braking behavior.",
+        "Validated findings using Bayesian Information Criteria (BIC) to assess model fit.",
+        "Examined how vehicle safety ratings correlate with braking performance.",
+        "Identified potential benefits of encouraging young drivers to choose safer vehicles."
+    ],
+    "advantages": [
+        "Provides empirical evidence linking vehicle characteristics to braking behavior.",
+        "Demonstrates the usefulness of telematics for real-world driving behavior assessment.",
+        "Supports policy recommendations for incentivizing safer vehicle choices for young drivers.",
+        "Highlights gender differences in vehicle ownership and their impact on braking events.",
+        "Strengthens insurance industry practices by integrating vehicle attributes into risk models."
+    ],
+    "drawbacks": [
+        "Limited sample size (35 drivers) may not fully represent all young drivers.",
+        "Study conducted in Victoria, Australia, limiting generalizability.",
+        "Data collection restricted to vehicles manufactured from 2006 onwards.",
+        "Potential influence of telematics feedback on participant behavior was not fully accounted for.",
+        "Lack of regional drivers in the sample may affect findings on urban vs. rural differences."
+    ],
+    "images": [
+        "fig1-vehicle-characteristics-distribution.png",
+        "fig2-braking-events-by-vehicle-type.png"
+    ],
+    "references": [
+        "Boylan et al. (2025) - Telematics-Based Driving Behavior Analysis.",
+        "Meuleners et al. (2023) - Personalized Driving Safety and Braking Events.",
+        "Keall & Newstead (2011) - Passenger Vehicle Safety for Young Drivers.",
+        "Osthöver et al. (2024) - Power-to-Weight Ratios and Braking Distances.",
+        "Ryb et al. (2009) - Vehicle Age and Crash Severity.",
+        "Ayuso et al. (2016) - Telematics-Based Gender Differences in Driving Behavior."
+    ],
+    "related_measures": [
+        {
+            "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+            "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+        },
+        {
+            "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+            "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+        },
+        {
+            "title": "Analyzing the Suitability of Vehicle Telematics Data as a Surrogate Safety Measure for Short-Term Crash Prediction",
+            "link": "docs/2024_Joshi_Vehicle_Telematics_Surrogate_Safety.pdf"
+        }
+    ],
+    "pdf": "docs/2025_Boylan_Vehicle_Characteristics_Braking_Behavior.pdf",
+    "objective": "To analyze the influence of vehicle attributes such as weight, power, and safety ratings on young drivers' braking behavior, using in-vehicle telematics data to identify potential risk factors and inform policy interventions.",
+    "method": "A naturalistic driving study was conducted with 35 young drivers using the GOFAR telematics device. Data was collected over a one-month period, recording vehicle-specific metrics and braking events. Statistical modeling techniques, including Linear Mixed Models (LMM) and Generalized Linear Mixed Models (GLMM), were used to assess relationships between vehicle attributes and braking behavior.",
+    "key_findings": [
+        "Vehicles with higher engine power and safety ratings exhibited fewer harsh braking events.",
+        "No significant differences in braking behavior were observed between male and female drivers.",
+        "Probationary and fully licensed drivers showed no major differences in braking patterns.",
+        "Vehicle model year was not a significant predictor of harsh braking events, but safety ratings were.",
+        "Trip distance was positively correlated with the number of harsh braking events.",
+        "Encouraging young drivers to purchase safer vehicles may lead to better braking performance and overall safety improvements."
+    ],
+    "group": "Telematics & Behavior",
+    "categories": [
+        "Braking Behavior",
+        "Driver Monitoring",
+        "Risk Prediction"
+    ]
+},
+{
+    "title": "Managing the Road Safety Risks of Last Mile Deliveries with Telematics",
+    "description": "This study investigates the role of telematics in managing road safety risks for last-mile delivery drivers in the UK. The research explores the perspectives of fleet managers and drivers regarding the effectiveness of telematics in reducing speeding, risky driving, and crash risk while highlighting the associated challenges and barriers to adoption.",
+    "notable_practices": [
+        "Conducted interviews with 20 fleet managers and 39 delivery drivers to understand telematics perceptions.",
+        "Analyzed telematics data usage for monitoring speeding, harsh braking, and acceleration patterns.",
+        "Explored the impact of telematics on driver stress, trust, and risk-taking behavior.",
+        "Identified key barriers to telematics adoption, including driver resistance and technological limitations.",
+        "Recommended ways to improve telematics systems, such as providing real-time feedback and incentives.",
+        "Highlighted the role of telematics in insurance cost reduction and safety monitoring.",
+        "Examined the trade-off between delivery speed and road safety as perceived by managers."
+    ],
+    "advantages": [
+        "Telematics improves driver accountability and reduces risky driving behaviors.",
+        "Potential cost savings through lower insurance claims and fewer violations.",
+        "Allows fleet managers to monitor driver performance and enforce safety policies.",
+        "Can serve as a marketing tool for companies emphasizing safety compliance.",
+        "Encourages data-driven decision-making for fleet safety improvements."
+    ],
+    "drawbacks": [
+        "Drivers experience stress from constant monitoring and fear of penalties.",
+        "Some fleet managers prioritize delivery speed over safety enforcement.",
+        "Telematics data can be difficult to interpret and act upon effectively.",
+        "Technology issues, such as GPS failures, can limit data reliability.",
+        "Driver mistrust and concerns over micromanagement hinder telematics adoption."
+    ],
+    "images": [
+        "fig1-driver-perceptions-of-telematics.png",
+        "fig2-impact-of-telematics-on-speeding.png"
+    ],
+    "references": [
+        "Christie et al. (2025) - Managing Road Safety Risks in Last Mile Delivery.",
+        "Elvik et al. (2019) - Speeding and Crash Risk in Commercial Fleets.",
+        "Newnam et al. (2013) - Effects of Telematics Feedback on Work-Related Driving.",
+        "Reimers & Shiller (2019) - Impact of Telematics on Insurance and Safety.",
+        "Kontaxi et al. (2021) - Smartphone-Based Telematics and Driver Behavior."
+    ],
+    "related_measures": [
+        {
+            "title": "Measuring Safety in Kenya’s Public Sector Vehicles Using Telematics and Passenger Feedback",
+            "link": "docs/2024_World_Bank_Measuring_Safety_Kenya_Telematics.pdf"
+        },
+        {
+            "title": "A Systematic Review of the Use of In-Vehicle Telematics in Monitoring Driving Behaviors",
+            "link": "docs/2024_Boylan_Telematics_Driving_Behavior.pdf"
+        },
+        {
+            "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+            "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+        }
+    ],
+    "pdf": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf",
+    "objective": "To explore the effectiveness of telematics in reducing road safety risks among last-mile delivery drivers and identify barriers to implementation, including driver stress, technology limitations, and fleet management priorities.",
+    "method": "The study used semi-structured interviews with 20 fleet managers and 39 delivery drivers, analyzing qualitative data through thematic coding. Statistical analysis was performed to assess differences between telematics users and non-users regarding risk perception, stress levels, and safety outcomes.",
+    "key_findings": [
+        "Delivery drivers face significant time pressures that contribute to risky driving behaviors, including speeding.",
+        "Telematics is effective in reducing speeding and harsh driving but does not eliminate delivery-related risk-taking.",
+        "Fleet managers prioritize financial benefits of telematics over safety improvements.",
+        "Drivers who use telematics feel monitored and experience increased stress, but acknowledge its role in reducing speeding.",
+        "Companies could improve telematics adoption by sharing data with drivers and rewarding safe behavior.",
+        "Despite its benefits, telematics alone is not sufficient for ensuring delivery driver safety; a broader safety culture is required."
+    ],
+    "group": "Transport Policy",
+    "categories": [
+        "Last-Mile Safety",
+        "Fleet Telematics",
+        "Driver Monitoring"
+    ]
+}
+,
+{
+    "title": "Spatial Analysis of Telematics-Based Surrogate Safety Measures",
+    "description": "This study explores the spatial distribution of surrogate safety measures (SSMs), particularly harsh braking events, using telematics data and OpenStreetMap road characteristics. It applies spatial autocorrelation and machine learning models to evaluate road safety in a region with low crash counts.",
+    "notable_practices": [
+        "Utilized smartphone-based telematics data for harsh braking event detection.",
+        "Analyzed 6,103 road segments in Eastern Macedonia and Thrace, Greece.",
+        "Implemented Spatial Zero-Inflated Negative Binomial (SZINB) and Spatial Random Forest (SRF) models.",
+        "Identified spatial autocorrelation in harsh braking events using Moran’s I coefficient.",
+        "Demonstrated superior model fit of spatial models over non-spatial alternatives.",
+        "Highlighted the role of road segment length and trip frequency as key risk exposure indicators.",
+        "Validated effectiveness of spatial machine learning for proactive road safety analysis."
+    ],
+    "advantages": [
+        "Enables proactive road safety evaluation using telematics data.",
+        "Reduces reliance on crash data, providing insights in low-crash areas.",
+        "Incorporates spatial dependencies for improved model accuracy.",
+        "Supports policymakers in identifying high-risk areas for intervention.",
+        "Integrates telematics with geospatial data for enhanced traffic safety insights."
+    ],
+    "drawbacks": [
+        "Limited to regions with telematics data availability.",
+        "Findings depend on the accuracy of OpenStreetMap road segmentations.",
+        "Requires computationally intensive spatial modeling approaches.",
+        "Limited ability to generalize findings to areas with different traffic dynamics.",
+        "Potentially underestimates risk in areas without smartphone data penetration."
+    ],
+    "images": [
+        "fig1-spatial-distribution-harsh-braking.png",
+        "fig2-moran-i-autocorrelation.png"
+    ],
+    "references": [
+        "Nikolaou et al. (2025) - Spatial Analysis of Surrogate Safety Measures.",
+        "Tarko (2018) - Surrogate Measures of Safety in Road Safety Analysis.",
+        "Gettman & Head (2003) - Use of Surrogate Safety Measures from Simulation Models.",
+        "Aguero-Valverde & Jovanis (2006) - Spatial Analysis of Fatal and Injury Crashes.",
+        "Wang et al. (2021) - Traffic Conflict Measures and Their Predictive Power."
+    ],
+    "related_measures": [
+        {
+            "title": "Analyzing the Suitability of Vehicle Telematics Data as a Surrogate Safety Measure for Short-Term Crash Prediction",
+            "link": "docs/2024_Joshi_Vehicle_Telematics_Surrogate_Safety.pdf"
+        },
+        {
+            "title": "Driver Behavior Indices from Large-Scale Fleet Telematics Data as Surrogate Safety Measures",
+            "link": "docs/2023_Patrick_Driver_Behavior_Indices_Telematics_Safety.pdf"
+        },
+        {
+            "title": "Managing the Road Safety Risks of Last Mile Deliveries with Telematics",
+            "link": "docs/2025_Christie_Managing_Road_Safety_Telematics.pdf"
+        }
+    ],
+    "pdf": "docs/2025_Nikolaou_Spatial_Analysis_Telematics_Surrogate_Safety.pdf",
+    "objective": "To evaluate the effectiveness of spatial analysis methods in telematics-based surrogate safety measures, particularly harsh braking events, and provide insights into proactive road safety strategies.",
+    "method": "The study applies spatial autocorrelation tests, such as Moran’s I, to detect clustering in harsh braking events. It then develops spatial models, including Spatial Zero-Inflated Negative Binomial (SZINB) and Spatial Random Forest (SRF), to assess the impact of road characteristics and behavioral factors on harsh braking frequency.",
+    "key_findings": [
+        "Harsh braking events exhibit significant spatial autocorrelation, requiring spatial modeling techniques.",
+        "The number of trips per segment is the most influential predictor of harsh braking risk.",
+        "Motorways show fewer harsh braking events compared to other road types.",
+        "SZINB models outperform traditional non-spatial regression models in predicting harsh braking distributions.",
+        "Spatial Random Forest reduces spatial autocorrelation in residuals and improves predictive accuracy.",
+        "The study supports the use of telematics data for proactive road safety measures in areas with limited crash data."
+    ],
+    "group": "Mobility & Mapping",
+    "categories": [
+        "Spatial Safety",
+        "Crash Surrogates",
+        "Risk Prediction"
+    ]
+}
+
+
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+]
