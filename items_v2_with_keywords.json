@@ -78,8 +78,14 @@
       "The study highlights the need for optimized EMS resource allocation to improve trauma care in rural areas."
     ],
     "keywords": [
-      "alert drivers",
-      "Road reconfiguration"
+      "Edge drop prevention",
+      "reduce crossing conflicts",
+      "visibility treatment",
+      "driver yield compliance",
+      "geofencing",
+      "exposure reduction",
+      "lane separation",
+      "real-time alerts"
     ]
   },
   {
@@ -160,9 +166,14 @@
       "Improved training for ambulance drivers and enhanced vehicle safety features could reduce crash risk."
     ],
     "keywords": [
-      "complete streets",
-      "multilane intersections",
-      "visual narrowing"
+      "signal visibility",
+      "envelope widening",
+      "Left-turn safety",
+      "stripes",
+      "Automatic crash notification",
+      "enhanced bike safety",
+      "roadway geometry",
+      "median safety"
     ]
   },
   {
@@ -244,8 +255,16 @@
       "The findings support the development of targeted health education and EAS policy adjustments to better protect vulnerable populations during adverse weather conditions."
     ],
     "keywords": [
-      "Signal redundancy",
-      "crash severity"
+      "cycling protection",
+      "yield control",
+      "visibility treatment",
+      "driver perception",
+      "moderate cost",
+      "slope design",
+      "recovery zone",
+      "speed compliance",
+      "stop control",
+      "Protected bike lane"
     ]
   },
   {
@@ -323,8 +342,15 @@
       "Improved coordination between EMS and other agencies, such as police and fire services, is needed to enhance response effectiveness."
     ],
     "keywords": [
-      "sobriety checks",
-      "head start"
+      "Shoulder width",
+      "yield control",
+      "tactile warning",
+      "line of sight",
+      "signal phasing",
+      "lane guidance",
+      "geofencing",
+      "improved angle",
+      "road geometry"
     ]
   },
   {
@@ -410,8 +436,15 @@
       "Urban roadways with two-way-divided traffic contribute significantly to fatal pedestrian crashes in non-emergency modes."
     ],
     "keywords": [
-      "run-off prevention",
-      "Road reconfiguration"
+      "Wider markings",
+      "intersection conversion",
+      "reflective tapes",
+      "chicanes",
+      "hydroplaning prevention",
+      "bicycle safety",
+      "injury prevention",
+      "low-light safety",
+      "reflectivity"
     ]
   },
   {
@@ -495,8 +528,16 @@
       "The findings highlight the need for tailored in-vehicle anger management systems."
     ],
     "keywords": [
-      "reduce nighttime crashes",
-      "overhead flashers"
+      "intelligent control",
+      "visual enhancement",
+      "ignition lock",
+      "Separated bike lane",
+      "Lane increase",
+      "maneuvering space",
+      "fail-safe indicator for red light compliance",
+      "Night visibility",
+      "crossing aid",
+      "lane discipline"
     ]
   },
   {
@@ -580,7 +621,15 @@
       "The study underscores the importance of targeted interventions for ride-hailing drivers to enhance urban traffic safety."
     ],
     "keywords": [
-      "Raised intersection"
+      "hydroplaning prevention",
+      "remove distraction",
+      "longitudinal protection",
+      "keep vehicle in lane",
+      "crossing aid",
+      "driver assistance",
+      "Flashing warning",
+      "bike safety",
+      "Automatic crash notification"
     ]
   },
   {
@@ -664,9 +713,14 @@
       "Married drivers are less likely to be involved in crashes, while professional drivers have a higher crash probability."
     ],
     "keywords": [
-      "Low-speed design",
-      "enforcement duration",
-      "vehicle alignment"
+      "driveway safety",
+      "traction",
+      "overtaking zone",
+      "Visibility in rain",
+      "speed control",
+      "head start",
+      "approach speed control",
+      "speed limiter"
     ]
   },
   {
@@ -750,8 +804,14 @@
       "The study highlights the importance of considering driver aggressiveness in CAV lane-changing algorithms to enhance safety."
     ],
     "keywords": [
-      "road geometry",
-      "Head-on crash prevention"
+      "Signal visibility",
+      "lateral clearance",
+      "Lane separation",
+      "exposure reduction",
+      "enforcement duration",
+      "reduce turning conflicts",
+      "urban roads",
+      "longitudinal protection"
     ]
   },
   {
@@ -836,8 +896,16 @@
       "Four-lane configurations lead to smoother traffic flow and fewer aggressive maneuvers compared to three-lane setups."
     ],
     "keywords": [
-      "signal visibility",
-      "improve sign recognition"
+      "noise alert",
+      "legal compliance",
+      "walking infrastructure",
+      "recovery zone",
+      "vehicle alignment",
+      "Systemic safety",
+      "dedicated bike signal",
+      "visual narrowing",
+      "ICWS",
+      "geofencing"
     ]
   },
   {
@@ -914,7 +982,16 @@
       "Impaired drivers are more likely to be involved in single-vehicle crashes."
     ],
     "keywords": [
-      "lateral shift"
+      "protected phasing",
+      "envelope widening",
+      "merging safety",
+      "Low-speed design",
+      "rear-end crash reduction",
+      "Wet pavement safety",
+      "vehicle technology",
+      "signage enhancement",
+      "injury response time",
+      "Seatbelt enforcement"
     ]
   },
   {
@@ -984,8 +1061,16 @@
       "Delays between intervention implementation and measurable impact highlight the importance of sustained efforts."
     ],
     "keywords": [
-      "impaired driving penalties",
-      "walking infrastructure"
+      "keep vehicle in lane",
+      "Raised intersection",
+      "compliance",
+      "conflict illumination",
+      "restriping",
+      "rural highway",
+      "Automated enforcement",
+      "Speed management",
+      "conflict point reduction",
+      "surface quality"
     ]
   },
   {
@@ -1060,9 +1145,15 @@
       "Pedestrian involvement in head-on crashes is minimal but results in high severity when it occurs."
     ],
     "keywords": [
-      "legal consequence",
-      "systemic safety",
-      "crash separation"
+      "crosswalk enhancement",
+      "diagonal crossing",
+      "delay reduction",
+      "Seatbelt enforcement",
+      "alternating passing lanes",
+      "conflict point reduction",
+      "Midblock crosswalk",
+      "HAWK signal",
+      "vehicle stability"
     ]
   },
   {
@@ -1136,8 +1227,15 @@
       "Parental monitoring and stricter enforcement of underage drinking laws reduce the likelihood of DWI and RWI."
     ],
     "keywords": [
-      "enhanced sight distance",
-      "manage intersection flow"
+      "Left-turn crashes",
+      "Protected bike lane",
+      "Protected intersection",
+      "lane separation",
+      "reduce intersection delay",
+      "low-cost beacon",
+      "all-weather safety",
+      "Lane increase",
+      "Median island"
     ]
   },
   {
@@ -1207,9 +1305,15 @@
       "DUI remains the leading cause of severe crashes but shares risk profiles with other impaired driving types."
     ],
     "keywords": [
-      "midblock safety",
-      "advanced stop line",
-      "Shoulder width"
+      "rumble strips",
+      "large vehicle accommodation",
+      "residential safety",
+      "proactive warning",
+      "sign enhancement",
+      "reduce angle crashes",
+      "Dual turn lanes",
+      "retroreflectivity",
+      "lateral clearance"
     ]
   },
   {
@@ -1295,7 +1399,14 @@
       "Speeding exacerbates crash severity across all built environments."
     ],
     "keywords": [
-      "Advanced markings"
+      "delay reduction",
+      "speed limit compliance",
+      "overhead flashers",
+      "safe overtaking",
+      "active transportation",
+      "lane deviation",
+      "tactile feedback",
+      "HAWK signal"
     ]
   },
   {
@@ -1382,7 +1493,15 @@
       "Cellphone-related distractions account for a significant proportion of fatal crashes."
     ],
     "keywords": [
-      "expressway safety"
+      "longitudinal protection",
+      "Right-turn lane",
+      "backplates",
+      "lane discipline",
+      "crash deterrent",
+      "protected phasing",
+      "transition zone",
+      "conflict energy reduction",
+      "safety improvement"
     ]
   },
   {
@@ -1469,9 +1588,15 @@
       "Elevated curves see more heavy truck crashes attributed to drowsy driving."
     ],
     "keywords": [
-      "protective curb extension",
-      "friction improvement",
-      "multimodal integration"
+      "enhance stop compliance",
+      "Pedestrian scramble",
+      "Automatic crash notification",
+      "Street lighting",
+      "vertical deflection",
+      "expressway safety",
+      "roadway geometry",
+      "safe overtaking",
+      "Median island"
     ]
   },
   {
@@ -1559,7 +1684,15 @@
       "Distractions predominantly impacted the first row in the queue, exacerbating delays."
     ],
     "keywords": [
-      "skid control"
+      "safety access",
+      "bicycle priority",
+      "physical separation",
+      "edge stability",
+      "Automatic crash notification",
+      "roadway adaptation",
+      "speed moderation",
+      "merging safety",
+      "protective curb extension"
     ]
   },
   {
@@ -1645,7 +1778,14 @@
       "Distraction rates are highest among younger drivers engaging in mobile tasks."
     ],
     "keywords": [
-      "slope safety"
+      "safety improvement",
+      "Alcohol interlock",
+      "visibility aid",
+      "deterrence",
+      "Resurfacing",
+      "nighttime compliance",
+      "lower speed",
+      "crash severity mitigation"
     ]
   },
   {
@@ -1730,7 +1870,15 @@
       "African-American and Hispanic populations demonstrate lower compliance compared to White occupants."
     ],
     "keywords": [
-      "Run-off-road alert"
+      "advance alert",
+      "turning safety",
+      "buffered lane",
+      "conflict energy reduction",
+      "real-time warning",
+      "uncontrolled crossing",
+      "sobriety checks",
+      "lane guidance",
+      "reduce transit delays"
     ]
   },
   {
@@ -1816,7 +1964,15 @@
       "Nighttime crashes involving unbelted occupants have higher fatality rates."
     ],
     "keywords": [
-      "Lateral space"
+      "crosswalk enhancement",
+      "legal consequence",
+      "rural roads",
+      "improve sign recognition",
+      "midblock safety",
+      "pavement condition",
+      "emergency alert",
+      "Vehicle setback",
+      "major-minor intersection"
     ]
   },
   {
@@ -1904,8 +2060,16 @@
       "The model underscores the need for targeted safety interventions addressing both seat belt compliance and aggressive driving."
     ],
     "keywords": [
-      "crash severity reduction",
-      "Raised intersection"
+      "unintentional departure",
+      "added width",
+      "shoulder awareness",
+      "stop sign approach",
+      "Improved safety",
+      "intersection crash reduction",
+      "reduce rear-end/head-on crashes",
+      "improved angle",
+      "edge stability",
+      "geometric constraint"
     ]
   },
   {
@@ -1991,9 +2155,14 @@
       "Passenger fatalities due to non-compliance decreased by 12% during the study period."
     ],
     "keywords": [
-      "access management",
-      "vehicle alignment",
-      "safe overtaking"
+      "intersection conversion",
+      "Evaluation",
+      "enhanced sight distance",
+      "bike-pedestrian safety",
+      "crash severity reduction",
+      "separate movements",
+      "high-impact",
+      "Raised intersection"
     ]
   },
   {
@@ -2079,9 +2248,15 @@
       "Sports utility vehicles (SUVs) have the highest seat belt usage among all vehicle types."
     ],
     "keywords": [
-      "behavior change",
-      "urban roads",
-      "multimodal design"
+      "Advanced markings",
+      "Crash avoidance",
+      "intersection corner treatment",
+      "enforcement duration",
+      "edge support",
+      "nighttime compliance",
+      "passive enforcement",
+      "pedestrian path",
+      "Edge drop prevention"
     ]
   },
   {
@@ -2168,9 +2343,14 @@
       "Policy implications included targeted safety campaigns and technological enhancements in vehicles."
     ],
     "keywords": [
-      "roadway geometry",
-      "roadside design",
-      "turning safety"
+      "real-time warning",
+      "lane visibility",
+      "Right-of-way control",
+      "speed management",
+      "pedestrian awareness",
+      "reduced vehicle volume",
+      "exposure reduction",
+      "noise strip"
     ]
   },
   {
@@ -2258,7 +2438,16 @@
       "Dash camera data provided more accurate insights into driver behavior compared to traditional survey methods."
     ],
     "keywords": [
-      "conflict point reduction"
+      "crash prevention",
+      "injury response time",
+      "conflict point reduction",
+      "public awareness",
+      "keep vehicle in lane",
+      "separated bike lane",
+      "Flashing warning",
+      "Intersection lighting",
+      "reduce transit delays",
+      "behavioral feedback"
     ]
   },
   {
@@ -2345,9 +2534,16 @@
       "Higher posted speed limits significantly increased over-speeding, with some limits doubling the likelihood."
     ],
     "keywords": [
-      "residential safety",
-      "safety improvement",
-      "Midblock crosswalk"
+      "speed control",
+      "friction improvement",
+      "impaired driving deterrent",
+      "legal consequence",
+      "DWI law enforcement",
+      "pavement marking",
+      "proactive treatment",
+      "buffered lane",
+      "intersection awareness",
+      "crash severity reduction"
     ]
   },
   {
@@ -2435,9 +2631,14 @@
       "Policy recommendations included enhanced enforcement and infrastructure improvements tailored to each road type."
     ],
     "keywords": [
-      "Automated enforcement",
-      "diagonal crossing",
-      "reflective tapes"
+      "rural highway safety",
+      "red-light compliance",
+      "edge stability",
+      "behavioral feedback",
+      "reduce rear-end/head-on crashes",
+      "speed compliance",
+      "left-turn safety",
+      "speed management"
     ]
   },
   {
@@ -2525,7 +2726,15 @@
       "Parental involvement and peer-to-peer education programs showed promise in reducing teen speeding behaviors."
     ],
     "keywords": [
-      "speed calming"
+      "reduce crash severity",
+      "crash reduction",
+      "Intersection devices",
+      "traction",
+      "Speed management",
+      "emergency alert",
+      "crash prevention",
+      "tactile feedback",
+      "buffer space"
     ]
   },
   {
@@ -2613,8 +2822,16 @@
       "Vehicle-to-vehicle communication systems hold potential for mitigating surveillance and judgment errors in older drivers."
     ],
     "keywords": [
-      "road geometry",
-      "reduce delay"
+      "lane deviation",
+      "median safety",
+      "operational safety",
+      "Protected bike lane",
+      "Turning movement safety",
+      "reduce angle crashes",
+      "visibility aid",
+      "loss of control prevention",
+      "run-off-road",
+      "run-off-road crashes"
     ]
   },
   {
@@ -2703,9 +2920,14 @@
       "Advanced driver-assistance systems (ADAS) like lane departure warnings are crucial for mitigating risks in lane-changing scenarios."
     ],
     "keywords": [
-      "conflict energy reduction",
-      "surface quality",
-      "brightness uniformity"
+      "pedestrian sight distance",
+      "enforcement duration",
+      "pedestrian crossing",
+      "alternating passing lanes",
+      "Visibility in rain",
+      "geometric safety",
+      "lane keeping",
+      "reduce delay"
     ]
   },
   {
@@ -2794,9 +3016,14 @@
       "Open-country crashes pose a higher risk of fatal outcomes for older drivers across crash types."
     ],
     "keywords": [
-      "Bicycle lane markings",
-      "Access management",
-      "Self-enforcing design"
+      "alcohol education",
+      "edge line alert",
+      "bicycle priority",
+      "vehicle stability",
+      "median safety",
+      "lane expansion",
+      "urban design",
+      "bike-pedestrian safety"
     ]
   },
   {
@@ -2884,9 +3111,16 @@
       "Older drivers face higher risks during weekend travel, particularly on rural high-speed segments."
     ],
     "keywords": [
-      "Automatic crash notification",
-      "urban signals",
-      "signal visibility"
+      "safety monitoring",
+      "nonmotorized mobility",
+      "rural highway safety",
+      "large vehicle accommodation",
+      "2+1 roads",
+      "conflict energy reduction",
+      "pedestrian path",
+      "psychological narrowing",
+      "dynamic warning",
+      "speed control"
     ]
   },
   {
@@ -2974,8 +3208,15 @@
       "MARS models capture complex variable interactions more effectively than GLM."
     ],
     "keywords": [
-      "reduce angle crashes",
-      "walkability"
+      "stripes",
+      "brightness uniformity",
+      "head-on collision reduction",
+      "transit access",
+      "access management",
+      "visibility",
+      "refuge island",
+      "envelope widening",
+      "intersection crash reduction"
     ]
   },
   {
@@ -3064,7 +3305,16 @@
       "Public health interventions targeting adolescent unlicensed driving could also address co-occurring risky behaviors."
     ],
     "keywords": [
-      "Lane increase"
+      "lane reallocation",
+      "major-minor intersection",
+      "stripes",
+      "left-turn safety",
+      "alert drivers",
+      "advance alert",
+      "profile lines",
+      "low-cost improvement",
+      "rollover risk reduction",
+      "Intersection devices"
     ]
   },
   {
@@ -3152,9 +3402,15 @@
       "The study highlights the need for equitable interventions considering racial disparities in suspension outcomes."
     ],
     "keywords": [
-      "Skid resistance",
-      "line of sight",
-      "Improved safety"
+      "profile lines",
+      "midblock safety",
+      "conflict point reduction",
+      "backplates",
+      "lateral shift",
+      "vehicle control",
+      "signalized intersections",
+      "Automatic crash notification",
+      "law compliance"
     ]
   },
   {
@@ -3244,7 +3500,15 @@
       "Tailored interventions targeting high-risk areas and populations could mitigate the risks associated with unlicensed driving."
     ],
     "keywords": [
-      "speed management"
+      "Signal enforcement",
+      "ISA",
+      "delay reduction",
+      "eCall",
+      "center turn lane",
+      "proactive treatment",
+      "crash reduction",
+      "large vehicle accommodation",
+      "driver yield compliance"
     ]
   },
   {
@@ -3331,8 +3595,15 @@
       "Policy recommendations include broader adoption of electronic verification tools at checkpoints."
     ],
     "keywords": [
-      "signalized intersection",
-      "Midblock crosswalk"
+      "Approach design",
+      "low-light crash reduction",
+      "shoulder safety",
+      "two-lane intersection",
+      "road diet",
+      "sidewalk alternative",
+      "low-cost",
+      "midblock safety",
+      "reduce delay"
     ]
   },
   {
@@ -3421,8 +3692,16 @@
       "Strategies to curb unlicensed driving could significantly reduce crash-related injuries."
     ],
     "keywords": [
-      "geometric constraint",
-      "center turn lane"
+      "occupant protection",
+      "low-light crash reduction",
+      "Improve visibility",
+      "high-occupancy vehicle lane",
+      "conflict energy reduction",
+      "Speed compliance",
+      "sobriety checks",
+      "conflict point reduction",
+      "Lane increase",
+      "crash avoidance"
     ]
   },
   {
@@ -3506,8 +3785,16 @@
       "Technological interventions targeting visual-manual distractions could reduce rear-end crash rates."
     ],
     "keywords": [
-      "nighttime crashes",
-      "driveway control"
+      "Access management",
+      "long segment control",
+      "separate movements",
+      "Right-of-way control",
+      "Turning movement safety",
+      "roadway geometry",
+      "driveway control",
+      "reduce nighttime crashes",
+      "energy efficiency",
+      "policy change"
     ]
   },
   {
@@ -3593,9 +3880,16 @@
       "Educational programs emphasizing safe vehicle choices and weather-aware driving could mitigate risks."
     ],
     "keywords": [
-      "visibility",
-      "conflict management",
-      "intelligent control"
+      "real-time warning",
+      "fixed object shielding",
+      "Median island",
+      "Bike lanes",
+      "crossing safety",
+      "center turn lane",
+      "intersection control",
+      "driveway control",
+      "enhanced driver awareness",
+      "vertical deflection"
     ]
   },
   {
@@ -3679,7 +3973,15 @@
       "Emotion-based interventions, focusing on social consequences, may effectively deter distracted driving among young drivers."
     ],
     "keywords": [
-      "exclusive pedestrian phase"
+      "complete streets",
+      "Pedestrian scramble",
+      "Low-speed design",
+      "Dutch signals",
+      "head start",
+      "pedestrian priority",
+      "intersection corner treatment",
+      "LED signals",
+      "maneuvering space"
     ]
   },
   {
@@ -3763,7 +4065,16 @@
       "Driver inexperience amplifies the severity of crashes, especially in clusters involving complex traffic environments."
     ],
     "keywords": [
-      "Street lighting"
+      "intersection corner treatment",
+      "channelization",
+      "Visual guidance",
+      "turning lane",
+      "access control",
+      "cycling protection",
+      "centerline safety",
+      "long straight segment safety",
+      "speed cue",
+      "stop control"
     ]
   },
   {
@@ -3847,9 +4158,14 @@
       "Environmental factors like cloudy weather and nighttime driving amplify the risks of cellphone distractions."
     ],
     "keywords": [
-      "lens size",
-      "Flashing warning",
-      "buffer conversion"
+      "vibration cue",
+      "planters",
+      "urban signals",
+      "high-visibility alert",
+      "pedestrian detection",
+      "real-time warning",
+      "Traffic control",
+      "high-crash locations"
     ]
   },
   {
@@ -3937,7 +4253,15 @@
       "The average hospital cost attributable to single-bicycle crashes is \u20ac1,701."
     ],
     "keywords": [
-      "intersection conversion"
+      "legal compliance",
+      "multimodal integration",
+      "Signal upgrade",
+      "reduce intersection delay",
+      "bicycle safety",
+      "overtaking zone",
+      "yield compliance",
+      "Vehicle setback",
+      "skid control"
     ]
   },
   {
@@ -4025,8 +4349,15 @@
       "Targeted interventions, including better lighting and road design improvements, are suggested for high-risk areas."
     ],
     "keywords": [
-      "separated bike lane",
-      "bicycle priority"
+      "head-on conflict reduction",
+      "vertical deflection",
+      "uniform brightness",
+      "Roundabout",
+      "crash separation",
+      "Signal redundancy",
+      "dynamic speed display",
+      "Advanced markings",
+      "rural highway"
     ]
   },
   {
@@ -4114,7 +4445,16 @@
       "Separation of bicycle and motor vehicle lanes reduces crash severity significantly."
     ],
     "keywords": [
-      "protected phasing"
+      "intersection awareness",
+      "conflict energy reduction",
+      "run-off-road crashes",
+      "uncontrolled crossing",
+      "posted limit",
+      "intersection safety",
+      "advance alert",
+      "remove distraction",
+      "energy-efficient lighting",
+      "planters"
     ]
   },
   {
@@ -4202,9 +4542,16 @@
       "The findings support the development of adaptive vehicle safety systems and informed policymaking."
     ],
     "keywords": [
-      "intersection conversion",
-      "dynamic warning",
-      "legal mandate"
+      "roadway departure mitigation",
+      "Guardrail",
+      "behavioral design",
+      "pedestrian path",
+      "speed compliance",
+      "recovery zone",
+      "Wet pavement safety",
+      "reflective tapes",
+      "curve alignment",
+      "policy"
     ]
   },
   {
@@ -4292,9 +4639,14 @@
       "Future research should explore cyclist demographics and regional design adaptations."
     ],
     "keywords": [
-      "rural safety",
-      "edge protection",
-      "2+1 roads"
+      "Protected intersection",
+      "intelligent control",
+      "rural highway",
+      "crash severity",
+      "combined treatment",
+      "safer turns",
+      "reduce head-on collisions",
+      "separate movements"
     ]
   },
   {
@@ -4383,7 +4735,16 @@
       "Roadside safety improvements could significantly reduce motorcycle fatalities."
     ],
     "keywords": [
-      "rear-end crash reduction"
+      "lane reallocation",
+      "intersection alert",
+      "Gateways",
+      "automated enforcement",
+      "legal consequence",
+      "improved angle",
+      "turning control",
+      "LDWS",
+      "Indirect left turns",
+      "road diet"
     ]
   },
   {
@@ -4472,7 +4833,15 @@
       "Curve design improvements could reduce crash incidences and severity."
     ],
     "keywords": [
-      "Speed compliance"
+      "alert drivers",
+      "improved angle",
+      "bicycle priority",
+      "separation from traffic",
+      "pedestrian crossing",
+      "reflectivity",
+      "Seatbelt law",
+      "loss of control prevention",
+      "conflict mitigation"
     ]
   },
   {
@@ -4562,8 +4931,16 @@
       "Findings support targeted countermeasures based on crash type and contributing factors."
     ],
     "keywords": [
-      "reduce intersection delay",
-      "road geometry"
+      "tactile feedback",
+      "visibility improvement",
+      "driver assistance",
+      "vehicle-based alert",
+      "diagonal crossing",
+      "Access management",
+      "real-time warning",
+      "behavioral feedback",
+      "Drowsy driving alert",
+      "2+1 roads"
     ]
   },
   {
@@ -4652,7 +5029,14 @@
       "Targeted interventions for intoxicated riders could improve helmet compliance and reduce severe injuries."
     ],
     "keywords": [
-      "run-off-road crashes"
+      "conflict angle reduction",
+      "roadside recovery",
+      "reduce nighttime crashes",
+      "vehicle alignment",
+      "pedestrian crossing",
+      "impaired driving deterrent",
+      "low-cost improvement",
+      "nighttime compliance"
     ]
   },
   {
@@ -4740,9 +5124,14 @@
       "The economic recession period (2008-2009) marked a shift in fatality trends."
     ],
     "keywords": [
-      "vehicle-based alert",
-      "urban signals",
-      "pedestrian detection"
+      "Pedestrian priority",
+      "rumble strips",
+      "high-speed roads",
+      "visibility treatment",
+      "lane reallocation",
+      "improved angle",
+      "vertical separation",
+      "lane expansion"
     ]
   },
   {
@@ -4831,8 +5220,15 @@
       "Targeted intersection designs and pedestrian safety measures are crucial."
     ],
     "keywords": [
-      "Vehicle activated sign",
-      "Signal timing"
+      "crash deterrent",
+      "multimodal safety",
+      "Visibility",
+      "speed moderation",
+      "contrast enhancement",
+      "active warning",
+      "prevent bus-vehicle conflicts",
+      "Protected bike lane",
+      "exposure reduction"
     ]
   },
   {
@@ -4921,7 +5317,15 @@
       "Localized safety measures based on spatio-temporal trends improve effectiveness."
     ],
     "keywords": [
-      "low-light safety"
+      "intersection leveling",
+      "advanced stop line",
+      "raised approach",
+      "unintentional departure",
+      "ICWS",
+      "Vertical deflection",
+      "Raised median",
+      "driveway control",
+      "turning lane"
     ]
   },
   {
@@ -5010,9 +5414,15 @@
       "Countermeasures include improved lighting and pedestrian-friendly signal designs."
     ],
     "keywords": [
-      "reflective tapes",
-      "Dutch signals",
-      "Pedestrian priority"
+      "separated bike lane",
+      "separate movements",
+      "diagonal crossing",
+      "vehicle-based alert",
+      "midblock safety",
+      "Left-turn lane",
+      "slope design",
+      "visibility aid",
+      "driver assistance"
     ]
   },
   {
@@ -5102,9 +5512,15 @@
       "Lighting improvements and targeted safety campaigns are recommended for high-risk areas."
     ],
     "keywords": [
-      "traffic calming",
-      "maneuvering space",
-      "crash barrier"
+      "Lane narrowing",
+      "roadway adaptation",
+      "flexi-posts",
+      "Automated enforcement",
+      "intersection control",
+      "improve sign recognition",
+      "improve flow",
+      "vertical separation",
+      "lower speed"
     ]
   },
   {
@@ -5194,9 +5610,14 @@
       "Targeted countermeasures are necessary for high-risk time periods and locations."
     ],
     "keywords": [
-      "pedestrian refuge",
+      "real-time warning",
+      "crash deterrent",
+      "four to five",
+      "sobriety checks",
+      "Dual turn lanes",
       "lane discipline",
-      "safety improvement"
+      "roadway geometry",
+      "impaired driving deterrent"
     ]
   },
   {
@@ -5284,9 +5705,16 @@
       "Longer signal phases and optimized timing can significantly reduce rear-end crashes."
     ],
     "keywords": [
-      "lane departure warning",
-      "visual cue",
-      "nighttime visibility"
+      "restriping",
+      "noise strip",
+      "operational safety",
+      "Intersection visibility",
+      "safety improvement",
+      "Horizontal deflection",
+      "delineators",
+      "geometric safety",
+      "physical separation",
+      "Vertical deflection"
     ]
   },
   {
@@ -5375,8 +5803,14 @@
       "The results emphasize the importance of optimizing intersection design and traffic signal timing."
     ],
     "keywords": [
-      "backplates",
-      "diagonal crossing"
+      "Night visibility",
+      "speed limiter",
+      "visibility enhancement",
+      "speed reduction",
+      "sightlines",
+      "chicanes",
+      "roadside hazard mitigation",
+      "lane deviation"
     ]
   },
   {
@@ -5464,9 +5898,14 @@
       "Field validation confirmed the accuracy of simulation-based safety assessments."
     ],
     "keywords": [
-      "reduce transit delays",
-      "risk-based placement",
-      "separate movements"
+      "enforcement strategy",
+      "transit access",
+      "vehicle alignment",
+      "lane increase",
+      "alert drivers",
+      "speed compliance",
+      "reduce head-on collisions",
+      "severity reduction"
     ]
   },
   {
@@ -5555,9 +5994,16 @@
       "Safety measures such as advanced warning systems and signal timing adjustments are recommended based on regional needs."
     ],
     "keywords": [
-      "intersection corner treatment",
-      "Visibility in rain",
-      "vehicle technology"
+      "conflict mitigation",
+      "Head-on crash prevention",
+      "Barrier installation",
+      "residential safety",
+      "roadway departure mitigation",
+      "Paved shoulders",
+      "rollover risk reduction",
+      "intersection leveling",
+      "turning safety",
+      "Left-turn safety"
     ]
   },
   {
@@ -5645,8 +6091,14 @@
       "MARS models capture complex variable interactions more effectively than GLM."
     ],
     "keywords": [
-      "geometric safety",
-      "Edge drop prevention"
+      "Transverse rumble strips",
+      "signal visibility",
+      "conflict illumination",
+      "noise alert",
+      "Sidewalk",
+      "pavement marking",
+      "planters",
+      "lane discipline"
     ]
   },
   {
@@ -5733,9 +6185,16 @@
       "Enhanced traffic segregation and volume management can mitigate crash risks."
     ],
     "keywords": [
-      "conflict angle reduction",
-      "road diet",
-      "vehicle technology"
+      "Driver alertness",
+      "transition zone",
+      "cycling protection",
+      "roadside recovery",
+      "community program",
+      "improve sign recognition",
+      "deterrence",
+      "Signal enforcement",
+      "Bike lanes",
+      "Flashing warning"
     ]
   },
   {
@@ -5822,7 +6281,16 @@
       "Combination models improve understanding of complex crash dynamics."
     ],
     "keywords": [
-      "high-friction surface treatment"
+      "2+1 roads",
+      "Visual guidance",
+      "uncontrolled crossing",
+      "tangents",
+      "Dedicated turn lane",
+      "traction",
+      "vehicle stability",
+      "wet visibility",
+      "expressway safety",
+      "Night visibility"
     ]
   },
   {
@@ -5911,9 +6379,15 @@
       "Proper stop line marking is essential for safety improvements."
     ],
     "keywords": [
-      "Drowsy driving alert",
-      "ISA",
-      "Automated enforcement"
+      "Low-speed design",
+      "impaired driving penalties",
+      "conflict angle reduction",
+      "visual cue",
+      "turning control",
+      "urban signals",
+      "dynamic signage",
+      "Signal upgrade",
+      "reduce rear-end/head-on crashes"
     ]
   },
   {
@@ -6002,9 +6476,16 @@
       "Empirical Bayes methods effectively rank hazardous intersections."
     ],
     "keywords": [
-      "speed calming",
-      "midblock safety",
-      "visibility triangle"
+      "visual barrier",
+      "buffer space",
+      "two-lane intersection",
+      "overhead flashers",
+      "Managed lane",
+      "Head-on crash prevention",
+      "vehicle technology",
+      "conflict angle reduction",
+      "delineators",
+      "high-speed roads"
     ]
   },
   {
@@ -6092,9 +6573,15 @@
       "Foggy and rainy weather conditions exacerbate injury severity."
     ],
     "keywords": [
-      "road diet",
       "Bike lane upgrade",
-      "Protected intersection"
+      "Dual turn lanes",
+      "enhanced sight distance",
+      "conflict mitigation",
+      "policy",
+      "run-off recovery",
+      "Visibility in rain",
+      "signal visibility",
+      "Night visibility"
     ]
   },
   {
@@ -6184,8 +6671,15 @@
       "Recommendations include geometric design improvements and targeted safety audits."
     ],
     "keywords": [
-      "combined signage",
-      "Self-enforcing design"
+      "conflict illumination",
+      "2+1 roads",
+      "driver alertness",
+      "turning safety",
+      "Intersection devices",
+      "Signal redundancy",
+      "high-friction surface treatment",
+      "speed calming",
+      "enforcement duration"
     ]
   },
   {
@@ -6275,9 +6769,16 @@
       "Recommendations include enhanced signage, lighting, and targeted public awareness campaigns."
     ],
     "keywords": [
-      "night visibility",
-      "conflict management",
-      "crash separation"
+      "buffer space",
+      "longitudinal barrier",
+      "edge safety",
+      "turning control",
+      "dynamic warning",
+      "sidewalk alternative",
+      "roadside design",
+      "crosswalk enhancement",
+      "yield compliance",
+      "slope safety"
     ]
   },
   {
@@ -6366,7 +6867,14 @@
       "Recommendations emphasize deploying streetlights and enhancing visibility at critical points."
     ],
     "keywords": [
-      "painted bike lane"
+      "bicycle priority",
+      "visual narrowing",
+      "reduce crossing conflicts",
+      "turning room",
+      "approach speed control",
+      "impaired driving penalties",
+      "reduce intersection delay",
+      "advanced stop line"
     ]
   },
   {
@@ -6455,9 +6963,16 @@
       "Countermeasures include improved road markings, median barriers, and speed management."
     ],
     "keywords": [
-      "head start",
-      "active transportation",
-      "buffered bike lane"
+      "Rumble strips",
+      "community program",
+      "Alcohol interlock",
+      "Vehicle setback",
+      "Raised crosswalk",
+      "pavement marking",
+      "urban roads",
+      "lateral shift",
+      "automated enforcement",
+      "reduced violations"
     ]
   },
   {
@@ -6547,7 +7062,15 @@
       "Recommendations include implementing passing lanes and enhancing road marking systems."
     ],
     "keywords": [
-      "Run-off-road recovery"
+      "Driver alertness",
+      "Corner blisters",
+      "compliance",
+      "signalized intersections",
+      "rural safety",
+      "deter red-light running",
+      "significant speed reduction",
+      "run-off recovery",
+      "visual narrowing"
     ]
   },
   {
@@ -6637,7 +7160,14 @@
       "Enhanced lighting and improved ramp signage are critical countermeasures."
     ],
     "keywords": [
-      "Bicycle lane markings"
+      "roadside hazard mitigation",
+      "legal mandate",
+      "emergency stop",
+      "four-lane road",
+      "uncontrolled location",
+      "Pedestrian beacon",
+      "intersection conversion",
+      "channelization"
     ]
   },
   {
@@ -6725,9 +7255,15 @@
       "Recommendations include widening medians and strategically placing barriers in high-risk areas."
     ],
     "keywords": [
-      "roadside design",
-      "expressway safety",
-      "Run-off-road crash reduction"
+      "injury prevention",
+      "intersection alert",
+      "yield line",
+      "neighborhood entry",
+      "real-time alerts",
+      "LED signals",
+      "intelligent control",
+      "intersection crash reduction",
+      "minor reconfiguration"
     ]
   },
   {
@@ -6816,8 +7352,16 @@
       "Hotspots were identified near interchanges, prompting recommendations for targeted design improvements."
     ],
     "keywords": [
-      "crash risk reduction",
-      "lane increase"
+      "roadside buffer",
+      "multilane intersections",
+      "Dutch signals",
+      "major-minor intersection",
+      "turning safety",
+      "run-off-road crashes",
+      "flashing alert",
+      "lane departure warning",
+      "Signal upgrade",
+      "bicycle priority"
     ]
   },
   {
@@ -6905,7 +7449,14 @@
       "Implementation of targeted countermeasures, such as enhanced signage and ramp designs, is recommended for identified hotspots."
     ],
     "keywords": [
-      "Intersection lighting"
+      "Indirect left turns",
+      "Signal visibility",
+      "Sidewalk",
+      "major-minor intersection",
+      "crash risk reduction",
+      "keep vehicle in lane",
+      "vehicle control",
+      "speed control"
     ]
   },
   {
@@ -6994,8 +7545,15 @@
       "Improved lane markings and dynamic speed management systems are recommended for high-risk segments."
     ],
     "keywords": [
-      "reduced violations",
-      "traffic safety policy"
+      "illumination",
+      "Access management",
+      "fail-safe indicator for red light compliance",
+      "Lane separation",
+      "pedestrian infrastructure",
+      "centerline safety",
+      "visual cue",
+      "Drowsy driving alert",
+      "longitudinal guidance"
     ]
   },
   {
@@ -7083,9 +7641,14 @@
       "The study highlights the utility of multilevel modeling in crash severity analysis."
     ],
     "keywords": [
-      "diagonal crossing",
-      "crash severity",
-      "visibility"
+      "Street lighting",
+      "Centerline rumble strips",
+      "neighborhood entry",
+      "vehicle control",
+      "inattentiveness mitigation",
+      "surface quality",
+      "vehicle stability",
+      "approach speed control"
     ]
   },
   {
@@ -7172,7 +7735,15 @@
       "Recommendations focus on pavement enhancements and speed management."
     ],
     "keywords": [
-      "Drowsy driving"
+      "sobriety checks",
+      "policy",
+      "run-off-road",
+      "slope safety",
+      "pedestrian detection",
+      "refuge island",
+      "pedestrian sight distance",
+      "visibility enhancement",
+      "rural highway safety"
     ]
   },
   {
@@ -7261,8 +7832,14 @@
       "Design improvements like increased curve radii and strategic signage are recommended."
     ],
     "keywords": [
-      "Run-off-road recovery",
-      "visibility treatment"
+      "dynamic speed display",
+      "urban roads",
+      "lane deviation alert",
+      "buffer conversion",
+      "pedestrian refuge",
+      "multilane intersections",
+      "advanced driver warning",
+      "rumble strips"
     ]
   },
   {
@@ -7351,8 +7928,14 @@
       "The model underscores the value of considering unobserved heterogeneity in crash analysis."
     ],
     "keywords": [
-      "enforcement duration",
-      "Right-of-way control"
+      "systemic safety",
+      "inattentiveness mitigation",
+      "reduce head-on collisions",
+      "impaired driver detection",
+      "nighttime crashes",
+      "intersection conversion",
+      "Roundabout",
+      "separated bike lane"
     ]
   },
   {
@@ -7440,8 +8023,15 @@
       "Recommendations include enhancing roadway cues and marking for safer transitions."
     ],
     "keywords": [
-      "driver alertness",
-      "Separated bike lane"
+      "reliability",
+      "transit access",
+      "alertness enhancement",
+      "risk-based placement",
+      "speed calming",
+      "deterrence",
+      "road geometry",
+      "crash deterrent",
+      "community program"
     ]
   },
   {
@@ -7525,7 +8115,16 @@
       "Recommendations include the implementation of forgiving roadside designs and enhanced barrier systems."
     ],
     "keywords": [
-      "hydroplaning prevention"
+      "exposure reduction",
+      "pedestrian crossing",
+      "nonmotorized mobility",
+      "roadway geometry",
+      "road geometry",
+      "eCall",
+      "Raised median",
+      "distraction mitigation",
+      "pedestrian priority",
+      "stop control"
     ]
   },
   {
@@ -7610,7 +8209,16 @@
       "CPMs offer a proactive tool for identifying hazardous road sections."
     ],
     "keywords": [
-      "nighttime crashes"
+      "injury prevention",
+      "roadway adaptation",
+      "signalized intersections",
+      "unintentional departure",
+      "lens size",
+      "crash barrier",
+      "visibility treatment",
+      "Automated enforcement",
+      "crash severity mitigation",
+      "BAC test refusal"
     ]
   },
   {
@@ -7694,8 +8302,15 @@
       "Predictive models demonstrate high accuracy, supporting their use in proactive safety management."
     ],
     "keywords": [
-      "Protected bike lane",
-      "high-friction surface treatment"
+      "Pedestrian scramble",
+      "hydroplaning prevention",
+      "conflict elimination",
+      "space buffer",
+      "intersection crash reduction",
+      "school zone visibility",
+      "ignition lock",
+      "real-time alerts",
+      "Access management"
     ]
   },
   {
@@ -7780,9 +8395,16 @@
       "Targeted training programs for truck drivers can enhance awareness of specific ROR risks."
     ],
     "keywords": [
-      "low-light safety",
-      "Speed compliance",
-      "loss of control prevention"
+      "reduce delay",
+      "rumble strips",
+      "speed cue",
+      "inattentiveness mitigation",
+      "impaired driving deterrent",
+      "safety improvement",
+      "transit access",
+      "systemic safety",
+      "nighttime crashes",
+      "severity reduction"
     ]
   },
   {
@@ -7867,9 +8489,14 @@
       "Data-driven interventions such as enhanced clear zones and the installation of guardrails on high-risk segments are recommended."
     ],
     "keywords": [
-      "distraction mitigation",
-      "ICWS",
-      "combined treatment"
+      "enhanced sight distance",
+      "roadside design",
+      "sobriety checks",
+      "bicycle priority",
+      "access control",
+      "longitudinal protection",
+      "psychological narrowing",
+      "lane discipline"
     ]
   },
   {
@@ -7954,8 +8581,15 @@
       "A combination of treatments tailored to specific roadway contexts yields optimal safety outcomes."
     ],
     "keywords": [
-      "visibility improvement",
-      "Self-enforcing design"
+      "longitudinal barrier",
+      "Vehicle setback",
+      "Seatbelt law",
+      "Sidewalk",
+      "head start",
+      "protected cycling",
+      "safety behavior change",
+      "risk-based approach",
+      "traffic predictability"
     ]
   },
   {
@@ -8039,7 +8673,15 @@
       "Recommendations include integrating narrative analysis into crash reporting systems for better injury prediction."
     ],
     "keywords": [
-      "lane expansion"
+      "crossing aid",
+      "electronic intervention",
+      "Dual turn lanes",
+      "Bike box",
+      "reduce turning conflicts",
+      "Alcohol interlock",
+      "ignition lock",
+      "high-crash locations",
+      "dedicated bike signal"
     ]
   },
   {
@@ -8124,7 +8766,16 @@
       "Recommendations include context-sensitive solutions to balance safety and environmental benefits."
     ],
     "keywords": [
-      "lower speed"
+      "backplates",
+      "Guardrail",
+      "visibility enhancement",
+      "Visibility in rain",
+      "all-weather safety",
+      "signalized intersections",
+      "bike safety",
+      "visual cue",
+      "alternating passing lanes",
+      "nighttime visibility"
     ]
   },
   {
@@ -8208,9 +8859,14 @@
       "Proposed models demonstrated high accuracy in injury severity prediction, supporting their use in safety planning."
     ],
     "keywords": [
-      "LDWS",
-      "crash severity reduction",
-      "visibility"
+      "traffic safety policy",
+      "rural highway safety",
+      "tactile warning",
+      "lane deviation",
+      "walking infrastructure",
+      "median safety",
+      "reduce angle crashes",
+      "four to five"
     ]
   },
   {
@@ -8295,8 +8951,14 @@
       "Recommendations include context-sensitive urban tree placement strategies to balance safety and aesthetic benefits."
     ],
     "keywords": [
-      "driver guidance",
-      "overtaking zone"
+      "speed monitoring",
+      "reduced violations",
+      "turning safety",
+      "bicycle priority",
+      "tactile feedback",
+      "crash severity reduction",
+      "Roundabout",
+      "Pavement width"
     ]
   },
   {
@@ -8380,7 +9042,16 @@
       "Recommendations include tree removal or protective measures in high-risk zones."
     ],
     "keywords": [
-      "transition zone"
+      "Night visibility",
+      "advanced driver warning",
+      "pedestrian infrastructure",
+      "red light buffer",
+      "Transit priority",
+      "turning radius improvement",
+      "vehicle stability",
+      "Approach design",
+      "median safety",
+      "rear-end crash reduction"
     ]
   },
   {
@@ -8463,8 +9134,14 @@
       "Recommendations include enhanced narrative analysis in crash reporting to support machine learning applications."
     ],
     "keywords": [
-      "Walkways",
-      "exclusive pedestrian phase"
+      "speed reduction",
+      "enhanced delineation",
+      "Resurfacing",
+      "run-off recovery",
+      "Lateral space",
+      "flashing alert",
+      "crash reduction",
+      "LED signals"
     ]
   },
   {
@@ -8549,8 +9226,16 @@
       "Safety recommendations include the implementation of motorcycle-friendly guardrails and enhanced visibility measures."
     ],
     "keywords": [
-      "vehicle stability",
-      "expressway safety"
+      "Left-turn safety",
+      "maneuvering space",
+      "speed limiter",
+      "multimodal integration",
+      "Crash avoidance",
+      "electronic intervention",
+      "safe cycling infrastructure",
+      "combined treatment",
+      "diagonal crossing",
+      "longitudinal protection"
     ]
   },
   {
@@ -8634,7 +9319,15 @@
       "Recommendations include revising clear zone standards and prioritizing pole relocation in high-risk areas."
     ],
     "keywords": [
-      "Paved shoulders"
+      "Gateways",
+      "Median island",
+      "buffered bike lane",
+      "intersection alert",
+      "enforcement duration",
+      "Signal compliance",
+      "driveway safety",
+      "ISA",
+      "reduce intersection delay"
     ]
   },
   {
@@ -8719,7 +9412,14 @@
       "Recommendations include targeted barrier installations and driver safety awareness programs."
     ],
     "keywords": [
-      "crash severity"
+      "remove distraction",
+      "Midblock crosswalk",
+      "policy",
+      "visibility triangle",
+      "Pedestrian safety",
+      "behavioral design",
+      "separation from traffic",
+      "nighttime recognition"
     ]
   },
   {
@@ -8803,9 +9503,16 @@
       "Integration of ITS technologies was suggested to improve safety in urban work zones."
     ],
     "keywords": [
-      "traffic calming",
-      "manage intersection flow",
-      "crash risk reduction"
+      "red light buffer",
+      "Signal timing",
+      "lane expansion",
+      "crash avoidance",
+      "impaired driver detection",
+      "lane keeping",
+      "combined signage",
+      "rural road safety",
+      "bike-pedestrian safety",
+      "Visibility in rain"
     ]
   },
   {
@@ -8889,7 +9596,14 @@
       "Recommendations include targeted interventions for nighttime work zone safety."
     ],
     "keywords": [
-      "red-light compliance"
+      "behavioral feedback",
+      "reflective tapes",
+      "friction improvement",
+      "urban signals",
+      "crash severity mitigation",
+      "Thermoplastic markings",
+      "separate movements",
+      "urban roads"
     ]
   },
   {
@@ -8972,7 +9686,14 @@
       "Recommendations emphasize the need for time-specific safety measures in work zones."
     ],
     "keywords": [
-      "Median island"
+      "pedestrian crossing",
+      "impaired driver detection",
+      "neighborhood entry",
+      "Wider markings",
+      "signal visibility",
+      "deter red-light running",
+      "signal timing",
+      "conflict reduction"
     ]
   },
   {
@@ -9052,7 +9773,14 @@
       "Recommendations include improving geometric design standards and enhancing driver awareness programs."
     ],
     "keywords": [
-      "added width"
+      "all-weather safety",
+      "long straight segment safety",
+      "reduce rear-end/head-on crashes",
+      "remove distraction",
+      "skid resistance",
+      "visual cue",
+      "energy-efficient lighting",
+      "enhance stop compliance"
     ]
   },
   {
@@ -9135,7 +9863,16 @@
       "Recommendations were provided for targeted interventions to improve work zone safety."
     ],
     "keywords": [
-      "diagonal crossing"
+      "speed monitoring",
+      "roadside safety",
+      "emergency stop",
+      "conflict reduction",
+      "curve alignment",
+      "run-off recovery",
+      "LDWS",
+      "cyclist visibility",
+      "delineators",
+      "roadway geometry"
     ]
   },
   {
@@ -9218,8 +9955,15 @@
       "Recommendations include considering spatial and temporal effects in urban traffic safety planning to better mitigate severe crash outcomes."
     ],
     "keywords": [
-      "vehicle control",
-      "Drowsy driving alert"
+      "head-on collision reduction",
+      "Crash avoidance",
+      "edge protection",
+      "merging safety",
+      "intersection visibility",
+      "channelization",
+      "roadside buffer",
+      "injury prevention",
+      "Separated bike lane"
     ]
   },
   {
@@ -9302,8 +10046,15 @@
       "Improvements in road design, enhanced warning systems, and better driver training programs are suggested to improve truck safety."
     ],
     "keywords": [
-      "run-off-road crash prevention",
-      "reduce crash severity"
+      "enhanced sight distance",
+      "pedestrian refuge",
+      "speed reduction",
+      "reflective tapes",
+      "reflectivity",
+      "high-speed roads",
+      "Protected bike lane",
+      "Left-turn crashes",
+      "enhanced bike safety"
     ]
   },
   {
@@ -9386,8 +10137,14 @@
       "Recommendations include enhanced enforcement of safety standards and broader adoption of crash avoidance technologies to mitigate crash risks."
     ],
     "keywords": [
-      "advance alert",
-      "safety access"
+      "shoulder awareness",
+      "complete streets",
+      "rural highway safety",
+      "Approach design",
+      "alert drivers",
+      "Bike lanes",
+      "bicycle safety",
+      "Run-off-road recovery"
     ]
   },
   {
@@ -9471,8 +10228,15 @@
       "Recommendations included better monitoring of driver performance and policy changes to enhance road lighting and speed regulation."
     ],
     "keywords": [
-      "speed cue",
-      "crash separation"
+      "unintentional departure",
+      "lane guidance",
+      "road geometry",
+      "Edge drop prevention",
+      "Pedestrian safety",
+      "brightness uniformity",
+      "uncontrolled location",
+      "raised approach",
+      "signal timing"
     ]
   },
   {
@@ -9555,7 +10319,14 @@
       "Countermeasures recommended include stricter speed regulations, enhanced road maintenance, and improved driver training programs."
     ],
     "keywords": [
-      "Street lighting"
+      "approaching traffic detection",
+      "capacity",
+      "driver perception",
+      "signalized intersections",
+      "head start",
+      "crash severity reduction",
+      "merging safety",
+      "friction improvement"
     ]
   }
 ]
